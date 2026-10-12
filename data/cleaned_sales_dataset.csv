@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Customer_ID,Segment,Region,Category,Sub_Category,Unit_Price,Quantity,Discount,Sales,Profit,Payment_Method,Customer_Rating,Month,Month_Name,Quarter
+ORD-2023000,2023-01-01,CUST-1102,Corporate,East,Office Supplies,Storage,72.42,2,0.0,144.83,76.76,Credit Card,4.0,1,Jan,1
+ORD-2023001,2023-01-01,CUST-1308,Home Office,North,Office Supplies,Art,148.91,3,0.0,446.73,190.53,Credit Card,4.0,1,Jan,1
+ORD-2023002,2023-01-01,CUST-1169,Consumer,East,Technology,Printers,974.43,2,0.05,1851.43,623.74,Credit Card,4.0,1,Jan,1
+ORD-2023003,2023-01-01,CUST-1020,Home Office,Central,Furniture,Tables,494.62,1,0.1,445.16,76.33,Credit Card,2.0,1,Jan,1
+ORD-2023004,2023-01-02,CUST-1263,Consumer,North,Technology,Laptops,943.13,1,0.05,895.97,269.95,Credit Card,4.0,1,Jan,1
+ORD-2023005,2023-01-02,CUST-1043,Corporate,Central,Office Supplies,Art,22.39,1,0.05,22.39,11.44,Credit Card,3.0,1,Jan,1
+ORD-2023006,2023-01-02,CUST-1052,Consumer,East,Furniture,Chairs,127.51,1,0.3,89.26,-15.34,Bank Transfer,3.0,1,Jan,1
+ORD-2023007,2023-01-03,CUST-1062,Corporate,West,Office Supplies,Paper,94.83,3,0.2,227.6,46.87,Bank Transfer,4.0,1,Jan,1
+ORD-2023008,2023-01-03,CUST-1032,Corporate,East,Technology,Accessories,770.86,2,0.0,1541.73,553.16,UPI,5.0,1,Jan,1
+ORD-2023009,2023-01-03,CUST-1004,Consumer,North,Furniture,Bookcases,440.86,2,0.0,881.73,249.85,UPI,4.0,1,Jan,1
+ORD-2023010,2023-01-04,CUST-1095,Consumer,South,Office Supplies,Appliances,115.78,1,0.0,115.78,58.38,Credit Card,4.0,1,Jan,1
+ORD-2023011,2023-01-04,CUST-1044,Home Office,West,Technology,Phones,345.9,2,0.15,588.03,80.33,UPI,3.0,1,Jan,1
+ORD-2023012,2023-01-04,CUST-1224,Consumer,West,Technology,Accessories,1053.77,2,0.05,2002.16,735.44,Credit Card,2.0,1,Jan,1
+ORD-2023013,2023-01-04,CUST-1171,Consumer,East,Technology,Accessories,888.17,8,0.3,4973.75,322.98,Credit Card,4.0,1,Jan,1
+ORD-2023014,2023-01-05,CUST-1112,Consumer,East,Technology,Printers,677.81,1,0.2,542.25,130.33,Credit Card,3.0,1,Jan,1
+ORD-2023015,2023-01-05,CUST-1171,Consumer,West,Furniture,Tables,468.89,3,0.0,1406.67,371.86,PayPal,4.0,1,Jan,1
+ORD-2023016,2023-01-05,CUST-1394,Consumer,East,Office Supplies,Paper,107.41,1,0.0,107.41,40.63,Bank Transfer,5.0,1,Jan,1
+ORD-2023017,2023-01-06,CUST-1147,Home Office,South,Furniture,Furnishings,334.76,3,0.1,903.86,74.66,Credit Card,4.0,1,Jan,1
+ORD-2023018,2023-01-06,CUST-1297,Consumer,Central,Technology,Printers,692.47,10,0.3,4847.27,421.54,PayPal,5.0,1,Jan,1
+ORD-2023019,2023-01-06,CUST-1008,Corporate,Central,Technology,Accessories,1081.44,3,0.0,3244.32,918.2,Credit Card,5.0,1,Jan,1
+ORD-2023020,2023-01-07,CUST-1339,Consumer,East,Furniture,Furnishings,52.78,2,0.1,95.01,18.57,PayPal,3.0,1,Jan,1
+ORD-2023021,2023-01-07,CUST-1160,Consumer,West,Technology,Laptops,832.11,3,0.05,2371.53,555.73,Credit Card,4.0,1,Jan,1
+ORD-2023022,2023-01-07,CUST-1374,Home Office,South,Technology,Laptops,1086.65,4,0.05,4129.27,1109.82,PayPal,4.0,1,Jan,1
+ORD-2023023,2023-01-07,CUST-1316,Consumer,East,Furniture,Furnishings,147.41,6,0.2,707.57,-36.33,Credit Card,1.0,1,Jan,1
+ORD-2023024,2023-01-08,CUST-1279,Home Office,Central,Technology,Laptops,1045.66,2,0.15,1777.62,430.46,Credit Card,3.0,1,Jan,1
+ORD-2023025,2023-01-08,CUST-1280,Corporate,East,Furniture,Tables,103.45,10,0.0,1034.47,214.91,PayPal,5.0,1,Jan,1
+ORD-2023026,2023-01-08,CUST-1272,Corporate,South,Office Supplies,Paper,51.1,4,0.15,173.75,48.68,Credit Card,4.0,1,Jan,1
+ORD-2023027,2023-01-09,CUST-1312,Corporate,West,Furniture,Furnishings,487.69,1,0.0,487.69,81.2,Credit Card,4.0,1,Jan,1
+ORD-2023028,2023-01-09,CUST-1341,Corporate,South,Technology,Laptops,770.37,1,0.15,654.82,189.07,Credit Card,2.0,1,Jan,1
+ORD-2023029,2023-01-09,CUST-1263,Home Office,East,Office Supplies,Art,127.88,2,0.1,230.19,105.15,Credit Card,3.0,1,Jan,1
+ORD-2023030,2023-01-10,CUST-1369,Consumer,South,Furniture,Tables,288.44,1,0.0,288.44,54.34,Credit Card,4.0,1,Jan,1
+ORD-2023031,2023-01-10,CUST-1395,Home Office,South,Furniture,Tables,181.88,1,0.2,145.51,15.63,PayPal,4.0,1,Jan,1
+ORD-2023032,2023-01-10,CUST-1191,Corporate,North,Furniture,Tables,361.32,1,0.0,361.32,99.8,Credit Card,2.0,1,Jan,1
+ORD-2023033,2023-01-11,CUST-1093,Consumer,North,Office Supplies,Art,116.87,1,0.05,111.03,39.58,PayPal,1.0,1,Jan,1
+ORD-2023034,2023-01-11,CUST-1245,Consumer,North,Furniture,Tables,563.39,2,0.1,1014.1,140.67,PayPal,5.0,1,Jan,1
+ORD-2023035,2023-01-11,CUST-1257,Corporate,West,Technology,Printers,861.03,1,0.05,731.87,141.2,Bank Transfer,4.0,1,Jan,1
+ORD-2023036,2023-01-11,CUST-1064,Consumer,South,Office Supplies,Binders,40.04,1,0.1,36.04,15.0,Credit Card,4.0,1,Jan,1
+ORD-2023037,2023-01-12,CUST-1092,Consumer,South,Office Supplies,Binders,79.45,1,0.2,63.56,16.8,Credit Card,4.0,1,Jan,1
+ORD-2023038,2023-01-12,CUST-1248,Corporate,West,Furniture,Chairs,594.78,2,0.15,1011.12,104.81,Credit Card,5.0,1,Jan,1
+ORD-2023039,2023-01-12,CUST-1036,Corporate,West,Technology,Accessories,258.28,2,0.15,439.08,59.21,Credit Card,5.0,1,Jan,1
+ORD-2023040,2023-01-13,CUST-1176,Home Office,North,Technology,Phones,485.28,6,0.05,2766.09,604.14,PayPal,4.0,1,Jan,1
+ORD-2023041,2023-01-13,CUST-1098,Corporate,West,Furniture,Furnishings,485.37,1,0.05,461.1,63.85,Credit Card,4.0,1,Jan,1
+ORD-2023042,2023-01-13,CUST-1132,Consumer,North,Office Supplies,Appliances,30.02,3,0.0,90.06,35.82,Credit Card,4.0,1,Jan,1
+ORD-2023043,2023-01-14,CUST-1169,Corporate,North,Furniture,Bookcases,96.66,2,0.0,193.32,29.38,Bank Transfer,5.0,1,Jan,1
+ORD-2023044,2023-01-14,CUST-1216,Consumer,North,Furniture,Furnishings,477.43,2,0.2,763.89,15.51,Credit Card,4.0,1,Jan,1
+ORD-2023045,2023-01-14,CUST-1140,Consumer,North,Furniture,Tables,114.64,3,0.05,326.72,52.49,UPI,4.0,1,Jan,1
+ORD-2023046,2023-01-14,CUST-1368,Consumer,Central,Technology,Phones,162.76,1,0.2,130.21,8.87,PayPal,5.0,1,Jan,1
+ORD-2023047,2023-01-15,CUST-1228,Home Office,East,Technology,Accessories,810.87,2,0.1,1459.56,317.27,PayPal,5.0,1,Jan,1
+ORD-2023048,2023-01-15,CUST-1011,Consumer,South,Office Supplies,Art,33.76,2,0.0,67.51,28.4,Credit Card,4.0,1,Jan,1
+ORD-2023049,2023-01-15,CUST-1227,Consumer,South,Office Supplies,Paper,94.39,1,0.0,94.39,46.8,UPI,4.0,1,Jan,1
+ORD-2023050,2023-01-16,CUST-1196,Consumer,Central,Furniture,Tables,353.37,2,0.15,600.73,88.53,PayPal,5.0,1,Jan,1
+ORD-2023051,2023-01-16,CUST-1266,Consumer,West,Furniture,Bookcases,362.99,1,0.0,362.99,105.44,Credit Card,2.0,1,Jan,1
+ORD-2023052,2023-01-16,CUST-1196,Corporate,West,Office Supplies,Storage,142.27,1,0.05,135.15,46.95,Credit Card,5.0,1,Jan,1
+ORD-2023053,2023-01-17,CUST-1204,Corporate,East,Technology,Phones,526.07,3,0.05,1499.3,525.49,Bank Transfer,4.0,1,Jan,1
+ORD-2023054,2023-01-17,CUST-1267,Corporate,Central,Office Supplies,Art,66.49,1,0.15,56.51,24.81,PayPal,4.0,1,Jan,1
+ORD-2023055,2023-01-17,CUST-1102,Home Office,East,Technology,Printers,818.48,1,0.1,736.63,177.43,PayPal,4.0,1,Jan,1
+ORD-2023056,2023-01-18,CUST-1334,Corporate,West,Furniture,Bookcases,488.06,4,0.15,1659.4,158.32,Credit Card,1.0,1,Jan,1
+ORD-2023057,2023-01-18,CUST-1261,Consumer,East,Furniture,Chairs,237.86,2,0.05,451.93,80.59,Credit Card,4.0,1,Jan,1
+ORD-2023058,2023-01-18,CUST-1387,Consumer,Central,Technology,Printers,691.0,3,0.0,2072.99,526.61,Bank Transfer,3.0,1,Jan,1
+ORD-2023059,2023-01-18,CUST-1169,Corporate,East,Technology,Phones,523.79,1,0.0,523.79,139.26,Credit Card,2.0,1,Jan,1
+ORD-2023060,2023-01-19,CUST-1046,Corporate,North,Furniture,Bookcases,257.51,5,0.0,1287.54,385.76,PayPal,5.0,1,Jan,1
+ORD-2023061,2023-01-19,CUST-1302,Consumer,West,Furniture,Tables,342.2,1,0.0,342.2,65.68,Credit Card,4.0,1,Jan,1
+ORD-2023062,2023-01-19,CUST-1237,Consumer,South,Office Supplies,Art,84.57,1,0.0,84.57,42.41,Credit Card,3.0,1,Jan,1
+ORD-2023063,2023-01-20,CUST-1230,Consumer,Central,Technology,Laptops,773.27,4,0.05,2938.43,767.5,Credit Card,4.0,1,Jan,1
+ORD-2023064,2023-01-20,CUST-1033,Consumer,North,Furniture,Furnishings,206.08,3,0.05,587.32,120.89,Credit Card,5.0,1,Jan,1
+ORD-2023065,2023-01-20,CUST-1228,Consumer,North,Office Supplies,Appliances,44.43,1,0.0,44.43,23.01,Credit Card,5.0,1,Jan,1
+ORD-2023066,2023-01-21,CUST-1246,Consumer,Central,Technology,Accessories,267.64,8,0.15,1819.96,407.51,Bank Transfer,3.0,1,Jan,1
+ORD-2023067,2023-01-21,CUST-1061,Corporate,South,Office Supplies,Storage,117.73,1,0.05,111.84,54.46,PayPal,3.0,1,Jan,1
+ORD-2023068,2023-01-21,CUST-1046,Corporate,Central,Office Supplies,Appliances,54.89,2,0.05,104.29,41.85,PayPal,4.0,1,Jan,1
+ORD-2023069,2023-01-21,CUST-1385,Consumer,North,Technology,Laptops,152.85,2,0.1,275.12,86.35,Bank Transfer,2.0,1,Jan,1
+ORD-2023070,2023-01-22,CUST-1068,Consumer,Central,Office Supplies,Art,148.73,2,0.2,237.97,91.92,Bank Transfer,1.0,1,Jan,1
+ORD-2023071,2023-01-22,CUST-1348,Corporate,West,Technology,Phones,1016.39,1,0.1,914.75,276.5,UPI,3.0,1,Jan,1
+ORD-2023072,2023-01-22,CUST-1041,Consumer,West,Furniture,Furnishings,544.82,2,0.05,1035.15,170.4,PayPal,4.0,1,Jan,1
+ORD-2023073,2023-01-23,CUST-1308,Corporate,South,Office Supplies,Storage,56.59,3,0.0,169.78,68.57,Bank Transfer,4.0,1,Jan,1
+ORD-2023074,2023-01-23,CUST-1230,Consumer,South,Furniture,Chairs,186.67,1,0.05,177.34,25.84,Bank Transfer,5.0,1,Jan,1
+ORD-2023075,2023-01-23,CUST-1352,Consumer,West,Technology,Phones,283.86,4,0.0,1135.45,386.51,Credit Card,4.0,1,Jan,1
+ORD-2023076,2023-01-24,CUST-1129,Corporate,East,Technology,Accessories,414.39,1,0.2,331.51,61.39,PayPal,4.0,1,Jan,1
+ORD-2023077,2023-01-24,CUST-1302,Consumer,East,Technology,Accessories,681.18,1,0.2,544.95,73.76,UPI,4.0,1,Jan,1
+ORD-2023078,2023-01-24,CUST-1323,Corporate,North,Office Supplies,Appliances,90.68,2,0.1,163.22,59.6,UPI,5.0,1,Jan,1
+ORD-2023079,2023-01-24,CUST-1256,Consumer,North,Technology,Phones,1029.37,1,0.0,1029.37,360.47,PayPal,4.0,1,Jan,1
+ORD-2023080,2023-01-25,CUST-1308,Corporate,East,Technology,Printers,269.98,5,0.2,1079.92,186.05,PayPal,4.0,1,Jan,1
+ORD-2023081,2023-01-25,CUST-1346,Consumer,Central,Furniture,Bookcases,186.52,1,0.0,186.52,39.79,Credit Card,5.0,1,Jan,1
+ORD-2023082,2023-01-25,CUST-1149,Corporate,North,Technology,Laptops,1159.12,2,0.0,2318.25,875.61,UPI,4.0,1,Jan,1
+ORD-2023083,2023-01-26,CUST-1256,Corporate,North,Technology,Laptops,1092.96,1,0.0,1092.96,403.55,PayPal,4.0,1,Jan,1
+ORD-2023084,2023-01-26,CUST-1017,Consumer,East,Technology,Accessories,612.8,2,0.0,1225.6,416.56,Credit Card,5.0,1,Jan,1
+ORD-2023085,2023-01-26,CUST-1358,Consumer,East,Office Supplies,Binders,67.22,1,0.1,60.5,29.91,PayPal,1.0,1,Jan,1
+ORD-2023086,2023-01-27,CUST-1246,Corporate,North,Technology,Accessories,259.31,1,0.1,233.38,46.68,Credit Card,2.0,1,Jan,1
+ORD-2023087,2023-01-27,CUST-1095,Home Office,Central,Office Supplies,Storage,29.75,1,0.0,29.75,13.94,PayPal,4.0,1,Jan,1
+ORD-2023088,2023-01-27,CUST-1084,Home Office,East,Technology,Phones,889.14,3,0.0,2667.43,702.62,Bank Transfer,4.0,1,Jan,1
+ORD-2023089,2023-01-28,CUST-1118,Consumer,West,Technology,Phones,530.9,1,0.3,371.63,-15.48,Bank Transfer,2.0,1,Jan,1
+ORD-2023090,2023-01-28,CUST-1157,Consumer,North,Furniture,Tables,316.63,3,0.05,854.9,116.96,Credit Card,3.0,1,Jan,1
+ORD-2023091,2023-01-28,CUST-1277,Consumer,Central,Office Supplies,Art,106.77,4,0.05,405.73,155.19,Bank Transfer,4.0,1,Jan,1
+ORD-2023092,2023-01-28,CUST-1033,Consumer,West,Furniture,Chairs,108.62,1,0.0,108.62,30.31,Bank Transfer,3.0,1,Jan,1
+ORD-2023093,2023-01-29,CUST-1236,Home Office,South,Office Supplies,Binders,63.64,1,0.0,63.64,28.4,Bank Transfer,2.0,1,Jan,1
+ORD-2023094,2023-01-29,CUST-1291,Consumer,South,Office Supplies,Appliances,59.79,1,0.05,56.8,21.29,PayPal,4.0,1,Jan,1
+ORD-2023095,2023-01-29,CUST-1245,Consumer,North,Technology,Printers,425.38,1,0.05,404.11,110.91,PayPal,3.0,1,Jan,1
+ORD-2023096,2023-01-30,CUST-1153,Consumer,West,Furniture,Chairs,322.52,2,0.0,645.04,126.9,Bank Transfer,5.0,1,Jan,1
+ORD-2023097,2023-01-30,CUST-1171,Consumer,South,Office Supplies,Binders,123.04,4,0.1,442.94,126.77,PayPal,2.0,1,Jan,1
+ORD-2023098,2023-01-30,CUST-1079,Corporate,West,Office Supplies,Appliances,99.21,5,0.1,446.46,125.95,PayPal,2.0,1,Jan,1
+ORD-2023099,2023-01-31,CUST-1025,Corporate,Central,Technology,Laptops,733.6,1,0.0,733.6,241.37,Bank Transfer,3.0,1,Jan,1
+ORD-2023100,2023-01-31,CUST-1327,Consumer,West,Office Supplies,Appliances,128.24,4,0.0,512.95,249.39,PayPal,3.0,1,Jan,1
+ORD-2023101,2023-01-31,CUST-1187,Corporate,South,Furniture,Bookcases,448.62,1,0.05,426.19,107.76,Bank Transfer,3.0,1,Jan,1
+ORD-2023102,2023-01-31,CUST-1209,Corporate,North,Furniture,Chairs,63.42,1,0.2,50.74,-1.93,PayPal,5.0,1,Jan,1
+ORD-2023103,2023-02-01,CUST-1226,Consumer,West,Technology,Laptops,572.03,3,0.2,1372.87,219.69,UPI,5.0,2,Feb,1
+ORD-2023104,2023-02-01,CUST-1358,Consumer,North,Furniture,Chairs,245.04,1,0.0,245.04,62.95,Credit Card,1.0,2,Feb,1
+ORD-2023105,2023-02-01,CUST-1072,Corporate,North,Technology,Phones,1147.46,1,0.05,1090.09,266.27,Bank Transfer,5.0,2,Feb,1
+ORD-2023106,2023-02-02,CUST-1010,Consumer,Central,Office Supplies,Binders,42.43,3,0.1,114.57,33.28,PayPal,3.0,2,Feb,1
+ORD-2023107,2023-02-02,CUST-1225,Consumer,West,Furniture,Chairs,242.57,8,0.2,1552.44,177.22,UPI,5.0,2,Feb,1
+ORD-2023108,2023-02-02,CUST-1060,Corporate,West,Technology,Accessories,311.59,1,0.0,311.59,86.5,PayPal,4.0,2,Feb,1
+ORD-2023109,2023-02-03,CUST-1397,Home Office,South,Office Supplies,Storage,28.13,6,0.15,143.47,37.51,Bank Transfer,4.0,2,Feb,1
+ORD-2023110,2023-02-03,CUST-1260,Consumer,South,Office Supplies,Binders,46.37,2,0.0,92.73,37.58,Credit Card,4.0,2,Feb,1
+ORD-2023111,2023-02-03,CUST-1080,Consumer,East,Technology,Phones,1015.92,3,0.05,2895.36,907.71,Credit Card,5.0,2,Feb,1
+ORD-2023112,2023-02-04,CUST-1146,Home Office,West,Office Supplies,Art,109.17,3,0.1,294.76,92.55,PayPal,5.0,2,Feb,1
+ORD-2023113,2023-02-04,CUST-1006,Home Office,North,Office Supplies,Appliances,125.61,1,0.1,113.05,53.29,Credit Card,5.0,2,Feb,1
+ORD-2023114,2023-02-04,CUST-1205,Consumer,South,Office Supplies,Art,96.37,3,0.0,289.11,102.28,PayPal,4.0,2,Feb,1
+ORD-2023115,2023-02-04,CUST-1162,Corporate,East,Technology,Accessories,1161.14,3,0.2,2786.74,518.05,Credit Card,5.0,2,Feb,1
+ORD-2023116,2023-02-05,CUST-1351,Consumer,West,Office Supplies,Art,19.43,1,0.1,17.49,6.48,Credit Card,5.0,2,Feb,1
+ORD-2023117,2023-02-05,CUST-1191,Corporate,North,Office Supplies,Art,116.16,1,0.0,116.16,63.32,PayPal,5.0,2,Feb,1
+ORD-2023118,2023-02-05,CUST-1057,Consumer,Central,Technology,Laptops,597.49,1,0.15,507.87,108.92,PayPal,3.0,2,Feb,1
+ORD-2023119,2023-02-06,CUST-1129,Corporate,South,Office Supplies,Art,143.12,2,0.2,228.99,91.53,Credit Card,4.0,2,Feb,1
+ORD-2023120,2023-02-06,CUST-1261,Home Office,South,Office Supplies,Appliances,135.17,1,0.0,135.17,68.12,PayPal,4.0,2,Feb,1
+ORD-2023121,2023-02-06,CUST-1270,Home Office,North,Furniture,Bookcases,527.74,4,0.15,1794.33,70.74,Bank Transfer,4.0,2,Feb,1
+ORD-2023122,2023-02-07,CUST-1180,Corporate,West,Office Supplies,Binders,77.41,1,0.1,69.67,33.02,Credit Card,3.0,2,Feb,1
+ORD-2023123,2023-02-07,CUST-1318,Consumer,West,Office Supplies,Appliances,53.45,1,0.0,53.45,24.53,Credit Card,4.0,2,Feb,1
+ORD-2023124,2023-02-07,CUST-1094,Corporate,West,Office Supplies,Storage,119.18,2,0.0,238.36,129.21,Credit Card,5.0,2,Feb,1
+ORD-2023125,2023-02-07,CUST-1159,Corporate,West,Technology,Laptops,737.63,1,0.05,700.75,257.09,Credit Card,4.0,2,Feb,1
+ORD-2023126,2023-02-08,CUST-1076,Consumer,Central,Technology,Laptops,360.9,4,0.0,1443.61,427.34,PayPal,5.0,2,Feb,1
+ORD-2023127,2023-02-08,CUST-1316,Home Office,North,Office Supplies,Paper,85.78,5,0.1,386.02,132.19,Bank Transfer,3.0,2,Feb,1
+ORD-2023128,2023-02-08,CUST-1250,Home Office,East,Furniture,Bookcases,499.51,3,0.05,1423.61,272.96,Bank Transfer,2.0,2,Feb,1
+ORD-2023129,2023-02-09,CUST-1011,Consumer,East,Technology,Phones,495.47,3,0.2,1189.12,192.44,Credit Card,1.0,2,Feb,1
+ORD-2023130,2023-02-09,CUST-1299,Corporate,South,Furniture,Tables,348.36,1,0.05,330.95,61.32,Credit Card,4.0,2,Feb,1
+ORD-2023131,2023-02-09,CUST-1206,Consumer,Central,Technology,Printers,586.7,3,0.1,1584.1,304.61,Bank Transfer,4.0,2,Feb,1
+ORD-2023132,2023-02-10,CUST-1049,Consumer,West,Office Supplies,Paper,78.13,5,0.05,371.13,127.09,Credit Card,4.0,2,Feb,1
+ORD-2023133,2023-02-10,CUST-1245,Corporate,East,Furniture,Bookcases,453.21,3,0.2,1087.71,109.13,Credit Card,3.0,2,Feb,1
+ORD-2023134,2023-02-10,CUST-1333,Home Office,East,Furniture,Chairs,185.98,2,0.05,353.36,44.41,Credit Card,4.0,2,Feb,1
+ORD-2023135,2023-02-10,CUST-1325,Home Office,South,Office Supplies,Paper,101.94,4,0.0,407.77,197.75,UPI,4.0,2,Feb,1
+ORD-2023136,2023-02-11,CUST-1394,Consumer,East,Office Supplies,Binders,30.41,2,0.2,48.65,15.82,Credit Card,4.0,2,Feb,1
+ORD-2023137,2023-02-11,CUST-1283,Consumer,East,Technology,Phones,970.88,2,0.15,1650.5,279.99,PayPal,4.0,2,Feb,1
+ORD-2023138,2023-02-11,CUST-1369,Corporate,Central,Office Supplies,Paper,15.51,2,0.2,24.81,10.1,Credit Card,4.0,2,Feb,1
+ORD-2023139,2023-02-12,CUST-1205,Home Office,Central,Office Supplies,Art,10.69,3,0.15,27.26,6.72,PayPal,4.0,2,Feb,1
+ORD-2023140,2023-02-12,CUST-1177,Consumer,North,Technology,Laptops,473.33,1,0.1,425.99,91.96,UPI,2.0,2,Feb,1
+ORD-2023141,2023-02-12,CUST-1263,Home Office,North,Technology,Laptops,877.26,6,0.1,4737.19,917.35,PayPal,4.0,2,Feb,1
+ORD-2023142,2023-02-13,CUST-1135,Consumer,Central,Office Supplies,Paper,106.53,1,0.1,95.88,33.53,Credit Card,4.0,2,Feb,1
+ORD-2023143,2023-02-13,CUST-1089,Home Office,North,Technology,Laptops,1176.03,5,0.05,4998.14,1111.14,PayPal,4.0,2,Feb,1
+ORD-2023144,2023-02-13,CUST-1323,Corporate,West,Office Supplies,Art,116.72,2,0.15,198.42,56.12,Credit Card,4.0,2,Feb,1
+ORD-2023145,2023-02-14,CUST-1088,Consumer,South,Technology,Phones,880.24,2,0.0,1760.48,601.58,Credit Card,3.0,2,Feb,1
+ORD-2023146,2023-02-14,CUST-1266,Corporate,West,Furniture,Tables,325.24,6,0.15,1658.75,133.96,UPI,5.0,2,Feb,1
+ORD-2023147,2023-02-14,CUST-1152,Corporate,North,Furniture,Tables,312.18,2,0.1,561.93,87.94,Bank Transfer,4.0,2,Feb,1
+ORD-2023148,2023-02-14,CUST-1020,Home Office,North,Technology,Accessories,1152.39,2,0.0,2304.79,695.58,PayPal,3.0,2,Feb,1
+ORD-2023149,2023-02-15,CUST-1333,Corporate,West,Furniture,Furnishings,561.28,2,0.0,1122.57,247.15,Bank Transfer,4.0,2,Feb,1
+ORD-2023150,2023-02-15,CUST-1076,Corporate,North,Furniture,Chairs,522.68,1,0.0,522.68,94.1,Bank Transfer,3.0,2,Feb,1
+ORD-2023151,2023-02-15,CUST-1035,Home Office,East,Furniture,Tables,73.88,6,0.1,398.94,46.56,Bank Transfer,5.0,2,Feb,1
+ORD-2023152,2023-02-16,CUST-1392,Consumer,South,Office Supplies,Binders,136.82,2,0.0,273.65,108.37,Credit Card,4.0,2,Feb,1
+ORD-2023153,2023-02-16,CUST-1099,Home Office,West,Furniture,Tables,132.34,1,0.0,132.34,31.29,Bank Transfer,4.0,2,Feb,1
+ORD-2023154,2023-02-16,CUST-1148,Consumer,North,Technology,Printers,366.5,1,0.1,329.85,74.88,Credit Card,3.0,2,Feb,1
+ORD-2023155,2023-02-17,CUST-1319,Corporate,South,Technology,Phones,618.08,1,0.0,618.08,180.06,Bank Transfer,4.0,2,Feb,1
+ORD-2023156,2023-02-17,CUST-1101,Corporate,South,Furniture,Bookcases,404.91,2,0.0,809.82,170.58,Credit Card,4.0,2,Feb,1
+ORD-2023157,2023-02-17,CUST-1268,Corporate,North,Furniture,Tables,402.09,2,0.1,723.77,128.13,Credit Card,4.0,2,Feb,1
+ORD-2023158,2023-02-17,CUST-1341,Corporate,East,Office Supplies,Art,112.29,1,0.05,106.68,45.7,UPI,3.0,2,Feb,1
+ORD-2023159,2023-02-18,CUST-1286,Consumer,East,Office Supplies,Binders,115.86,3,0.15,295.45,114.87,UPI,3.0,2,Feb,1
+ORD-2023160,2023-02-18,CUST-1347,Corporate,West,Office Supplies,Appliances,44.11,1,0.0,44.11,18.33,Bank Transfer,5.0,2,Feb,1
+ORD-2023161,2023-02-18,CUST-1271,Corporate,North,Furniture,Furnishings,216.72,2,0.0,433.44,112.92,UPI,4.0,2,Feb,1
+ORD-2023162,2023-02-19,CUST-1330,Corporate,East,Office Supplies,Binders,138.71,10,0.15,1179.08,416.99,Credit Card,5.0,2,Feb,1
+ORD-2023163,2023-02-19,CUST-1041,Consumer,Central,Furniture,Chairs,527.43,4,0.0,2109.72,377.87,Credit Card,4.0,2,Feb,1
+ORD-2023164,2023-02-19,CUST-1065,Consumer,Central,Technology,Accessories,823.02,1,0.15,699.57,104.22,UPI,4.0,2,Feb,1
+ORD-2023165,2023-02-20,CUST-1109,Consumer,Central,Office Supplies,Appliances,125.53,1,0.05,119.25,46.03,PayPal,3.0,2,Feb,1
+ORD-2023166,2023-02-20,CUST-1172,Consumer,East,Furniture,Furnishings,565.05,1,0.15,480.29,10.5,Credit Card,1.0,2,Feb,1
+ORD-2023167,2023-02-20,CUST-1129,Consumer,East,Office Supplies,Storage,36.85,2,0.15,62.64,26.35,PayPal,4.0,2,Feb,1
+ORD-2023168,2023-02-21,CUST-1082,Consumer,South,Technology,Phones,256.1,1,0.05,243.29,63.04,UPI,5.0,2,Feb,1
+ORD-2023169,2023-02-21,CUST-1358,Corporate,East,Technology,Phones,597.39,5,0.05,2837.59,986.86,Credit Card,4.0,2,Feb,1
+ORD-2023170,2023-02-21,CUST-1091,Corporate,West,Furniture,Bookcases,56.07,2,0.0,112.13,26.64,Credit Card,5.0,2,Feb,1
+ORD-2023171,2023-02-21,CUST-1313,Consumer,North,Technology,Phones,403.26,4,0.3,1129.13,-74.82,PayPal,2.0,2,Feb,1
+ORD-2023172,2023-02-22,CUST-1187,Home Office,North,Furniture,Chairs,318.53,1,0.1,286.68,56.54,PayPal,4.0,2,Feb,1
+ORD-2023173,2023-02-22,CUST-1041,Consumer,North,Office Supplies,Appliances,102.22,4,0.0,408.87,147.78,Credit Card,5.0,2,Feb,1
+ORD-2023174,2023-02-22,CUST-1231,Consumer,South,Furniture,Bookcases,297.57,5,0.05,1413.45,321.31,UPI,2.0,2,Feb,1
+ORD-2023175,2023-02-23,CUST-1086,Consumer,West,Office Supplies,Appliances,102.26,1,0.0,102.26,39.83,PayPal,4.0,2,Feb,1
+ORD-2023176,2023-02-23,CUST-1365,Corporate,East,Office Supplies,Art,35.93,1,0.1,32.33,14.91,Bank Transfer,3.0,2,Feb,1
+ORD-2023177,2023-02-23,CUST-1037,Home Office,South,Technology,Printers,957.68,2,0.0,1915.37,586.68,Credit Card,4.0,2,Feb,1
+ORD-2023178,2023-02-24,CUST-1077,Corporate,North,Technology,Phones,1166.91,1,0.3,816.84,-23.11,PayPal,4.0,2,Feb,1
+ORD-2023179,2023-02-24,CUST-1350,Corporate,North,Furniture,Furnishings,236.05,1,0.0,236.05,37.96,Credit Card,4.0,2,Feb,1
+ORD-2023180,2023-02-24,CUST-1113,Consumer,North,Office Supplies,Art,134.17,1,0.15,114.04,36.33,Bank Transfer,5.0,2,Feb,1
+ORD-2023181,2023-02-24,CUST-1232,Corporate,East,Furniture,Chairs,513.1,4,0.1,1847.16,186.21,Credit Card,4.0,2,Feb,1
+ORD-2023182,2023-02-25,CUST-1234,Consumer,North,Technology,Printers,288.32,4,0.05,1153.26,335.72,PayPal,5.0,2,Feb,1
+ORD-2023183,2023-02-25,CUST-1277,Corporate,East,Furniture,Chairs,108.26,1,0.05,102.85,24.61,Bank Transfer,4.0,2,Feb,1
+ORD-2023184,2023-02-25,CUST-1135,Home Office,West,Furniture,Furnishings,534.8,1,0.2,427.84,31.19,PayPal,3.0,2,Feb,1
+ORD-2023185,2023-02-26,CUST-1383,Consumer,South,Office Supplies,Storage,119.73,1,0.15,101.77,34.62,Credit Card,4.0,2,Feb,1
+ORD-2023186,2023-02-26,CUST-1013,Consumer,South,Office Supplies,Appliances,30.84,5,0.3,107.96,29.13,Credit Card,4.0,2,Feb,1
+ORD-2023187,2023-02-26,CUST-1019,Consumer,East,Office Supplies,Storage,10.26,1,0.0,10.26,5.28,Credit Card,4.0,2,Feb,1
+ORD-2023188,2023-02-27,CUST-1272,Corporate,West,Furniture,Furnishings,107.28,3,0.0,321.83,85.67,PayPal,4.0,2,Feb,1
+ORD-2023189,2023-02-27,CUST-1158,Consumer,North,Technology,Accessories,211.48,4,0.1,761.32,211.36,Bank Transfer,4.0,2,Feb,1
+ORD-2023190,2023-02-27,CUST-1172,Corporate,North,Technology,Accessories,539.99,4,0.15,1835.98,519.73,Bank Transfer,3.0,2,Feb,1
+ORD-2023191,2023-02-27,CUST-1160,Consumer,North,Furniture,Furnishings,427.25,3,0.1,1153.58,65.8,UPI,3.0,2,Feb,1
+ORD-2023192,2023-02-28,CUST-1060,Consumer,North,Office Supplies,Storage,126.44,2,0.0,252.88,125.28,UPI,3.0,2,Feb,1
+ORD-2023193,2023-02-28,CUST-1301,Home Office,North,Technology,Phones,992.78,2,0.0,1985.55,657.76,Credit Card,4.0,2,Feb,1
+ORD-2023194,2023-02-28,CUST-1128,Corporate,North,Office Supplies,Art,95.43,4,0.1,343.55,161.44,UPI,2.0,2,Feb,1
+ORD-2023195,2023-03-01,CUST-1363,Consumer,North,Technology,Laptops,1101.57,1,0.15,936.33,234.16,Credit Card,5.0,3,Mar,1
+ORD-2023196,2023-03-01,CUST-1043,Consumer,North,Technology,Printers,1101.76,2,0.05,2093.34,725.2,Credit Card,5.0,3,Mar,1
+ORD-2023197,2023-03-01,CUST-1159,Consumer,Central,Office Supplies,Art,65.08,4,0.1,234.3,74.05,PayPal,5.0,3,Mar,1
+ORD-2023198,2023-03-02,CUST-1068,Consumer,South,Office Supplies,Binders,53.22,8,0.0,425.74,153.52,Credit Card,4.0,3,Mar,1
+ORD-2023199,2023-03-02,CUST-1382,Corporate,East,Technology,Accessories,1179.54,2,0.05,2241.13,745.21,Bank Transfer,4.0,3,Mar,1
+ORD-2023200,2023-03-02,CUST-1097,Home Office,South,Technology,Laptops,298.01,1,0.0,298.01,89.52,Bank Transfer,4.0,3,Mar,1
+ORD-2023201,2023-03-03,CUST-1166,Corporate,North,Furniture,Furnishings,245.79,4,0.05,933.98,101.55,Credit Card,5.0,3,Mar,1
+ORD-2023202,2023-03-03,CUST-1153,Corporate,North,Technology,Laptops,282.57,1,0.0,282.57,85.07,UPI,4.0,3,Mar,1
+ORD-2023203,2023-03-03,CUST-1283,Consumer,East,Office Supplies,Binders,137.29,2,0.0,274.58,121.43,PayPal,5.0,3,Mar,1
+ORD-2023204,2023-03-03,CUST-1177,Home Office,North,Technology,Phones,699.5,4,0.05,2658.09,858.79,PayPal,5.0,3,Mar,1
+ORD-2023205,2023-03-04,CUST-1046,Corporate,North,Technology,Laptops,880.69,1,0.15,748.59,115.38,UPI,3.0,3,Mar,1
+ORD-2023206,2023-03-04,CUST-1039,Consumer,North,Furniture,Furnishings,541.69,1,0.05,514.61,82.26,PayPal,2.0,3,Mar,1
+ORD-2023207,2023-03-04,CUST-1031,Corporate,Central,Technology,Accessories,588.65,3,0.1,1589.35,269.1,Credit Card,5.0,3,Mar,1
+ORD-2023208,2023-03-05,CUST-1222,Corporate,North,Office Supplies,Storage,14.11,1,0.0,14.11,5.44,UPI,3.0,3,Mar,1
+ORD-2023209,2023-03-05,CUST-1264,Consumer,West,Office Supplies,Binders,148.33,3,0.0,444.99,164.53,Credit Card,5.0,3,Mar,1
+ORD-2023210,2023-03-05,CUST-1075,Consumer,North,Technology,Laptops,241.54,2,0.2,386.46,44.51,Bank Transfer,3.0,3,Mar,1
+ORD-2023211,2023-03-06,CUST-1074,Home Office,East,Office Supplies,Paper,147.07,1,0.05,132.37,47.53,Credit Card,4.0,3,Mar,1
+ORD-2023212,2023-03-06,CUST-1155,Corporate,Central,Office Supplies,Paper,20.17,1,0.15,17.15,7.76,Credit Card,4.0,3,Mar,1
+ORD-2023213,2023-03-06,CUST-1020,Consumer,West,Technology,Phones,1098.79,4,0.0,4395.15,1604.6,UPI,4.0,3,Mar,1
+ORD-2023214,2023-03-06,CUST-1133,Consumer,South,Office Supplies,Storage,74.45,2,0.0,148.9,56.15,UPI,2.0,3,Mar,1
+ORD-2023215,2023-03-07,CUST-1083,Corporate,Central,Technology,Printers,444.04,1,0.2,355.23,31.64,Bank Transfer,5.0,3,Mar,1
+ORD-2023216,2023-03-07,CUST-1172,Consumer,West,Office Supplies,Paper,49.41,1,0.1,44.47,13.61,PayPal,2.0,3,Mar,1
+ORD-2023217,2023-03-07,CUST-1285,Consumer,South,Technology,Phones,778.28,1,0.1,700.45,198.78,Credit Card,5.0,3,Mar,1
+ORD-2023218,2023-03-08,CUST-1263,Corporate,Central,Office Supplies,Appliances,35.95,1,0.15,30.55,13.81,Credit Card,4.0,3,Mar,1
+ORD-2023219,2023-03-08,CUST-1063,Corporate,North,Office Supplies,Appliances,126.39,1,0.0,126.39,54.37,UPI,4.0,3,Mar,1
+ORD-2023220,2023-03-08,CUST-1215,Corporate,North,Office Supplies,Appliances,137.49,1,0.0,137.49,62.85,Credit Card,3.0,3,Mar,1
+ORD-2023221,2023-03-09,CUST-1020,Corporate,East,Furniture,Furnishings,422.03,1,0.15,358.73,54.97,UPI,4.0,3,Mar,1
+ORD-2023222,2023-03-09,CUST-1161,Corporate,East,Furniture,Chairs,89.01,2,0.05,169.12,37.71,Credit Card,3.0,3,Mar,1
+ORD-2023223,2023-03-09,CUST-1379,Consumer,East,Furniture,Chairs,157.85,1,0.0,157.85,32.89,PayPal,1.0,3,Mar,1
+ORD-2023224,2023-03-10,CUST-1301,Consumer,North,Technology,Printers,505.8,2,0.05,961.03,232.28,Credit Card,5.0,3,Mar,1
+ORD-2023225,2023-03-10,CUST-1264,Corporate,North,Office Supplies,Paper,58.33,5,0.05,277.07,116.23,Bank Transfer,5.0,3,Mar,1
+ORD-2023226,2023-03-10,CUST-1332,Consumer,South,Office Supplies,Appliances,67.54,3,0.1,182.37,54.41,Credit Card,5.0,3,Mar,1
+ORD-2023227,2023-03-10,CUST-1102,Consumer,East,Office Supplies,Appliances,17.16,1,0.1,15.44,6.83,PayPal,2.0,3,Mar,1
+ORD-2023228,2023-03-11,CUST-1160,Consumer,East,Furniture,Tables,352.27,2,0.0,704.54,116.21,Bank Transfer,4.0,3,Mar,1
+ORD-2023229,2023-03-11,CUST-1284,Home Office,East,Office Supplies,Binders,80.3,1,0.0,80.3,41.93,Credit Card,4.0,3,Mar,1
+ORD-2023230,2023-03-11,CUST-1116,Corporate,North,Office Supplies,Storage,11.64,1,0.05,11.06,4.84,PayPal,1.0,3,Mar,1
+ORD-2023231,2023-03-12,CUST-1212,Corporate,East,Office Supplies,Paper,128.38,2,0.1,231.09,79.98,Credit Card,3.0,3,Mar,1
+ORD-2023232,2023-03-12,CUST-1121,Corporate,West,Furniture,Furnishings,521.66,2,0.0,1043.32,169.55,PayPal,4.0,3,Mar,1
+ORD-2023233,2023-03-12,CUST-1312,Corporate,South,Technology,Printers,325.2,1,0.2,260.16,44.04,Credit Card,3.0,3,Mar,1
+ORD-2023234,2023-03-13,CUST-1156,Corporate,South,Furniture,Tables,89.44,1,0.1,80.5,12.4,PayPal,4.0,3,Mar,1
+ORD-2023235,2023-03-13,CUST-1115,Consumer,West,Furniture,Tables,127.3,1,0.05,120.94,22.55,UPI,4.0,3,Mar,1
+ORD-2023236,2023-03-13,CUST-1154,Consumer,North,Technology,Accessories,174.52,2,0.0,349.04,100.02,UPI,2.0,3,Mar,1
+ORD-2023237,2023-03-13,CUST-1169,Home Office,East,Furniture,Bookcases,504.69,1,0.3,353.28,-74.5,Credit Card,4.0,3,Mar,1
+ORD-2023238,2023-03-14,CUST-1277,Consumer,East,Furniture,Chairs,142.59,4,0.0,570.34,149.98,Bank Transfer,4.0,3,Mar,1
+ORD-2023239,2023-03-14,CUST-1249,Corporate,North,Technology,Laptops,1022.22,1,0.05,971.11,274.24,UPI,3.0,3,Mar,1
+ORD-2023240,2023-03-14,CUST-1353,Corporate,West,Furniture,Bookcases,215.27,4,0.05,818.02,173.18,Bank Transfer,3.0,3,Mar,1
+ORD-2023241,2023-03-15,CUST-1004,Home Office,North,Furniture,Furnishings,376.16,2,0.05,714.7,120.47,Credit Card,4.0,3,Mar,1
+ORD-2023242,2023-03-15,CUST-1004,Consumer,North,Office Supplies,Art,145.75,2,0.0,291.49,104.99,Bank Transfer,4.0,3,Mar,1
+ORD-2023243,2023-03-15,CUST-1182,Corporate,East,Furniture,Tables,292.67,5,0.0,1463.37,306.05,Credit Card,5.0,3,Mar,1
+ORD-2023244,2023-03-16,CUST-1218,Corporate,East,Furniture,Bookcases,493.62,10,0.0,4936.24,1128.07,Credit Card,4.0,3,Mar,1
+ORD-2023245,2023-03-16,CUST-1224,Consumer,South,Office Supplies,Storage,14.31,1,0.1,12.88,3.66,Bank Transfer,5.0,3,Mar,1
+ORD-2023246,2023-03-16,CUST-1213,Consumer,South,Office Supplies,Binders,60.22,1,0.0,60.22,23.43,UPI,1.0,3,Mar,1
+ORD-2023247,2023-03-16,CUST-1018,Home Office,South,Technology,Laptops,165.03,4,0.1,594.11,124.97,Credit Card,5.0,3,Mar,1
+ORD-2023248,2023-03-17,CUST-1388,Corporate,West,Office Supplies,Paper,95.9,2,0.0,191.81,102.1,Credit Card,4.0,3,Mar,1
+ORD-2023249,2023-03-17,CUST-1357,Consumer,West,Technology,Printers,1145.07,6,0.05,6526.91,2330.12,Credit Card,2.0,3,Mar,1
+ORD-2023250,2023-03-17,CUST-1374,Corporate,North,Office Supplies,Art,20.21,1,0.0,20.21,9.49,Credit Card,5.0,3,Mar,1
+ORD-2023251,2023-03-18,CUST-1119,Consumer,East,Furniture,Bookcases,513.23,1,0.0,513.23,111.71,Credit Card,4.0,3,Mar,1
+ORD-2023252,2023-03-18,CUST-1280,Corporate,West,Technology,Phones,626.64,2,0.1,1127.96,221.56,PayPal,4.0,3,Mar,1
+ORD-2023253,2023-03-18,CUST-1365,Consumer,West,Office Supplies,Art,48.0,1,0.0,48.0,21.63,PayPal,2.0,3,Mar,1
+ORD-2023254,2023-03-19,CUST-1203,Consumer,East,Furniture,Chairs,75.77,3,0.0,227.31,58.78,Bank Transfer,1.0,3,Mar,1
+ORD-2023255,2023-03-19,CUST-1324,Home Office,West,Office Supplies,Appliances,28.19,5,0.05,133.9,54.55,UPI,5.0,3,Mar,1
+ORD-2023256,2023-03-19,CUST-1082,Corporate,North,Office Supplies,Art,15.92,6,0.15,81.2,27.43,PayPal,3.0,3,Mar,1
+ORD-2023257,2023-03-20,CUST-1212,Consumer,South,Office Supplies,Appliances,28.14,6,0.0,168.86,70.04,PayPal,4.0,3,Mar,1
+ORD-2023258,2023-03-20,CUST-1292,Consumer,South,Technology,Phones,1059.11,1,0.1,953.2,242.12,Bank Transfer,1.0,3,Mar,1
+ORD-2023259,2023-03-20,CUST-1012,Consumer,West,Furniture,Chairs,254.14,3,0.1,686.17,53.01,Bank Transfer,5.0,3,Mar,1
+ORD-2023260,2023-03-20,CUST-1236,Home Office,North,Technology,Printers,923.95,1,0.1,831.56,142.12,PayPal,4.0,3,Mar,1
+ORD-2023261,2023-03-21,CUST-1020,Corporate,West,Technology,Accessories,971.12,1,0.1,874.0,212.12,Credit Card,5.0,3,Mar,1
+ORD-2023262,2023-03-21,CUST-1257,Home Office,North,Technology,Printers,923.01,5,0.0,4615.05,1617.41,Bank Transfer,5.0,3,Mar,1
+ORD-2023263,2023-03-21,CUST-1377,Corporate,East,Furniture,Tables,196.99,1,0.15,167.44,23.05,PayPal,2.0,3,Mar,1
+ORD-2023264,2023-03-22,CUST-1174,Consumer,South,Office Supplies,Binders,56.49,3,0.0,169.48,81.63,PayPal,4.0,3,Mar,1
+ORD-2023265,2023-03-22,CUST-1207,Corporate,Central,Technology,Printers,859.36,4,0.1,3093.69,749.21,Credit Card,3.0,3,Mar,1
+ORD-2023266,2023-03-22,CUST-1058,Corporate,Central,Technology,Accessories,783.46,1,0.1,705.11,179.4,PayPal,5.0,3,Mar,1
+ORD-2023267,2023-03-23,CUST-1118,Corporate,Central,Office Supplies,Art,20.58,1,0.0,20.58,9.81,Credit Card,4.0,3,Mar,1
+ORD-2023268,2023-03-23,CUST-1393,Consumer,West,Technology,Accessories,817.75,3,0.0,2453.26,838.47,Credit Card,5.0,3,Mar,1
+ORD-2023269,2023-03-23,CUST-1215,Home Office,West,Office Supplies,Paper,18.71,1,0.1,16.84,7.87,Credit Card,3.0,3,Mar,1
+ORD-2023270,2023-03-23,CUST-1225,Home Office,Central,Technology,Phones,801.95,4,0.05,3047.43,675.89,Credit Card,4.0,3,Mar,1
+ORD-2023271,2023-03-24,CUST-1002,Consumer,Central,Technology,Phones,858.07,10,0.05,8151.63,2826.9,Credit Card,4.0,3,Mar,1
+ORD-2023272,2023-03-24,CUST-1168,Consumer,South,Technology,Accessories,1150.67,1,0.05,1093.14,312.55,UPI,3.0,3,Mar,1
+ORD-2023273,2023-03-24,CUST-1357,Consumer,West,Furniture,Tables,452.67,3,0.0,1358.0,335.08,UPI,5.0,3,Mar,1
+ORD-2023274,2023-03-25,CUST-1007,Corporate,South,Technology,Printers,393.64,4,0.3,1102.2,49.23,Bank Transfer,5.0,3,Mar,1
+ORD-2023275,2023-03-25,CUST-1043,Corporate,South,Technology,Laptops,729.59,1,0.15,620.15,94.33,Credit Card,4.0,3,Mar,1
+ORD-2023276,2023-03-25,CUST-1090,Consumer,East,Technology,Accessories,845.56,1,0.0,845.56,323.2,UPI,5.0,3,Mar,1
+ORD-2023277,2023-03-26,CUST-1159,Consumer,South,Furniture,Bookcases,464.85,6,0.05,2649.62,313.03,Credit Card,5.0,3,Mar,1
+ORD-2023278,2023-03-26,CUST-1115,Consumer,East,Furniture,Chairs,182.22,5,0.0,911.1,247.15,PayPal,3.0,3,Mar,1
+ORD-2023279,2023-03-26,CUST-1104,Consumer,West,Technology,Phones,446.6,2,0.05,848.55,185.28,PayPal,4.0,3,Mar,1
+ORD-2023280,2023-03-27,CUST-1281,Consumer,Central,Office Supplies,Appliances,142.5,2,0.15,242.26,63.13,PayPal,4.0,3,Mar,1
+ORD-2023281,2023-03-27,CUST-1115,Consumer,South,Technology,Printers,1047.78,1,0.0,1047.78,386.57,UPI,4.0,3,Mar,1
+ORD-2023282,2023-03-27,CUST-1194,Home Office,South,Technology,Accessories,878.3,3,0.0,2634.9,749.19,Bank Transfer,4.0,3,Mar,1
+ORD-2023283,2023-03-27,CUST-1247,Consumer,North,Technology,Phones,953.82,2,0.05,1812.27,667.68,Credit Card,5.0,3,Mar,1
+ORD-2023284,2023-03-28,CUST-1390,Consumer,North,Technology,Phones,151.55,8,0.0,1212.38,352.32,Credit Card,4.0,3,Mar,1
+ORD-2023285,2023-03-28,CUST-1396,Home Office,West,Furniture,Tables,189.05,1,0.0,189.05,49.02,UPI,4.0,3,Mar,1
+ORD-2023286,2023-03-28,CUST-1015,Corporate,North,Office Supplies,Appliances,63.3,4,0.0,253.19,118.27,Credit Card,4.0,3,Mar,1
+ORD-2023287,2023-03-29,CUST-1138,Consumer,East,Furniture,Tables,213.11,4,0.0,852.43,164.38,PayPal,4.0,3,Mar,1
+ORD-2023288,2023-03-29,CUST-1291,Corporate,West,Office Supplies,Binders,74.64,3,0.1,201.53,59.52,Bank Transfer,3.0,3,Mar,1
+ORD-2023289,2023-03-29,CUST-1250,Consumer,South,Technology,Phones,1177.45,3,0.1,3179.12,605.87,PayPal,5.0,3,Mar,1
+ORD-2023290,2023-03-30,CUST-1064,Consumer,West,Technology,Laptops,921.17,1,0.15,782.99,177.18,Credit Card,4.0,3,Mar,1
+ORD-2023291,2023-03-30,CUST-1269,Corporate,East,Office Supplies,Art,108.87,2,0.05,206.85,85.6,Credit Card,4.0,3,Mar,1
+ORD-2023292,2023-03-30,CUST-1012,Home Office,North,Office Supplies,Storage,133.11,3,0.1,359.39,115.1,Credit Card,5.0,3,Mar,1
+ORD-2023293,2023-03-30,CUST-1312,Home Office,Central,Office Supplies,Storage,97.92,1,0.0,97.92,49.01,Credit Card,4.0,3,Mar,1
+ORD-2023294,2023-03-31,CUST-1388,Home Office,South,Furniture,Chairs,532.89,1,0.0,532.89,111.47,Credit Card,3.0,3,Mar,1
+ORD-2023295,2023-03-31,CUST-1213,Consumer,South,Technology,Laptops,1181.15,3,0.0,3543.46,1000.22,Bank Transfer,5.0,3,Mar,1
+ORD-2023296,2023-03-31,CUST-1247,Home Office,Central,Office Supplies,Binders,11.61,8,0.0,92.86,42.71,PayPal,5.0,3,Mar,1
+ORD-2023297,2023-04-01,CUST-1168,Corporate,North,Office Supplies,Binders,82.76,3,0.05,235.86,120.46,Bank Transfer,4.0,4,Apr,2
+ORD-2023298,2023-04-01,CUST-1279,Corporate,North,Office Supplies,Binders,20.58,1,0.0,20.58,7.4,PayPal,4.0,4,Apr,2
+ORD-2023299,2023-04-01,CUST-1366,Consumer,Central,Furniture,Chairs,187.99,3,0.1,507.58,55.61,Credit Card,3.0,4,Apr,2
+ORD-2023300,2023-04-02,CUST-1257,Consumer,South,Office Supplies,Paper,95.72,6,0.0,574.3,291.39,Bank Transfer,4.0,4,Apr,2
+ORD-2023301,2023-04-02,CUST-1024,Consumer,East,Technology,Phones,415.76,6,0.0,2494.54,829.34,Bank Transfer,3.0,4,Apr,2
+ORD-2023302,2023-04-02,CUST-1287,Consumer,North,Technology,Laptops,605.26,3,0.2,1452.63,337.93,Credit Card,3.0,4,Apr,2
+ORD-2023303,2023-04-02,CUST-1092,Consumer,East,Furniture,Bookcases,387.31,1,0.1,348.58,40.42,Credit Card,3.0,4,Apr,2
+ORD-2023304,2023-04-03,CUST-1150,Consumer,North,Technology,Printers,375.13,1,0.0,375.13,134.82,PayPal,4.0,4,Apr,2
+ORD-2023305,2023-04-03,CUST-1313,Consumer,Central,Furniture,Furnishings,511.17,4,0.2,1635.75,-42.45,PayPal,3.0,4,Apr,2
+ORD-2023306,2023-04-03,CUST-1357,Corporate,North,Office Supplies,Storage,61.96,2,0.05,117.72,39.14,Credit Card,4.0,4,Apr,2
+ORD-2023307,2023-04-04,CUST-1181,Corporate,East,Office Supplies,Binders,98.23,3,0.05,279.97,132.71,Credit Card,4.0,4,Apr,2
+ORD-2023308,2023-04-04,CUST-1036,Home Office,South,Office Supplies,Binders,72.15,1,0.05,68.54,35.76,Credit Card,4.0,4,Apr,2
+ORD-2023309,2023-04-04,CUST-1323,Corporate,South,Technology,Phones,837.93,1,0.0,837.93,302.46,Credit Card,3.0,4,Apr,2
+ORD-2023310,2023-04-05,CUST-1020,Home Office,West,Office Supplies,Storage,25.46,1,0.0,25.46,12.53,PayPal,4.0,4,Apr,2
+ORD-2023311,2023-04-05,CUST-1276,Home Office,West,Office Supplies,Binders,53.09,6,0.0,318.55,116.99,Credit Card,4.0,4,Apr,2
+ORD-2023312,2023-04-05,CUST-1294,Consumer,South,Technology,Phones,731.04,1,0.15,621.38,127.58,PayPal,5.0,4,Apr,2
+ORD-2023313,2023-04-06,CUST-1312,Consumer,West,Technology,Phones,338.22,1,0.0,338.22,100.08,Credit Card,1.0,4,Apr,2
+ORD-2023314,2023-04-06,CUST-1133,Consumer,South,Office Supplies,Paper,112.54,1,0.1,101.28,30.79,PayPal,2.0,4,Apr,2
+ORD-2023315,2023-04-06,CUST-1233,Consumer,North,Furniture,Tables,197.18,3,0.05,561.96,118.1,UPI,4.0,4,Apr,2
+ORD-2023316,2023-04-06,CUST-1288,Corporate,South,Furniture,Bookcases,464.48,1,0.05,441.25,101.93,PayPal,1.0,4,Apr,2
+ORD-2023317,2023-04-07,CUST-1238,Consumer,Central,Technology,Phones,611.05,2,0.0,1222.1,309.11,Bank Transfer,4.0,4,Apr,2
+ORD-2023318,2023-04-07,CUST-1313,Corporate,East,Furniture,Chairs,521.52,2,0.2,834.43,-1.03,Credit Card,4.0,4,Apr,2
+ORD-2023319,2023-04-07,CUST-1143,Corporate,West,Technology,Printers,638.31,1,0.0,638.31,171.63,Credit Card,4.0,4,Apr,2
+ORD-2023320,2023-04-08,CUST-1338,Home Office,East,Office Supplies,Paper,20.6,4,0.2,65.91,22.44,Credit Card,2.0,4,Apr,2
+ORD-2023321,2023-04-08,CUST-1021,Corporate,Central,Furniture,Bookcases,86.61,1,0.0,86.61,17.56,Bank Transfer,4.0,4,Apr,2
+ORD-2023322,2023-04-08,CUST-1220,Consumer,North,Furniture,Chairs,451.08,3,0.0,1353.24,282.48,Credit Card,1.0,4,Apr,2
+ORD-2023323,2023-04-09,CUST-1106,Home Office,West,Office Supplies,Storage,62.25,1,0.0,62.25,26.37,Credit Card,4.0,4,Apr,2
+ORD-2023324,2023-04-09,CUST-1200,Corporate,South,Furniture,Chairs,422.61,1,0.0,422.61,78.7,Bank Transfer,4.0,4,Apr,2
+ORD-2023325,2023-04-09,CUST-1091,Consumer,North,Technology,Printers,421.14,2,0.15,715.94,134.08,Bank Transfer,4.0,4,Apr,2
+ORD-2023326,2023-04-09,CUST-1061,Consumer,West,Technology,Laptops,555.52,1,0.05,527.75,145.4,Bank Transfer,5.0,4,Apr,2
+ORD-2023327,2023-04-10,CUST-1137,Corporate,East,Furniture,Bookcases,123.51,2,0.3,172.91,-16.45,Credit Card,4.0,4,Apr,2
+ORD-2023328,2023-04-10,CUST-1238,Corporate,South,Furniture,Bookcases,198.23,3,0.0,594.69,161.37,PayPal,3.0,4,Apr,2
+ORD-2023329,2023-04-10,CUST-1206,Corporate,West,Office Supplies,Art,31.09,2,0.0,62.17,31.49,Credit Card,5.0,4,Apr,2
+ORD-2023330,2023-04-11,CUST-1078,Home Office,West,Furniture,Furnishings,285.94,2,0.1,514.7,97.13,Credit Card,4.0,4,Apr,2
+ORD-2023331,2023-04-11,CUST-1257,Corporate,North,Office Supplies,Paper,23.29,1,0.1,20.96,5.83,Bank Transfer,5.0,4,Apr,2
+ORD-2023332,2023-04-11,CUST-1364,Consumer,South,Furniture,Bookcases,121.54,2,0.15,206.63,35.65,PayPal,3.0,4,Apr,2
+ORD-2023333,2023-04-12,CUST-1303,Consumer,West,Technology,Laptops,804.93,1,0.15,684.19,109.19,PayPal,4.0,4,Apr,2
+ORD-2023334,2023-04-12,CUST-1207,Corporate,East,Furniture,Chairs,594.87,2,0.1,1070.77,102.9,Credit Card,3.0,4,Apr,2
+ORD-2023335,2023-04-12,CUST-1210,Home Office,South,Office Supplies,Storage,83.87,10,0.3,587.12,174.18,PayPal,5.0,4,Apr,2
+ORD-2023336,2023-04-13,CUST-1165,Home Office,West,Furniture,Bookcases,249.34,1,0.2,199.47,-7.37,PayPal,2.0,4,Apr,2
+ORD-2023337,2023-04-13,CUST-1058,Consumer,East,Office Supplies,Paper,114.69,2,0.0,229.38,88.99,Credit Card,4.0,4,Apr,2
+ORD-2023338,2023-04-13,CUST-1208,Consumer,West,Office Supplies,Binders,95.36,4,0.15,324.22,99.2,UPI,4.0,4,Apr,2
+ORD-2023339,2023-04-13,CUST-1183,Consumer,East,Office Supplies,Appliances,48.78,2,0.05,92.69,30.81,Credit Card,2.0,4,Apr,2
+ORD-2023340,2023-04-14,CUST-1007,Consumer,East,Technology,Laptops,1075.02,3,0.0,3225.06,862.9,Bank Transfer,5.0,4,Apr,2
+ORD-2023341,2023-04-14,CUST-1154,Home Office,North,Office Supplies,Paper,135.63,8,0.05,1030.8,407.41,Bank Transfer,2.0,4,Apr,2
+ORD-2023342,2023-04-14,CUST-1275,Home Office,West,Technology,Phones,1045.17,1,0.0,1045.17,271.01,Credit Card,3.0,4,Apr,2
+ORD-2023343,2023-04-15,CUST-1289,Consumer,North,Furniture,Tables,142.12,8,0.15,966.42,145.43,UPI,4.0,4,Apr,2
+ORD-2023344,2023-04-15,CUST-1055,Consumer,South,Technology,Accessories,394.13,1,0.0,394.13,149.98,PayPal,2.0,4,Apr,2
+ORD-2023345,2023-04-15,CUST-1100,Consumer,South,Technology,Printers,1057.89,1,0.05,1005.0,345.68,Credit Card,4.0,4,Apr,2
+ORD-2023346,2023-04-16,CUST-1095,Corporate,East,Technology,Printers,301.28,1,0.05,286.22,77.25,Credit Card,4.0,4,Apr,2
+ORD-2023347,2023-04-16,CUST-1312,Consumer,East,Office Supplies,Appliances,111.5,3,0.15,284.33,95.38,Bank Transfer,3.0,4,Apr,2
+ORD-2023348,2023-04-16,CUST-1318,Home Office,Central,Technology,Phones,540.04,2,0.1,972.07,292.4,PayPal,4.0,4,Apr,2
+ORD-2023349,2023-04-16,CUST-1210,Home Office,South,Office Supplies,Paper,55.95,4,0.0,223.81,102.77,Credit Card,5.0,4,Apr,2
+ORD-2023350,2023-04-17,CUST-1228,Corporate,East,Furniture,Chairs,404.61,2,0.0,809.22,214.87,PayPal,3.0,4,Apr,2
+ORD-2023351,2023-04-17,CUST-1119,Home Office,East,Technology,Laptops,576.88,3,0.05,1644.12,371.26,PayPal,4.0,4,Apr,2
+ORD-2023352,2023-04-17,CUST-1005,Home Office,Central,Furniture,Bookcases,235.61,2,0.0,471.23,89.81,UPI,1.0,4,Apr,2
+ORD-2023353,2023-04-18,CUST-1286,Corporate,East,Technology,Laptops,939.26,3,0.0,2817.78,863.59,Credit Card,3.0,4,Apr,2
+ORD-2023354,2023-04-18,CUST-1384,Consumer,North,Furniture,Chairs,571.68,3,0.05,1372.02,-71.52,Bank Transfer,4.0,4,Apr,2
+ORD-2023355,2023-04-18,CUST-1228,Corporate,East,Furniture,Chairs,468.23,3,0.2,1123.76,32.39,Credit Card,4.0,4,Apr,2
+ORD-2023356,2023-04-19,CUST-1337,Corporate,North,Technology,Phones,828.93,3,0.05,2362.45,785.8,Bank Transfer,2.0,4,Apr,2
+ORD-2023357,2023-04-19,CUST-1383,Home Office,Central,Technology,Phones,1196.22,4,0.0,4784.87,1342.63,Credit Card,4.0,4,Apr,2
+ORD-2023358,2023-04-19,CUST-1236,Consumer,Central,Technology,Phones,880.41,1,0.0,880.41,271.51,PayPal,4.0,4,Apr,2
+ORD-2023359,2023-04-19,CUST-1220,Consumer,West,Office Supplies,Binders,70.36,1,0.05,66.84,33.95,Credit Card,3.0,4,Apr,2
+ORD-2023360,2023-04-20,CUST-1062,Consumer,East,Technology,Accessories,862.42,4,0.2,2759.76,525.62,UPI,4.0,4,Apr,2
+ORD-2023361,2023-04-20,CUST-1217,Home Office,North,Office Supplies,Art,110.25,3,0.3,231.52,35.97,Credit Card,3.0,4,Apr,2
+ORD-2023362,2023-04-20,CUST-1359,Consumer,South,Technology,Printers,1026.3,1,0.0,1026.3,266.51,UPI,2.0,4,Apr,2
+ORD-2023363,2023-04-21,CUST-1136,Corporate,North,Technology,Printers,1166.48,2,0.0,2332.96,776.86,PayPal,4.0,4,Apr,2
+ORD-2023364,2023-04-21,CUST-1281,Corporate,Central,Furniture,Furnishings,499.57,1,0.0,499.57,93.14,Credit Card,4.0,4,Apr,2
+ORD-2023365,2023-04-21,CUST-1281,Home Office,Central,Office Supplies,Binders,53.94,1,0.0,53.94,22.21,Credit Card,3.0,4,Apr,2
+ORD-2023366,2023-04-22,CUST-1339,Corporate,East,Office Supplies,Appliances,50.31,1,0.05,47.8,20.2,Credit Card,3.0,4,Apr,2
+ORD-2023367,2023-04-22,CUST-1376,Home Office,South,Furniture,Tables,453.15,6,0.15,2311.07,139.21,PayPal,4.0,4,Apr,2
+ORD-2023368,2023-04-22,CUST-1039,Home Office,North,Furniture,Chairs,189.67,1,0.0,189.67,34.71,Credit Card,2.0,4,Apr,2
+ORD-2023369,2023-04-23,CUST-1357,Home Office,West,Technology,Phones,884.69,5,0.0,4423.45,1360.03,Credit Card,4.0,4,Apr,2
+ORD-2023370,2023-04-23,CUST-1380,Corporate,North,Office Supplies,Binders,119.49,1,0.0,119.49,59.98,Credit Card,4.0,4,Apr,2
+ORD-2023371,2023-04-23,CUST-1277,Corporate,North,Technology,Accessories,873.2,3,0.0,2619.6,695.08,UPI,5.0,4,Apr,2
+ORD-2023372,2023-04-23,CUST-1189,Corporate,North,Office Supplies,Paper,126.84,5,0.05,602.5,271.65,Credit Card,3.0,4,Apr,2
+ORD-2023373,2023-04-24,CUST-1142,Corporate,South,Office Supplies,Storage,38.59,3,0.0,115.78,63.29,Credit Card,4.0,4,Apr,2
+ORD-2023374,2023-04-24,CUST-1302,Consumer,East,Furniture,Furnishings,390.58,6,0.15,1991.97,234.78,Credit Card,3.0,4,Apr,2
+ORD-2023375,2023-04-24,CUST-1398,Consumer,West,Furniture,Bookcases,406.53,3,0.2,975.67,79.61,Credit Card,3.0,4,Apr,2
+ORD-2023376,2023-04-25,CUST-1380,Home Office,South,Furniture,Bookcases,462.52,2,0.0,925.03,203.74,Credit Card,3.0,4,Apr,2
+ORD-2023377,2023-04-25,CUST-1295,Home Office,North,Technology,Printers,381.09,3,0.0,1143.28,368.43,Credit Card,5.0,4,Apr,2
+ORD-2023378,2023-04-25,CUST-1158,Home Office,North,Office Supplies,Appliances,75.05,1,0.0,75.05,35.58,Credit Card,3.0,4,Apr,2
+ORD-2023379,2023-04-26,CUST-1369,Consumer,South,Office Supplies,Appliances,135.1,1,0.2,108.08,29.5,Credit Card,2.0,4,Apr,2
+ORD-2023380,2023-04-26,CUST-1092,Home Office,East,Office Supplies,Binders,81.97,2,0.0,163.95,80.06,Credit Card,3.0,4,Apr,2
+ORD-2023381,2023-04-26,CUST-1138,Consumer,North,Office Supplies,Art,39.52,4,0.05,150.19,51.94,Credit Card,4.0,4,Apr,2
+ORD-2023382,2023-04-26,CUST-1246,Corporate,Central,Technology,Accessories,350.69,2,0.0,701.38,232.2,Credit Card,2.0,4,Apr,2
+ORD-2023383,2023-04-27,CUST-1124,Consumer,Central,Technology,Accessories,965.11,2,0.05,1833.7,637.79,Bank Transfer,4.0,4,Apr,2
+ORD-2023384,2023-04-27,CUST-1313,Consumer,East,Technology,Accessories,782.57,1,0.0,782.57,293.89,Bank Transfer,5.0,4,Apr,2
+ORD-2023385,2023-04-27,CUST-1208,Consumer,North,Technology,Printers,1123.26,2,0.0,2246.52,826.59,Bank Transfer,4.0,4,Apr,2
+ORD-2023386,2023-04-28,CUST-1143,Consumer,North,Technology,Printers,882.6,2,0.0,1765.2,609.67,Credit Card,4.0,4,Apr,2
+ORD-2023387,2023-04-28,CUST-1078,Consumer,East,Technology,Accessories,354.17,2,0.0,708.34,273.43,Credit Card,3.0,4,Apr,2
+ORD-2023388,2023-04-28,CUST-1291,Consumer,North,Office Supplies,Appliances,17.08,1,0.0,17.08,7.26,Credit Card,4.0,4,Apr,2
+ORD-2023389,2023-04-29,CUST-1179,Corporate,East,Furniture,Chairs,431.59,1,0.0,431.59,93.69,Credit Card,5.0,4,Apr,2
+ORD-2023390,2023-04-29,CUST-1284,Consumer,South,Technology,Laptops,281.84,4,0.05,1071.01,365.62,Credit Card,5.0,4,Apr,2
+ORD-2023391,2023-04-29,CUST-1317,Home Office,Central,Office Supplies,Art,51.62,2,0.0,103.24,52.03,PayPal,5.0,4,Apr,2
+ORD-2023392,2023-04-30,CUST-1008,Consumer,North,Furniture,Tables,455.87,3,0.0,1367.62,336.34,Credit Card,4.0,4,Apr,2
+ORD-2023393,2023-04-30,CUST-1105,Home Office,West,Furniture,Furnishings,412.68,5,0.0,2063.41,440.18,PayPal,4.0,4,Apr,2
+ORD-2023394,2023-04-30,CUST-1371,Consumer,East,Furniture,Tables,517.82,6,0.05,2796.21,527.46,Bank Transfer,4.0,4,Apr,2
+ORD-2023395,2023-04-30,CUST-1003,Home Office,North,Furniture,Bookcases,539.45,1,0.0,539.45,81.57,Bank Transfer,3.0,4,Apr,2
+ORD-2023396,2023-05-01,CUST-1279,Consumer,Central,Furniture,Bookcases,420.61,1,0.1,378.55,30.69,PayPal,4.0,5,May,2
+ORD-2023397,2023-05-01,CUST-1143,Consumer,South,Technology,Laptops,957.01,3,0.0,2871.03,1050.97,PayPal,4.0,5,May,2
+ORD-2023398,2023-05-01,CUST-1041,Consumer,East,Technology,Laptops,1041.92,3,0.0,3125.76,1229.21,PayPal,5.0,5,May,2
+ORD-2023399,2023-05-02,CUST-1072,Corporate,West,Furniture,Chairs,513.11,4,0.1,1847.19,261.88,Bank Transfer,4.0,5,May,2
+ORD-2023400,2023-05-02,CUST-1385,Consumer,Central,Office Supplies,Binders,90.76,2,0.0,181.53,79.37,Credit Card,4.0,5,May,2
+ORD-2023401,2023-05-02,CUST-1397,Consumer,North,Office Supplies,Binders,110.06,2,0.1,198.11,86.14,UPI,5.0,5,May,2
+ORD-2023402,2023-05-03,CUST-1163,Consumer,North,Furniture,Tables,199.58,3,0.1,538.85,100.17,PayPal,1.0,5,May,2
+ORD-2023403,2023-05-03,CUST-1197,Corporate,East,Office Supplies,Paper,57.98,1,0.15,49.28,21.63,UPI,4.0,5,May,2
+ORD-2023404,2023-05-03,CUST-1108,Consumer,Central,Office Supplies,Storage,11.91,2,0.0,23.82,11.56,Credit Card,5.0,5,May,2
+ORD-2023405,2023-05-03,CUST-1396,Home Office,East,Office Supplies,Storage,123.72,3,0.3,259.8,64.28,Credit Card,4.0,5,May,2
+ORD-2023406,2023-05-04,CUST-1128,Consumer,West,Technology,Accessories,1175.63,1,0.0,1175.63,398.88,UPI,4.0,5,May,2
+ORD-2023407,2023-05-04,CUST-1382,Consumer,East,Technology,Accessories,1052.53,3,0.0,3157.6,982.5,Bank Transfer,4.0,5,May,2
+ORD-2023408,2023-05-04,CUST-1363,Consumer,West,Office Supplies,Appliances,69.63,1,0.15,59.19,14.0,PayPal,5.0,5,May,2
+ORD-2023409,2023-05-05,CUST-1051,Home Office,North,Furniture,Chairs,119.05,1,0.05,113.1,12.56,PayPal,4.0,5,May,2
+ORD-2023410,2023-05-05,CUST-1019,Corporate,East,Office Supplies,Storage,42.72,4,0.0,170.89,72.19,PayPal,4.0,5,May,2
+ORD-2023411,2023-05-05,CUST-1371,Consumer,Central,Technology,Laptops,722.01,5,0.0,3610.05,1370.54,UPI,5.0,5,May,2
+ORD-2023412,2023-05-06,CUST-1395,Consumer,Central,Office Supplies,Art,12.93,1,0.15,10.99,4.35,Bank Transfer,3.0,5,May,2
+ORD-2023413,2023-05-06,CUST-1117,Corporate,East,Furniture,Furnishings,276.75,1,0.0,276.75,44.22,PayPal,5.0,5,May,2
+ORD-2023414,2023-05-06,CUST-1025,Consumer,East,Office Supplies,Appliances,32.67,10,0.05,310.36,120.35,Credit Card,4.0,5,May,2
+ORD-2023415,2023-05-06,CUST-1078,Consumer,South,Furniture,Chairs,412.83,3,0.0,1238.49,289.43,Bank Transfer,5.0,5,May,2
+ORD-2023416,2023-05-07,CUST-1277,Consumer,East,Technology,Phones,781.9,2,0.0,1563.79,489.06,Credit Card,4.0,5,May,2
+ORD-2023417,2023-05-07,CUST-1003,Corporate,North,Office Supplies,Storage,15.87,1,0.0,15.87,7.57,Credit Card,3.0,5,May,2
+ORD-2023418,2023-05-07,CUST-1243,Corporate,North,Technology,Accessories,330.69,2,0.15,562.17,78.16,Credit Card,4.0,5,May,2
+ORD-2023419,2023-05-08,CUST-1038,Consumer,East,Office Supplies,Binders,38.11,4,0.2,121.95,43.75,Credit Card,3.0,5,May,2
+ORD-2023420,2023-05-08,CUST-1254,Consumer,Central,Office Supplies,Paper,55.6,3,0.15,141.77,53.57,PayPal,4.0,5,May,2
+ORD-2023421,2023-05-08,CUST-1253,Home Office,North,Office Supplies,Paper,120.03,1,0.2,96.02,27.17,Credit Card,3.0,5,May,2
+ORD-2023422,2023-05-09,CUST-1234,Corporate,North,Technology,Accessories,272.28,1,0.05,258.67,90.11,Bank Transfer,5.0,5,May,2
+ORD-2023423,2023-05-09,CUST-1363,Consumer,North,Technology,Laptops,427.7,1,0.0,427.7,138.78,UPI,4.0,5,May,2
+ORD-2023424,2023-05-09,CUST-1184,Home Office,East,Technology,Accessories,785.34,3,0.05,2238.23,746.69,Credit Card,2.0,5,May,2
+ORD-2023425,2023-05-10,CUST-1214,Corporate,North,Office Supplies,Appliances,103.31,2,0.0,206.63,110.34,Credit Card,3.0,5,May,2
+ORD-2023426,2023-05-10,CUST-1034,Home Office,Central,Technology,Accessories,1077.74,1,0.05,1023.86,333.47,Credit Card,1.0,5,May,2
+ORD-2023427,2023-05-10,CUST-1135,Home Office,North,Furniture,Chairs,191.96,5,0.15,815.82,127.62,Bank Transfer,5.0,5,May,2
+ORD-2023428,2023-05-10,CUST-1112,Consumer,East,Furniture,Chairs,299.85,6,0.3,1259.38,-121.87,Bank Transfer,4.0,5,May,2
+ORD-2023429,2023-05-11,CUST-1333,Consumer,West,Technology,Phones,915.23,6,0.0,5491.35,2157.85,Credit Card,4.0,5,May,2
+ORD-2023430,2023-05-11,CUST-1318,Consumer,West,Office Supplies,Storage,67.92,2,0.0,135.83,56.97,UPI,1.0,5,May,2
+ORD-2023431,2023-05-11,CUST-1391,Consumer,South,Furniture,Furnishings,180.31,1,0.15,153.26,24.42,PayPal,4.0,5,May,2
+ORD-2023432,2023-05-12,CUST-1369,Consumer,South,Technology,Printers,517.43,10,0.0,5174.35,1462.46,Bank Transfer,5.0,5,May,2
+ORD-2023433,2023-05-12,CUST-1215,Corporate,East,Furniture,Bookcases,59.17,4,0.0,236.69,64.09,Bank Transfer,4.0,5,May,2
+ORD-2023434,2023-05-12,CUST-1027,Consumer,Central,Office Supplies,Appliances,134.62,2,0.1,242.31,86.03,PayPal,4.0,5,May,2
+ORD-2023435,2023-05-13,CUST-1149,Corporate,Central,Technology,Printers,161.63,2,0.05,307.1,77.74,Credit Card,4.0,5,May,2
+ORD-2023436,2023-05-13,CUST-1133,Corporate,West,Furniture,Furnishings,373.96,1,0.0,373.96,59.53,PayPal,3.0,5,May,2
+ORD-2023437,2023-05-13,CUST-1346,Consumer,West,Furniture,Tables,190.0,1,0.1,171.0,24.52,Credit Card,4.0,5,May,2
+ORD-2023438,2023-05-13,CUST-1312,Corporate,North,Office Supplies,Binders,71.68,5,0.0,358.38,174.37,PayPal,3.0,5,May,2
+ORD-2023439,2023-05-14,CUST-1057,Home Office,North,Technology,Laptops,245.87,1,0.0,245.87,86.59,PayPal,2.0,5,May,2
+ORD-2023440,2023-05-14,CUST-1018,Consumer,North,Furniture,Chairs,189.49,1,0.05,180.01,29.12,Credit Card,4.0,5,May,2
+ORD-2023441,2023-05-14,CUST-1399,Home Office,East,Furniture,Bookcases,212.66,1,0.0,212.66,55.64,Credit Card,5.0,5,May,2
+ORD-2023442,2023-05-15,CUST-1033,Corporate,South,Furniture,Chairs,388.48,1,0.0,388.48,111.79,PayPal,3.0,5,May,2
+ORD-2023443,2023-05-15,CUST-1087,Corporate,South,Furniture,Chairs,524.91,1,0.0,524.91,133.16,Credit Card,4.0,5,May,2
+ORD-2023444,2023-05-15,CUST-1068,Home Office,Central,Furniture,Furnishings,498.84,3,0.0,1496.53,444.71,Credit Card,4.0,5,May,2
+ORD-2023445,2023-05-16,CUST-1190,Consumer,North,Technology,Phones,1098.38,1,0.05,1043.47,380.38,Credit Card,5.0,5,May,2
+ORD-2023446,2023-05-16,CUST-1072,Corporate,Central,Office Supplies,Binders,96.85,1,0.0,96.85,37.7,Credit Card,5.0,5,May,2
+ORD-2023447,2023-05-16,CUST-1222,Consumer,North,Office Supplies,Binders,35.54,2,0.1,63.98,18.27,Bank Transfer,4.0,5,May,2
+ORD-2023448,2023-05-17,CUST-1098,Consumer,East,Furniture,Tables,269.05,2,0.2,430.49,53.26,Bank Transfer,5.0,5,May,2
+ORD-2023449,2023-05-17,CUST-1014,Home Office,North,Office Supplies,Storage,143.88,1,0.0,143.88,68.29,PayPal,2.0,5,May,2
+ORD-2023450,2023-05-17,CUST-1071,Home Office,Central,Technology,Printers,467.59,5,0.15,1987.26,283.35,Credit Card,4.0,5,May,2
+ORD-2023451,2023-05-17,CUST-1214,Consumer,East,Office Supplies,Paper,42.38,1,0.0,42.38,21.24,Credit Card,1.0,5,May,2
+ORD-2023452,2023-05-18,CUST-1089,Corporate,West,Technology,Laptops,1002.54,1,0.15,852.16,108.41,Credit Card,4.0,5,May,2
+ORD-2023453,2023-05-18,CUST-1190,Consumer,Central,Technology,Laptops,327.3,3,0.05,932.81,335.77,Bank Transfer,4.0,5,May,2
+ORD-2023454,2023-05-18,CUST-1040,Corporate,North,Office Supplies,Binders,110.85,3,0.05,315.93,132.28,Bank Transfer,5.0,5,May,2
+ORD-2023455,2023-05-19,CUST-1371,Home Office,West,Office Supplies,Storage,107.58,5,0.1,484.13,203.02,Credit Card,4.0,5,May,2
+ORD-2023456,2023-05-19,CUST-1205,Home Office,West,Technology,Accessories,812.94,1,0.2,650.36,129.6,Credit Card,5.0,5,May,2
+ORD-2023457,2023-05-19,CUST-1351,Consumer,East,Furniture,Furnishings,586.68,2,0.0,1173.36,287.04,PayPal,4.0,5,May,2
+ORD-2023458,2023-05-20,CUST-1191,Consumer,South,Furniture,Tables,310.7,5,0.05,1475.84,283.22,PayPal,4.0,5,May,2
+ORD-2023459,2023-05-20,CUST-1021,Home Office,West,Technology,Printers,294.23,1,0.2,235.38,46.62,PayPal,4.0,5,May,2
+ORD-2023460,2023-05-20,CUST-1080,Consumer,North,Office Supplies,Appliances,62.7,2,0.15,106.59,35.85,Credit Card,4.0,5,May,2
+ORD-2023461,2023-05-20,CUST-1341,Consumer,North,Office Supplies,Binders,19.46,6,0.05,110.95,41.48,Credit Card,4.0,5,May,2
+ORD-2023462,2023-05-21,CUST-1081,Corporate,West,Technology,Accessories,266.13,10,0.0,2661.34,1050.33,Credit Card,3.0,5,May,2
+ORD-2023463,2023-05-21,CUST-1055,Home Office,South,Furniture,Furnishings,294.3,2,0.15,500.31,28.64,Bank Transfer,1.0,5,May,2
+ORD-2023464,2023-05-21,CUST-1249,Home Office,East,Furniture,Furnishings,592.79,1,0.05,563.15,81.1,UPI,5.0,5,May,2
+ORD-2023465,2023-05-22,CUST-1362,Consumer,North,Technology,Laptops,573.66,4,0.0,2294.62,837.05,Bank Transfer,1.0,5,May,2
+ORD-2023466,2023-05-22,CUST-1064,Consumer,North,Office Supplies,Paper,36.2,1,0.05,34.39,14.08,Credit Card,5.0,5,May,2
+ORD-2023467,2023-05-22,CUST-1211,Consumer,North,Office Supplies,Storage,143.48,1,0.0,143.48,77.19,Credit Card,3.0,5,May,2
+ORD-2023468,2023-05-23,CUST-1109,Corporate,North,Office Supplies,Storage,19.87,1,0.15,16.89,4.33,PayPal,2.0,5,May,2
+ORD-2023469,2023-05-23,CUST-1178,Home Office,North,Furniture,Chairs,519.67,2,0.15,883.44,153.84,UPI,5.0,5,May,2
+ORD-2023470,2023-05-23,CUST-1376,Corporate,East,Office Supplies,Art,132.98,4,0.05,505.32,164.63,PayPal,4.0,5,May,2
+ORD-2023471,2023-05-23,CUST-1124,Corporate,West,Furniture,Furnishings,405.04,2,0.0,810.09,224.1,Credit Card,4.0,5,May,2
+ORD-2023472,2023-05-24,CUST-1278,Home Office,Central,Office Supplies,Appliances,59.33,1,0.0,59.33,32.12,UPI,3.0,5,May,2
+ORD-2023473,2023-05-24,CUST-1054,Consumer,East,Office Supplies,Appliances,36.88,6,0.2,177.03,70.99,UPI,4.0,5,May,2
+ORD-2023474,2023-05-24,CUST-1081,Consumer,South,Office Supplies,Paper,98.99,1,0.05,94.04,42.45,Bank Transfer,4.0,5,May,2
+ORD-2023475,2023-05-25,CUST-1208,Consumer,South,Furniture,Bookcases,403.54,3,0.0,1210.61,254.05,Bank Transfer,3.0,5,May,2
+ORD-2023476,2023-05-25,CUST-1186,Consumer,East,Office Supplies,Binders,67.84,2,0.0,135.67,69.21,PayPal,5.0,5,May,2
+ORD-2023477,2023-05-25,CUST-1024,Consumer,North,Furniture,Bookcases,350.02,2,0.0,700.04,188.27,Bank Transfer,4.0,5,May,2
+ORD-2023478,2023-05-26,CUST-1317,Home Office,North,Office Supplies,Art,145.22,3,0.05,413.87,199.9,UPI,4.0,5,May,2
+ORD-2023479,2023-05-26,CUST-1364,Consumer,Central,Office Supplies,Binders,55.9,4,0.0,223.59,106.34,UPI,4.0,5,May,2
+ORD-2023480,2023-05-26,CUST-1375,Consumer,South,Furniture,Furnishings,305.77,3,0.2,733.85,60.5,Credit Card,3.0,5,May,2
+ORD-2023481,2023-05-27,CUST-1091,Consumer,South,Furniture,Furnishings,550.25,4,0.15,1870.86,142.31,Credit Card,4.0,5,May,2
+ORD-2023482,2023-05-27,CUST-1054,Corporate,East,Office Supplies,Art,57.49,1,0.1,51.74,19.61,Credit Card,1.0,5,May,2
+ORD-2023483,2023-05-27,CUST-1117,Corporate,East,Office Supplies,Binders,96.69,3,0.0,290.07,131.68,Credit Card,4.0,5,May,2
+ORD-2023484,2023-05-27,CUST-1160,Consumer,North,Office Supplies,Appliances,84.39,3,0.15,215.19,81.22,Credit Card,5.0,5,May,2
+ORD-2023485,2023-05-28,CUST-1268,Consumer,North,Furniture,Tables,163.29,1,0.3,114.3,-0.03,Credit Card,4.0,5,May,2
+ORD-2023486,2023-05-28,CUST-1253,Consumer,West,Technology,Laptops,780.26,4,0.3,2184.74,-30.23,PayPal,3.0,5,May,2
+ORD-2023487,2023-05-28,CUST-1237,Consumer,North,Technology,Printers,1034.21,1,0.0,1034.21,318.41,PayPal,4.0,5,May,2
+ORD-2023488,2023-05-29,CUST-1083,Consumer,South,Office Supplies,Storage,105.25,4,0.1,378.91,166.37,Bank Transfer,2.0,5,May,2
+ORD-2023489,2023-05-29,CUST-1386,Corporate,West,Technology,Phones,1028.36,6,0.1,5553.13,1199.17,Credit Card,3.0,5,May,2
+ORD-2023490,2023-05-29,CUST-1265,Consumer,East,Office Supplies,Art,125.03,4,0.15,425.1,189.91,PayPal,2.0,5,May,2
+ORD-2023491,2023-05-30,CUST-1396,Corporate,Central,Office Supplies,Appliances,111.87,4,0.05,425.1,141.17,Credit Card,4.0,5,May,2
+ORD-2023492,2023-05-30,CUST-1382,Corporate,South,Technology,Laptops,695.28,4,0.0,2781.11,1030.03,Credit Card,4.0,5,May,2
+ORD-2023493,2023-05-30,CUST-1013,Consumer,East,Office Supplies,Binders,58.58,6,0.05,333.91,110.17,Credit Card,4.0,5,May,2
+ORD-2023494,2023-05-30,CUST-1245,Home Office,North,Office Supplies,Art,16.95,1,0.0,16.95,7.21,PayPal,3.0,5,May,2
+ORD-2023495,2023-05-31,CUST-1069,Consumer,East,Furniture,Tables,480.65,2,0.05,817.11,36.03,Credit Card,3.0,5,May,2
+ORD-2023496,2023-05-31,CUST-1179,Corporate,North,Furniture,Tables,70.05,4,0.0,280.21,81.84,Credit Card,4.0,5,May,2
+ORD-2023497,2023-05-31,CUST-1212,Consumer,North,Technology,Accessories,621.53,2,0.0,1243.06,389.52,Credit Card,2.0,5,May,2
+ORD-2023498,2023-06-01,CUST-1171,Corporate,Central,Technology,Accessories,1168.58,3,0.1,3155.16,596.81,Credit Card,4.0,6,Jun,2
+ORD-2023499,2023-06-01,CUST-1228,Corporate,South,Technology,Laptops,483.94,1,0.05,459.74,102.25,UPI,4.0,6,Jun,2
+ORD-2023500,2023-06-01,CUST-1181,Consumer,East,Technology,Phones,257.49,5,0.1,1158.68,241.05,PayPal,5.0,6,Jun,2
+ORD-2023501,2023-06-02,CUST-1257,Home Office,East,Technology,Accessories,282.42,4,0.05,1073.2,296.82,Bank Transfer,4.0,6,Jun,2
+ORD-2023502,2023-06-02,CUST-1329,Consumer,South,Office Supplies,Paper,38.25,4,0.1,137.7,41.04,Credit Card,3.0,6,Jun,2
+ORD-2023503,2023-06-02,CUST-1340,Consumer,East,Furniture,Furnishings,72.18,2,0.0,144.37,36.25,UPI,3.0,6,Jun,2
+ORD-2023504,2023-06-03,CUST-1150,Home Office,West,Office Supplies,Appliances,123.2,1,0.0,123.2,59.93,Credit Card,1.0,6,Jun,2
+ORD-2023505,2023-06-03,CUST-1008,Corporate,East,Furniture,Tables,116.41,1,0.05,110.59,12.04,PayPal,5.0,6,Jun,2
+ORD-2023506,2023-06-03,CUST-1074,Corporate,North,Office Supplies,Art,97.85,10,0.0,978.46,357.4,Credit Card,3.0,6,Jun,2
+ORD-2023507,2023-06-03,CUST-1220,Consumer,Central,Furniture,Bookcases,555.19,1,0.05,527.43,134.89,Credit Card,4.0,6,Jun,2
+ORD-2023508,2023-06-04,CUST-1008,Corporate,East,Office Supplies,Binders,101.5,2,0.05,192.85,90.37,Credit Card,3.0,6,Jun,2
+ORD-2023509,2023-06-04,CUST-1027,Consumer,South,Technology,Printers,537.82,1,0.3,376.48,0.24,Bank Transfer,4.0,6,Jun,2
+ORD-2023510,2023-06-04,CUST-1245,Consumer,West,Technology,Phones,231.36,2,0.0,462.71,165.49,UPI,3.0,6,Jun,2
+ORD-2023511,2023-06-05,CUST-1381,Corporate,South,Technology,Accessories,690.21,2,0.0,1380.43,374.75,PayPal,4.0,6,Jun,2
+ORD-2023512,2023-06-05,CUST-1026,Consumer,East,Furniture,Furnishings,466.31,5,0.3,1632.09,-241.0,Credit Card,2.0,6,Jun,2
+ORD-2023513,2023-06-05,CUST-1311,Consumer,West,Office Supplies,Art,88.08,8,0.05,669.38,344.61,Credit Card,4.0,6,Jun,2
+ORD-2023514,2023-06-06,CUST-1332,Consumer,North,Office Supplies,Appliances,51.7,2,0.0,103.4,40.74,Credit Card,3.0,6,Jun,2
+ORD-2023515,2023-06-06,CUST-1033,Consumer,South,Office Supplies,Binders,17.35,1,0.0,17.35,7.98,Bank Transfer,4.0,6,Jun,2
+ORD-2023516,2023-06-06,CUST-1192,Corporate,North,Office Supplies,Appliances,16.59,1,0.05,15.76,8.23,UPI,4.0,6,Jun,2
+ORD-2023517,2023-06-06,CUST-1146,Consumer,East,Office Supplies,Paper,89.58,10,0.0,895.8,350.79,PayPal,5.0,6,Jun,2
+ORD-2023518,2023-06-07,CUST-1070,Home Office,North,Technology,Phones,1127.55,2,0.2,1804.08,433.94,Credit Card,4.0,6,Jun,2
+ORD-2023519,2023-06-07,CUST-1197,Consumer,Central,Office Supplies,Storage,17.7,1,0.0,17.7,7.69,Credit Card,4.0,6,Jun,2
+ORD-2023520,2023-06-07,CUST-1054,Consumer,South,Technology,Printers,1164.89,1,0.05,1106.64,242.64,UPI,1.0,6,Jun,2
+ORD-2023521,2023-06-08,CUST-1321,Home Office,East,Office Supplies,Binders,11.99,2,0.1,21.58,9.56,Bank Transfer,5.0,6,Jun,2
+ORD-2023522,2023-06-08,CUST-1372,Home Office,North,Office Supplies,Paper,17.8,1,0.15,15.13,6.66,Credit Card,3.0,6,Jun,2
+ORD-2023523,2023-06-08,CUST-1151,Consumer,East,Office Supplies,Binders,28.67,4,0.0,114.66,43.53,UPI,1.0,6,Jun,2
+ORD-2023524,2023-06-09,CUST-1264,Corporate,East,Office Supplies,Art,57.89,1,0.0,57.89,22.46,PayPal,3.0,6,Jun,2
+ORD-2023525,2023-06-09,CUST-1314,Corporate,South,Technology,Accessories,1165.32,5,0.0,5826.58,1831.41,PayPal,5.0,6,Jun,2
+ORD-2023526,2023-06-09,CUST-1309,Consumer,North,Office Supplies,Binders,74.11,5,0.0,370.53,174.56,UPI,5.0,6,Jun,2
+ORD-2023527,2023-06-09,CUST-1388,Home Office,Central,Furniture,Tables,293.89,2,0.1,529.0,89.25,Credit Card,4.0,6,Jun,2
+ORD-2023528,2023-06-10,CUST-1165,Consumer,South,Technology,Accessories,481.41,1,0.0,481.41,157.1,Credit Card,5.0,6,Jun,2
+ORD-2023529,2023-06-10,CUST-1145,Home Office,North,Office Supplies,Art,105.38,3,0.0,316.14,128.61,PayPal,2.0,6,Jun,2
+ORD-2023530,2023-06-10,CUST-1044,Home Office,North,Office Supplies,Binders,128.13,1,0.0,128.13,58.67,UPI,2.0,6,Jun,2
+ORD-2023531,2023-06-11,CUST-1331,Corporate,East,Furniture,Chairs,119.1,1,0.0,119.1,30.55,Credit Card,4.0,6,Jun,2
+ORD-2023532,2023-06-11,CUST-1218,Consumer,Central,Furniture,Chairs,575.07,1,0.0,575.07,103.5,Credit Card,3.0,6,Jun,2
+ORD-2023533,2023-06-11,CUST-1107,Home Office,West,Furniture,Chairs,247.82,1,0.0,247.82,48.8,Credit Card,1.0,6,Jun,2
+ORD-2023534,2023-06-12,CUST-1179,Corporate,West,Technology,Printers,469.3,1,0.05,445.83,107.12,Bank Transfer,4.0,6,Jun,2
+ORD-2023535,2023-06-12,CUST-1038,Corporate,East,Technology,Phones,1110.85,4,0.05,4221.24,1450.97,Credit Card,4.0,6,Jun,2
+ORD-2023536,2023-06-12,CUST-1004,Home Office,East,Furniture,Tables,397.45,1,0.0,397.45,88.31,PayPal,3.0,6,Jun,2
+ORD-2023537,2023-06-13,CUST-1296,Consumer,South,Technology,Printers,637.18,6,0.15,3249.64,879.34,Bank Transfer,2.0,6,Jun,2
+ORD-2023538,2023-06-13,CUST-1069,Corporate,North,Technology,Printers,826.1,2,0.1,1486.99,288.89,PayPal,4.0,6,Jun,2
+ORD-2023539,2023-06-13,CUST-1273,Home Office,East,Furniture,Chairs,213.1,2,0.3,298.33,-16.95,Credit Card,2.0,6,Jun,2
+ORD-2023540,2023-06-13,CUST-1357,Corporate,East,Technology,Printers,430.5,2,0.0,861.0,226.79,Bank Transfer,4.0,6,Jun,2
+ORD-2023541,2023-06-14,CUST-1349,Consumer,South,Technology,Accessories,1094.38,2,0.15,1860.45,503.35,UPI,4.0,6,Jun,2
+ORD-2023542,2023-06-14,CUST-1047,Home Office,West,Technology,Phones,329.13,2,0.15,559.52,121.44,PayPal,4.0,6,Jun,2
+ORD-2023543,2023-06-14,CUST-1357,Consumer,South,Office Supplies,Storage,58.69,1,0.1,52.82,26.16,Bank Transfer,4.0,6,Jun,2
+ORD-2023544,2023-06-15,CUST-1290,Home Office,South,Office Supplies,Paper,15.59,4,0.1,56.13,23.54,PayPal,2.0,6,Jun,2
+ORD-2023545,2023-06-15,CUST-1257,Home Office,East,Furniture,Tables,221.41,1,0.3,154.99,-17.44,Credit Card,4.0,6,Jun,2
+ORD-2023546,2023-06-15,CUST-1217,Corporate,South,Office Supplies,Appliances,17.99,3,0.0,53.98,25.99,Credit Card,3.0,6,Jun,2
+ORD-2023547,2023-06-16,CUST-1046,Consumer,West,Office Supplies,Storage,124.98,2,0.15,212.46,87.75,Bank Transfer,3.0,6,Jun,2
+ORD-2023548,2023-06-16,CUST-1116,Consumer,East,Office Supplies,Appliances,13.5,2,0.1,24.3,8.26,PayPal,4.0,6,Jun,2
+ORD-2023549,2023-06-16,CUST-1264,Corporate,West,Technology,Laptops,1063.1,2,0.2,1700.96,364.82,Credit Card,2.0,6,Jun,2
+ORD-2023550,2023-06-16,CUST-1101,Consumer,Central,Technology,Laptops,718.43,10,0.3,5029.02,412.32,Credit Card,3.0,6,Jun,2
+ORD-2023551,2023-06-17,CUST-1219,Corporate,North,Office Supplies,Appliances,59.35,1,0.1,53.41,25.21,Bank Transfer,5.0,6,Jun,2
+ORD-2023552,2023-06-17,CUST-1329,Consumer,West,Furniture,Chairs,368.32,4,0.1,1325.94,158.02,Bank Transfer,2.0,6,Jun,2
+ORD-2023553,2023-06-17,CUST-1292,Consumer,East,Furniture,Furnishings,222.79,1,0.05,211.65,23.68,Credit Card,4.0,6,Jun,2
+ORD-2023554,2023-06-18,CUST-1330,Consumer,Central,Technology,Printers,372.3,4,0.05,1414.74,489.0,UPI,3.0,6,Jun,2
+ORD-2023555,2023-06-18,CUST-1242,Corporate,South,Technology,Printers,1024.33,5,0.2,4097.31,645.27,Credit Card,1.0,6,Jun,2
+ORD-2023556,2023-06-18,CUST-1102,Corporate,South,Office Supplies,Binders,138.14,5,0.0,690.7,343.18,PayPal,5.0,6,Jun,2
+ORD-2023557,2023-06-19,CUST-1131,Home Office,West,Furniture,Chairs,215.87,1,0.0,215.87,58.66,Credit Card,4.0,6,Jun,2
+ORD-2023558,2023-06-19,CUST-1313,Consumer,North,Furniture,Chairs,403.89,1,0.0,403.89,109.22,UPI,5.0,6,Jun,2
+ORD-2023559,2023-06-19,CUST-1168,Corporate,West,Furniture,Tables,395.8,1,0.05,376.01,83.15,UPI,4.0,6,Jun,2
+ORD-2023560,2023-06-20,CUST-1072,Consumer,West,Furniture,Chairs,420.86,10,0.1,3787.75,223.08,Credit Card,5.0,6,Jun,2
+ORD-2023561,2023-06-20,CUST-1242,Home Office,South,Technology,Accessories,812.17,2,0.05,1624.33,544.93,Bank Transfer,5.0,6,Jun,2
+ORD-2023562,2023-06-20,CUST-1073,Home Office,West,Office Supplies,Appliances,45.4,1,0.2,36.32,15.28,PayPal,4.0,6,Jun,2
+ORD-2023563,2023-06-20,CUST-1142,Consumer,South,Technology,Laptops,808.09,4,0.0,3232.36,1222.11,PayPal,4.0,6,Jun,2
+ORD-2023564,2023-06-21,CUST-1061,Consumer,Central,Technology,Laptops,433.11,10,0.0,4331.12,1199.93,Credit Card,4.0,6,Jun,2
+ORD-2023565,2023-06-21,CUST-1091,Corporate,West,Technology,Printers,292.53,8,0.0,2340.27,592.99,Credit Card,2.0,6,Jun,2
+ORD-2023566,2023-06-21,CUST-1203,Consumer,North,Office Supplies,Binders,57.91,3,0.05,165.05,52.77,Credit Card,5.0,6,Jun,2
+ORD-2023567,2023-06-22,CUST-1310,Consumer,North,Technology,Laptops,276.4,6,0.05,1575.46,435.96,Bank Transfer,4.0,6,Jun,2
+ORD-2023568,2023-06-22,CUST-1299,Consumer,South,Furniture,Furnishings,400.52,2,0.05,760.98,191.76,UPI,4.0,6,Jun,2
+ORD-2023569,2023-06-22,CUST-1125,Consumer,Central,Office Supplies,Storage,123.91,1,0.2,99.12,25.65,Credit Card,4.0,6,Jun,2
+ORD-2023570,2023-06-23,CUST-1045,Consumer,North,Furniture,Chairs,454.82,2,0.0,909.64,229.23,UPI,5.0,6,Jun,2
+ORD-2023571,2023-06-23,CUST-1280,Corporate,North,Office Supplies,Storage,11.21,2,0.05,21.29,11.11,PayPal,1.0,6,Jun,2
+ORD-2023572,2023-06-23,CUST-1166,Consumer,West,Office Supplies,Paper,42.62,2,0.0,85.25,33.03,Credit Card,4.0,6,Jun,2
+ORD-2023573,2023-06-23,CUST-1176,Corporate,North,Furniture,Tables,347.68,3,0.0,1043.04,304.63,Credit Card,4.0,6,Jun,2
+ORD-2023574,2023-06-24,CUST-1153,Corporate,Central,Furniture,Chairs,490.45,3,0.05,1397.78,268.27,PayPal,3.0,6,Jun,2
+ORD-2023575,2023-06-24,CUST-1246,Home Office,South,Technology,Laptops,1149.88,3,0.05,3277.15,931.54,Credit Card,4.0,6,Jun,2
+ORD-2023576,2023-06-24,CUST-1088,Consumer,South,Furniture,Chairs,77.94,5,0.2,311.77,11.6,UPI,2.0,6,Jun,2
+ORD-2023577,2023-06-25,CUST-1130,Home Office,South,Technology,Printers,812.67,2,0.0,1625.35,475.85,UPI,5.0,6,Jun,2
+ORD-2023578,2023-06-25,CUST-1120,Home Office,North,Office Supplies,Appliances,67.77,2,0.0,135.55,71.83,Credit Card,3.0,6,Jun,2
+ORD-2023579,2023-06-25,CUST-1355,Consumer,North,Office Supplies,Binders,49.38,1,0.0,49.38,23.1,Bank Transfer,5.0,6,Jun,2
+ORD-2023580,2023-06-26,CUST-1063,Consumer,West,Technology,Printers,1016.71,1,0.15,864.21,231.82,PayPal,1.0,6,Jun,2
+ORD-2023581,2023-06-26,CUST-1322,Consumer,West,Furniture,Tables,496.01,6,0.05,2827.28,565.3,Bank Transfer,4.0,6,Jun,2
+ORD-2023582,2023-06-26,CUST-1016,Home Office,West,Office Supplies,Binders,120.78,4,0.15,410.66,173.84,Credit Card,5.0,6,Jun,2
+ORD-2023583,2023-06-26,CUST-1098,Corporate,East,Furniture,Tables,404.83,8,0.0,3238.66,963.35,Credit Card,1.0,6,Jun,2
+ORD-2023584,2023-06-27,CUST-1104,Corporate,West,Technology,Laptops,163.95,2,0.05,311.5,88.11,Credit Card,4.0,6,Jun,2
+ORD-2023585,2023-06-27,CUST-1385,Consumer,North,Office Supplies,Binders,100.76,5,0.1,453.4,209.33,Credit Card,5.0,6,Jun,2
+ORD-2023586,2023-06-27,CUST-1331,Corporate,South,Office Supplies,Binders,122.52,8,0.05,931.13,329.75,PayPal,5.0,6,Jun,2
+ORD-2023587,2023-06-28,CUST-1199,Corporate,North,Furniture,Furnishings,279.89,5,0.0,1399.46,240.72,Credit Card,3.0,6,Jun,2
+ORD-2023588,2023-06-28,CUST-1302,Corporate,North,Furniture,Furnishings,392.73,4,0.0,1570.9,387.37,PayPal,3.0,6,Jun,2
+ORD-2023589,2023-06-28,CUST-1168,Consumer,West,Office Supplies,Binders,93.1,2,0.0,186.2,97.68,Bank Transfer,5.0,6,Jun,2
+ORD-2023590,2023-06-29,CUST-1269,Home Office,Central,Furniture,Chairs,332.43,2,0.0,664.87,104.69,Bank Transfer,4.0,6,Jun,2
+ORD-2023591,2023-06-29,CUST-1076,Home Office,South,Office Supplies,Paper,56.66,2,0.0,113.32,51.17,Bank Transfer,4.0,6,Jun,2
+ORD-2023592,2023-06-29,CUST-1083,Consumer,Central,Furniture,Tables,217.8,2,0.0,435.61,119.65,Credit Card,3.0,6,Jun,2
+ORD-2023593,2023-06-30,CUST-1015,Consumer,West,Furniture,Furnishings,230.82,1,0.05,219.28,48.08,Credit Card,4.0,6,Jun,2
+ORD-2023594,2023-06-30,CUST-1136,Consumer,East,Office Supplies,Appliances,50.05,6,0.2,240.25,61.7,PayPal,4.0,6,Jun,2
+ORD-2023595,2023-06-30,CUST-1120,Consumer,West,Technology,Laptops,600.33,1,0.0,600.33,223.11,PayPal,3.0,6,Jun,2
+ORD-2023596,2023-06-30,CUST-1023,Consumer,Central,Office Supplies,Storage,86.28,3,0.1,232.94,102.5,UPI,3.0,6,Jun,2
+ORD-2023597,2023-07-01,CUST-1361,Consumer,North,Furniture,Tables,599.7,4,0.05,2278.87,311.02,Credit Card,3.0,7,Jul,3
+ORD-2023598,2023-07-01,CUST-1100,Corporate,North,Technology,Phones,168.93,2,0.2,270.29,62.39,PayPal,5.0,7,Jul,3
+ORD-2023599,2023-07-01,CUST-1330,Consumer,Central,Furniture,Tables,480.74,2,0.05,913.4,216.12,PayPal,5.0,7,Jul,3
+ORD-2023600,2023-07-02,CUST-1190,Consumer,North,Office Supplies,Storage,36.23,3,0.1,97.82,48.21,Credit Card,5.0,7,Jul,3
+ORD-2023601,2023-07-02,CUST-1187,Corporate,Central,Office Supplies,Binders,18.63,1,0.05,17.7,7.64,PayPal,3.0,7,Jul,3
+ORD-2023602,2023-07-02,CUST-1242,Home Office,East,Technology,Phones,703.36,1,0.0,703.36,222.09,Credit Card,4.0,7,Jul,3
+ORD-2023603,2023-07-03,CUST-1336,Home Office,North,Furniture,Tables,491.48,1,0.0,491.48,89.35,Credit Card,4.0,7,Jul,3
+ORD-2023604,2023-07-03,CUST-1279,Home Office,West,Technology,Printers,313.64,4,0.0,1254.58,456.02,Credit Card,4.0,7,Jul,3
+ORD-2023605,2023-07-03,CUST-1161,Consumer,Central,Furniture,Tables,192.21,2,0.0,384.41,95.88,PayPal,2.0,7,Jul,3
+ORD-2023606,2023-07-03,CUST-1387,Consumer,South,Furniture,Chairs,336.11,1,0.15,285.69,21.89,Credit Card,4.0,7,Jul,3
+ORD-2023607,2023-07-04,CUST-1189,Corporate,North,Furniture,Bookcases,592.26,2,0.05,1125.3,157.42,UPI,4.0,7,Jul,3
+ORD-2023608,2023-07-04,CUST-1222,Home Office,East,Furniture,Tables,407.9,5,0.2,1631.59,-61.24,Credit Card,4.0,7,Jul,3
+ORD-2023609,2023-07-04,CUST-1057,Corporate,North,Furniture,Bookcases,488.58,1,0.05,464.15,69.37,Credit Card,3.0,7,Jul,3
+ORD-2023610,2023-07-05,CUST-1103,Corporate,East,Technology,Printers,846.66,1,0.0,846.66,232.45,Bank Transfer,3.0,7,Jul,3
+ORD-2023611,2023-07-05,CUST-1104,Corporate,Central,Furniture,Furnishings,103.56,3,0.0,310.67,79.08,UPI,2.0,7,Jul,3
+ORD-2023612,2023-07-05,CUST-1224,Corporate,South,Office Supplies,Art,61.04,1,0.15,51.88,14.11,PayPal,5.0,7,Jul,3
+ORD-2023613,2023-07-06,CUST-1234,Corporate,West,Furniture,Tables,287.66,2,0.0,575.33,89.18,Credit Card,5.0,7,Jul,3
+ORD-2023614,2023-07-06,CUST-1309,Consumer,West,Office Supplies,Paper,108.3,1,0.1,97.47,40.68,Credit Card,4.0,7,Jul,3
+ORD-2023615,2023-07-06,CUST-1301,Corporate,North,Furniture,Tables,249.58,4,0.2,798.64,9.82,PayPal,4.0,7,Jul,3
+ORD-2023616,2023-07-07,CUST-1220,Consumer,East,Technology,Printers,480.29,3,0.1,1296.79,414.03,Credit Card,2.0,7,Jul,3
+ORD-2023617,2023-07-07,CUST-1238,Corporate,South,Technology,Laptops,866.73,1,0.3,606.71,-26.63,Credit Card,3.0,7,Jul,3
+ORD-2023618,2023-07-07,CUST-1052,Consumer,South,Technology,Accessories,950.57,3,0.0,2851.7,755.57,PayPal,4.0,7,Jul,3
+ORD-2023619,2023-07-07,CUST-1342,Home Office,South,Furniture,Furnishings,433.83,10,0.0,4338.25,1126.91,Credit Card,3.0,7,Jul,3
+ORD-2023620,2023-07-08,CUST-1230,Corporate,East,Office Supplies,Binders,142.3,1,0.05,135.19,51.98,Credit Card,4.0,7,Jul,3
+ORD-2023621,2023-07-08,CUST-1092,Consumer,North,Technology,Printers,678.91,3,0.0,2036.72,561.06,UPI,4.0,7,Jul,3
+ORD-2023622,2023-07-08,CUST-1346,Corporate,West,Furniture,Bookcases,582.33,3,0.05,1659.63,203.57,Credit Card,3.0,7,Jul,3
+ORD-2023623,2023-07-09,CUST-1326,Home Office,South,Furniture,Bookcases,508.26,3,0.1,1372.29,207.34,PayPal,3.0,7,Jul,3
+ORD-2023624,2023-07-09,CUST-1203,Home Office,South,Technology,Laptops,1114.68,2,0.15,1894.96,410.07,PayPal,5.0,7,Jul,3
+ORD-2023625,2023-07-09,CUST-1207,Consumer,West,Office Supplies,Appliances,39.16,1,0.0,39.16,19.93,Credit Card,5.0,7,Jul,3
+ORD-2023626,2023-07-10,CUST-1095,Corporate,South,Office Supplies,Binders,134.24,1,0.05,127.53,63.43,Credit Card,4.0,7,Jul,3
+ORD-2023627,2023-07-10,CUST-1143,Consumer,West,Office Supplies,Binders,45.3,1,0.1,40.77,15.94,PayPal,4.0,7,Jul,3
+ORD-2023628,2023-07-10,CUST-1313,Corporate,West,Technology,Printers,415.02,1,0.0,415.02,125.12,UPI,4.0,7,Jul,3
+ORD-2023629,2023-07-10,CUST-1160,Corporate,North,Technology,Laptops,249.42,2,0.1,448.95,147.19,Credit Card,4.0,7,Jul,3
+ORD-2023630,2023-07-11,CUST-1211,Corporate,Central,Technology,Printers,1145.61,3,0.15,2921.3,608.27,Credit Card,3.0,7,Jul,3
+ORD-2023631,2023-07-11,CUST-1176,Consumer,West,Office Supplies,Binders,86.59,4,0.1,311.72,110.84,PayPal,4.0,7,Jul,3
+ORD-2023632,2023-07-11,CUST-1039,Consumer,South,Furniture,Tables,583.74,1,0.05,554.55,136.09,Bank Transfer,3.0,7,Jul,3
+ORD-2023633,2023-07-12,CUST-1368,Corporate,North,Furniture,Tables,263.77,5,0.05,1252.91,241.93,Credit Card,4.0,7,Jul,3
+ORD-2023634,2023-07-12,CUST-1092,Home Office,West,Technology,Phones,187.76,1,0.05,178.38,47.18,Credit Card,3.0,7,Jul,3
+ORD-2023635,2023-07-12,CUST-1228,Home Office,North,Technology,Printers,245.42,3,0.1,662.63,126.48,Credit Card,4.0,7,Jul,3
+ORD-2023636,2023-07-13,CUST-1033,Consumer,Central,Technology,Accessories,859.97,3,0.1,2321.91,422.69,Credit Card,4.0,7,Jul,3
+ORD-2023637,2023-07-13,CUST-1228,Consumer,South,Furniture,Tables,171.24,5,0.05,813.39,95.21,Credit Card,4.0,7,Jul,3
+ORD-2023638,2023-07-13,CUST-1323,Corporate,South,Technology,Phones,694.97,3,0.1,1876.43,319.23,Credit Card,4.0,7,Jul,3
+ORD-2023639,2023-07-13,CUST-1138,Consumer,South,Technology,Phones,421.64,1,0.05,400.56,145.94,Credit Card,3.0,7,Jul,3
+ORD-2023640,2023-07-14,CUST-1308,Consumer,East,Furniture,Chairs,135.16,3,0.05,385.21,79.7,Credit Card,4.0,7,Jul,3
+ORD-2023641,2023-07-14,CUST-1166,Consumer,East,Technology,Laptops,1173.51,1,0.0,1173.51,324.08,UPI,4.0,7,Jul,3
+ORD-2023642,2023-07-14,CUST-1274,Corporate,South,Office Supplies,Art,57.56,1,0.0,57.56,23.38,Credit Card,3.0,7,Jul,3
+ORD-2023643,2023-07-15,CUST-1322,Consumer,South,Furniture,Bookcases,549.98,4,0.2,1759.95,210.38,Credit Card,4.0,7,Jul,3
+ORD-2023644,2023-07-15,CUST-1342,Corporate,East,Furniture,Bookcases,192.12,5,0.15,816.49,26.14,Credit Card,2.0,7,Jul,3
+ORD-2023645,2023-07-15,CUST-1248,Corporate,East,Technology,Laptops,845.93,2,0.0,1691.85,526.97,Credit Card,4.0,7,Jul,3
+ORD-2023646,2023-07-16,CUST-1245,Home Office,North,Office Supplies,Paper,123.1,2,0.1,221.57,76.67,Credit Card,3.0,7,Jul,3
+ORD-2023647,2023-07-16,CUST-1288,Corporate,South,Office Supplies,Paper,136.96,1,0.05,130.11,52.39,Bank Transfer,5.0,7,Jul,3
+ORD-2023648,2023-07-16,CUST-1197,Consumer,Central,Office Supplies,Storage,135.48,5,0.0,677.38,279.66,Bank Transfer,3.0,7,Jul,3
+ORD-2023649,2023-07-17,CUST-1087,Consumer,South,Furniture,Furnishings,226.31,1,0.05,215.0,52.0,Credit Card,3.0,7,Jul,3
+ORD-2023650,2023-07-17,CUST-1147,Corporate,South,Office Supplies,Appliances,114.22,1,0.0,114.22,59.35,Bank Transfer,3.0,7,Jul,3
+ORD-2023651,2023-07-17,CUST-1023,Corporate,East,Office Supplies,Appliances,132.43,1,0.2,105.94,45.2,Bank Transfer,1.0,7,Jul,3
+ORD-2023652,2023-07-17,CUST-1028,Consumer,South,Office Supplies,Binders,105.44,4,0.15,358.5,151.18,Credit Card,3.0,7,Jul,3
+ORD-2023653,2023-07-18,CUST-1287,Corporate,South,Furniture,Tables,494.87,2,0.1,890.77,154.2,Credit Card,3.0,7,Jul,3
+ORD-2023654,2023-07-18,CUST-1289,Home Office,East,Office Supplies,Paper,102.61,1,0.0,102.61,37.9,Bank Transfer,5.0,7,Jul,3
+ORD-2023655,2023-07-18,CUST-1298,Consumer,South,Technology,Laptops,392.27,4,0.0,1569.09,559.1,Bank Transfer,4.0,7,Jul,3
+ORD-2023656,2023-07-19,CUST-1336,Consumer,North,Furniture,Tables,578.85,2,0.0,1157.7,207.13,UPI,3.0,7,Jul,3
+ORD-2023657,2023-07-19,CUST-1131,Home Office,North,Office Supplies,Appliances,43.34,1,0.0,43.34,15.7,PayPal,5.0,7,Jul,3
+ORD-2023658,2023-07-19,CUST-1124,Corporate,North,Office Supplies,Binders,149.0,1,0.05,141.55,62.35,Credit Card,2.0,7,Jul,3
+ORD-2023659,2023-07-20,CUST-1235,Consumer,Central,Furniture,Chairs,305.86,2,0.1,550.55,116.54,Credit Card,5.0,7,Jul,3
+ORD-2023660,2023-07-20,CUST-1061,Consumer,Central,Office Supplies,Art,55.96,5,0.1,251.8,119.59,Credit Card,4.0,7,Jul,3
+ORD-2023661,2023-07-20,CUST-1103,Consumer,Central,Technology,Phones,207.48,2,0.05,394.22,123.14,Credit Card,4.0,7,Jul,3
+ORD-2023662,2023-07-20,CUST-1137,Home Office,West,Office Supplies,Binders,87.08,1,0.0,87.08,33.51,Credit Card,4.0,7,Jul,3
+ORD-2023663,2023-07-21,CUST-1240,Consumer,North,Technology,Accessories,703.16,1,0.0,703.16,275.24,PayPal,4.0,7,Jul,3
+ORD-2023664,2023-07-21,CUST-1286,Consumer,South,Office Supplies,Paper,54.31,1,0.0,54.31,21.47,Bank Transfer,4.0,7,Jul,3
+ORD-2023665,2023-07-21,CUST-1292,Home Office,West,Technology,Printers,895.27,2,0.3,1253.38,49.53,UPI,3.0,7,Jul,3
+ORD-2023666,2023-07-22,CUST-1129,Consumer,West,Technology,Printers,575.25,1,0.05,546.49,120.96,UPI,5.0,7,Jul,3
+ORD-2023667,2023-07-22,CUST-1113,Corporate,North,Furniture,Tables,582.41,1,0.0,582.41,94.81,Credit Card,5.0,7,Jul,3
+ORD-2023668,2023-07-22,CUST-1114,Corporate,South,Office Supplies,Art,129.71,2,0.1,233.48,94.33,PayPal,2.0,7,Jul,3
+ORD-2023669,2023-07-23,CUST-1330,Home Office,East,Office Supplies,Paper,20.07,6,0.0,120.4,44.33,PayPal,3.0,7,Jul,3
+ORD-2023670,2023-07-23,CUST-1012,Corporate,Central,Technology,Laptops,678.23,3,0.0,2034.68,788.57,Bank Transfer,4.0,7,Jul,3
+ORD-2023671,2023-07-23,CUST-1229,Corporate,North,Technology,Printers,160.27,2,0.15,272.46,76.53,Credit Card,5.0,7,Jul,3
+ORD-2023672,2023-07-24,CUST-1395,Consumer,East,Furniture,Furnishings,330.88,4,0.15,1124.98,103.82,PayPal,2.0,7,Jul,3
+ORD-2023673,2023-07-24,CUST-1103,Corporate,East,Technology,Printers,864.6,3,0.15,2204.72,314.3,Bank Transfer,4.0,7,Jul,3
+ORD-2023674,2023-07-24,CUST-1227,Consumer,Central,Office Supplies,Storage,19.76,6,0.1,106.69,51.97,Credit Card,5.0,7,Jul,3
+ORD-2023675,2023-07-24,CUST-1003,Home Office,North,Office Supplies,Art,129.07,2,0.1,232.33,70.84,Credit Card,3.0,7,Jul,3
+ORD-2023676,2023-07-25,CUST-1303,Corporate,East,Furniture,Tables,137.41,2,0.0,274.82,80.24,PayPal,4.0,7,Jul,3
+ORD-2023677,2023-07-25,CUST-1381,Corporate,East,Technology,Laptops,154.95,1,0.2,123.96,29.31,Credit Card,4.0,7,Jul,3
+ORD-2023678,2023-07-25,CUST-1302,Consumer,Central,Technology,Laptops,247.76,5,0.1,1114.93,284.65,Credit Card,3.0,7,Jul,3
+ORD-2023679,2023-07-26,CUST-1048,Home Office,Central,Furniture,Chairs,528.87,3,0.2,1269.29,58.27,Bank Transfer,4.0,7,Jul,3
+ORD-2023680,2023-07-26,CUST-1270,Corporate,East,Technology,Laptops,1042.33,1,0.0,1042.33,371.19,Credit Card,3.0,7,Jul,3
+ORD-2023681,2023-07-26,CUST-1338,Corporate,South,Technology,Printers,491.99,5,0.0,2459.94,809.6,Bank Transfer,4.0,7,Jul,3
+ORD-2023682,2023-07-27,CUST-1115,Consumer,North,Office Supplies,Paper,139.99,3,0.2,335.98,98.3,Credit Card,4.0,7,Jul,3
+ORD-2023683,2023-07-27,CUST-1218,Home Office,West,Office Supplies,Storage,59.09,2,0.0,118.18,56.09,Credit Card,3.0,7,Jul,3
+ORD-2023684,2023-07-27,CUST-1130,Consumer,North,Technology,Phones,679.48,1,0.0,679.48,183.57,Credit Card,4.0,7,Jul,3
+ORD-2023685,2023-07-27,CUST-1037,Home Office,West,Office Supplies,Binders,94.53,1,0.3,66.17,14.3,Credit Card,3.0,7,Jul,3
+ORD-2023686,2023-07-28,CUST-1127,Corporate,East,Office Supplies,Art,72.4,1,0.05,68.78,24.09,PayPal,4.0,7,Jul,3
+ORD-2023687,2023-07-28,CUST-1267,Corporate,North,Furniture,Bookcases,562.96,3,0.0,1688.87,409.62,Credit Card,4.0,7,Jul,3
+ORD-2023688,2023-07-28,CUST-1327,Home Office,East,Office Supplies,Paper,78.66,4,0.0,314.65,165.52,UPI,5.0,7,Jul,3
+ORD-2023689,2023-07-29,CUST-1399,Corporate,West,Technology,Accessories,287.57,1,0.05,273.19,74.73,Credit Card,3.0,7,Jul,3
+ORD-2023690,2023-07-29,CUST-1327,Home Office,North,Furniture,Furnishings,493.08,6,0.2,2366.81,269.99,PayPal,1.0,7,Jul,3
+ORD-2023691,2023-07-29,CUST-1191,Consumer,East,Office Supplies,Appliances,12.57,3,0.0,37.71,15.81,Credit Card,2.0,7,Jul,3
+ORD-2023692,2023-07-30,CUST-1051,Consumer,South,Office Supplies,Paper,92.95,1,0.0,92.95,35.59,UPI,1.0,7,Jul,3
+ORD-2023693,2023-07-30,CUST-1052,Consumer,South,Office Supplies,Binders,78.05,2,0.3,109.26,18.29,Bank Transfer,3.0,7,Jul,3
+ORD-2023694,2023-07-30,CUST-1066,Consumer,West,Furniture,Bookcases,221.07,1,0.1,198.96,33.37,Credit Card,5.0,7,Jul,3
+ORD-2023695,2023-07-30,CUST-1167,Corporate,North,Furniture,Furnishings,471.11,2,0.0,942.22,272.8,Bank Transfer,5.0,7,Jul,3
+ORD-2023696,2023-07-31,CUST-1071,Home Office,North,Office Supplies,Binders,147.78,4,0.1,532.0,178.96,PayPal,4.0,7,Jul,3
+ORD-2023697,2023-07-31,CUST-1289,Corporate,Central,Office Supplies,Storage,80.79,1,0.1,72.71,35.11,Credit Card,3.0,7,Jul,3
+ORD-2023698,2023-07-31,CUST-1191,Corporate,East,Furniture,Bookcases,222.94,3,0.05,635.38,108.92,PayPal,4.0,7,Jul,3
+ORD-2023699,2023-08-01,CUST-1072,Home Office,East,Furniture,Chairs,194.33,2,0.2,310.93,24.78,Credit Card,4.0,8,Aug,3
+ORD-2023700,2023-08-01,CUST-1210,Home Office,West,Technology,Phones,371.05,1,0.05,352.5,101.96,Bank Transfer,5.0,8,Aug,3
+ORD-2023701,2023-08-01,CUST-1329,Corporate,South,Furniture,Bookcases,326.06,2,0.05,619.52,103.84,PayPal,3.0,8,Aug,3
+ORD-2023702,2023-08-02,CUST-1358,Consumer,West,Office Supplies,Art,140.54,2,0.0,281.08,101.34,Credit Card,2.0,8,Aug,3
+ORD-2023703,2023-08-02,CUST-1168,Consumer,South,Technology,Phones,552.32,2,0.0,1104.65,310.19,Credit Card,4.0,8,Aug,3
+ORD-2023704,2023-08-02,CUST-1037,Corporate,West,Office Supplies,Storage,141.28,6,0.0,847.67,311.56,Credit Card,3.0,8,Aug,3
+ORD-2023705,2023-08-03,CUST-1341,Home Office,North,Technology,Phones,1144.8,1,0.05,1087.56,327.98,Credit Card,4.0,8,Aug,3
+ORD-2023706,2023-08-03,CUST-1030,Corporate,West,Furniture,Chairs,414.05,4,0.2,1324.95,57.79,Credit Card,4.0,8,Aug,3
+ORD-2023707,2023-08-03,CUST-1154,Consumer,East,Office Supplies,Storage,33.68,2,0.15,57.25,22.6,UPI,4.0,8,Aug,3
+ORD-2023708,2023-08-03,CUST-1186,Home Office,Central,Furniture,Furnishings,558.74,1,0.15,474.93,17.97,Credit Card,3.0,8,Aug,3
+ORD-2023709,2023-08-04,CUST-1286,Consumer,South,Technology,Accessories,617.92,1,0.0,617.92,164.15,Credit Card,1.0,8,Aug,3
+ORD-2023710,2023-08-04,CUST-1201,Consumer,West,Office Supplies,Appliances,94.84,1,0.0,94.84,41.34,PayPal,3.0,8,Aug,3
+ORD-2023711,2023-08-04,CUST-1157,Home Office,West,Office Supplies,Paper,111.13,1,0.05,105.58,53.84,Credit Card,5.0,8,Aug,3
+ORD-2023712,2023-08-05,CUST-1048,Consumer,East,Office Supplies,Storage,28.07,1,0.2,22.45,7.41,Credit Card,5.0,8,Aug,3
+ORD-2023713,2023-08-05,CUST-1130,Corporate,North,Office Supplies,Binders,145.36,1,0.0,145.36,64.64,Credit Card,5.0,8,Aug,3
+ORD-2023714,2023-08-05,CUST-1373,Consumer,Central,Furniture,Tables,185.3,2,0.1,333.54,44.54,Credit Card,3.0,8,Aug,3
+ORD-2023715,2023-08-06,CUST-1073,Consumer,East,Office Supplies,Storage,87.51,1,0.0,87.51,44.83,UPI,5.0,8,Aug,3
+ORD-2023716,2023-08-06,CUST-1259,Home Office,North,Technology,Accessories,684.54,1,0.05,650.31,154.39,Credit Card,2.0,8,Aug,3
+ORD-2023717,2023-08-06,CUST-1116,Corporate,East,Office Supplies,Storage,11.89,10,0.0,118.92,61.55,PayPal,3.0,8,Aug,3
+ORD-2023718,2023-08-06,CUST-1153,Consumer,South,Technology,Laptops,837.51,1,0.1,753.76,202.25,Credit Card,5.0,8,Aug,3
+ORD-2023719,2023-08-07,CUST-1188,Corporate,East,Technology,Accessories,254.47,1,0.0,254.47,78.73,PayPal,4.0,8,Aug,3
+ORD-2023720,2023-08-07,CUST-1274,Consumer,North,Office Supplies,Storage,148.19,3,0.0,444.58,194.62,Credit Card,5.0,8,Aug,3
+ORD-2023721,2023-08-07,CUST-1253,Consumer,North,Furniture,Furnishings,374.11,3,0.15,953.97,74.07,Credit Card,1.0,8,Aug,3
+ORD-2023722,2023-08-08,CUST-1106,Corporate,North,Technology,Laptops,642.49,2,0.05,1220.73,352.51,PayPal,3.0,8,Aug,3
+ORD-2023723,2023-08-08,CUST-1056,Consumer,South,Furniture,Tables,333.87,3,0.15,851.38,104.44,Credit Card,3.0,8,Aug,3
+ORD-2023724,2023-08-08,CUST-1159,Consumer,East,Office Supplies,Appliances,30.79,2,0.1,55.42,20.88,Credit Card,5.0,8,Aug,3
+ORD-2023725,2023-08-09,CUST-1022,Consumer,South,Technology,Accessories,1008.44,2,0.15,1714.35,249.2,Credit Card,1.0,8,Aug,3
+ORD-2023726,2023-08-09,CUST-1377,Consumer,East,Office Supplies,Paper,57.55,2,0.0,115.1,47.01,PayPal,2.0,8,Aug,3
+ORD-2023727,2023-08-09,CUST-1212,Consumer,East,Office Supplies,Binders,131.99,3,0.05,376.16,118.87,Credit Card,3.0,8,Aug,3
+ORD-2023728,2023-08-10,CUST-1277,Consumer,Central,Furniture,Chairs,356.59,4,0.15,1212.39,28.14,PayPal,3.0,8,Aug,3
+ORD-2023729,2023-08-10,CUST-1324,Consumer,East,Technology,Printers,883.78,1,0.05,839.59,196.13,Credit Card,2.0,8,Aug,3
+ORD-2023730,2023-08-10,CUST-1051,Consumer,West,Technology,Printers,412.11,4,0.3,1153.9,-52.18,UPI,5.0,8,Aug,3
+ORD-2023731,2023-08-10,CUST-1190,Consumer,South,Furniture,Chairs,167.0,2,0.15,283.9,19.86,UPI,4.0,8,Aug,3
+ORD-2023732,2023-08-11,CUST-1131,Consumer,West,Office Supplies,Paper,41.53,1,0.2,33.23,8.88,PayPal,3.0,8,Aug,3
+ORD-2023733,2023-08-11,CUST-1015,Corporate,West,Office Supplies,Binders,49.93,4,0.0,199.74,100.3,Credit Card,4.0,8,Aug,3
+ORD-2023734,2023-08-11,CUST-1178,Consumer,East,Office Supplies,Binders,91.95,3,0.0,275.86,121.51,Credit Card,2.0,8,Aug,3
+ORD-2023735,2023-08-12,CUST-1302,Home Office,West,Technology,Phones,978.49,2,0.0,1956.99,679.77,Credit Card,2.0,8,Aug,3
+ORD-2023736,2023-08-12,CUST-1237,Consumer,North,Furniture,Chairs,478.74,4,0.1,1723.47,310.44,UPI,4.0,8,Aug,3
+ORD-2023737,2023-08-12,CUST-1227,Corporate,South,Office Supplies,Paper,36.41,2,0.15,61.89,21.73,Bank Transfer,4.0,8,Aug,3
+ORD-2023738,2023-08-13,CUST-1070,Home Office,Central,Office Supplies,Appliances,17.72,1,0.0,17.72,6.84,PayPal,3.0,8,Aug,3
+ORD-2023739,2023-08-13,CUST-1009,Consumer,East,Technology,Printers,900.11,3,0.1,2430.29,438.81,Credit Card,1.0,8,Aug,3
+ORD-2023740,2023-08-13,CUST-1282,Consumer,North,Furniture,Chairs,503.54,2,0.2,805.67,8.81,Credit Card,5.0,8,Aug,3
+ORD-2023741,2023-08-13,CUST-1176,Home Office,South,Technology,Accessories,392.88,1,0.0,392.88,113.85,Bank Transfer,3.0,8,Aug,3
+ORD-2023742,2023-08-14,CUST-1110,Home Office,West,Technology,Phones,1074.93,3,0.0,3224.78,900.16,UPI,5.0,8,Aug,3
+ORD-2023743,2023-08-14,CUST-1149,Corporate,North,Technology,Printers,1122.59,1,0.1,1010.33,174.85,Credit Card,4.0,8,Aug,3
+ORD-2023744,2023-08-14,CUST-1032,Consumer,North,Furniture,Tables,273.36,2,0.0,546.72,154.78,PayPal,5.0,8,Aug,3
+ORD-2023745,2023-08-15,CUST-1196,Corporate,North,Office Supplies,Binders,13.34,1,0.05,12.68,5.47,Credit Card,3.0,8,Aug,3
+ORD-2023746,2023-08-15,CUST-1255,Consumer,South,Furniture,Tables,375.49,1,0.0,375.49,108.58,Bank Transfer,5.0,8,Aug,3
+ORD-2023747,2023-08-15,CUST-1267,Corporate,North,Office Supplies,Appliances,128.99,4,0.0,515.96,208.84,Credit Card,4.0,8,Aug,3
+ORD-2023748,2023-08-16,CUST-1207,Home Office,South,Office Supplies,Binders,117.77,5,0.05,559.4,228.31,PayPal,4.0,8,Aug,3
+ORD-2023749,2023-08-16,CUST-1352,Consumer,Central,Office Supplies,Appliances,34.14,2,0.1,61.46,22.82,PayPal,3.0,8,Aug,3
+ORD-2023750,2023-08-16,CUST-1315,Corporate,West,Technology,Phones,298.6,2,0.0,597.19,159.82,PayPal,5.0,8,Aug,3
+ORD-2023751,2023-08-16,CUST-1207,Corporate,North,Technology,Printers,185.22,3,0.15,472.32,92.21,Credit Card,1.0,8,Aug,3
+ORD-2023752,2023-08-17,CUST-1210,Consumer,South,Technology,Phones,398.92,1,0.3,279.25,13.13,Credit Card,5.0,8,Aug,3
+ORD-2023753,2023-08-17,CUST-1364,Corporate,Central,Furniture,Bookcases,52.94,5,0.0,264.71,49.7,Credit Card,4.0,8,Aug,3
+ORD-2023754,2023-08-17,CUST-1182,Corporate,North,Furniture,Furnishings,50.43,1,0.1,45.39,3.96,UPI,3.0,8,Aug,3
+ORD-2023755,2023-08-18,CUST-1027,Corporate,North,Furniture,Furnishings,454.77,2,0.05,864.07,186.29,Credit Card,4.0,8,Aug,3
+ORD-2023756,2023-08-18,CUST-1065,Consumer,West,Office Supplies,Art,27.95,1,0.1,25.15,10.2,Credit Card,5.0,8,Aug,3
+ORD-2023757,2023-08-18,CUST-1069,Corporate,North,Furniture,Furnishings,265.35,3,0.1,716.43,74.03,Credit Card,4.0,8,Aug,3
+ORD-2023758,2023-08-19,CUST-1268,Home Office,South,Office Supplies,Appliances,139.32,3,0.1,376.17,168.87,Bank Transfer,4.0,8,Aug,3
+ORD-2023759,2023-08-19,CUST-1137,Consumer,East,Furniture,Furnishings,207.75,2,0.15,353.17,44.02,PayPal,4.0,8,Aug,3
+ORD-2023760,2023-08-19,CUST-1378,Home Office,East,Furniture,Furnishings,563.67,1,0.15,479.12,67.35,PayPal,3.0,8,Aug,3
+ORD-2023761,2023-08-20,CUST-1143,Home Office,South,Office Supplies,Appliances,26.14,3,0.15,66.66,29.69,Credit Card,1.0,8,Aug,3
+ORD-2023762,2023-08-20,CUST-1376,Consumer,South,Furniture,Bookcases,176.46,1,0.2,141.16,3.99,UPI,4.0,8,Aug,3
+ORD-2023763,2023-08-20,CUST-1017,Corporate,East,Furniture,Bookcases,520.11,1,0.05,494.1,57.5,Credit Card,4.0,8,Aug,3
+ORD-2023764,2023-08-20,CUST-1083,Consumer,East,Furniture,Furnishings,414.03,5,0.15,1759.64,246.1,PayPal,4.0,8,Aug,3
+ORD-2023765,2023-08-21,CUST-1290,Consumer,West,Furniture,Bookcases,513.35,5,0.0,2566.76,682.07,UPI,2.0,8,Aug,3
+ORD-2023766,2023-08-21,CUST-1297,Consumer,East,Office Supplies,Art,68.96,1,0.0,68.96,32.27,Credit Card,2.0,8,Aug,3
+ORD-2023767,2023-08-21,CUST-1079,Corporate,South,Technology,Printers,1171.8,1,0.0,1171.8,434.67,Credit Card,5.0,8,Aug,3
+ORD-2023768,2023-08-22,CUST-1134,Corporate,Central,Office Supplies,Storage,12.16,1,0.0,12.16,5.63,Credit Card,4.0,8,Aug,3
+ORD-2023769,2023-08-22,CUST-1016,Consumer,West,Furniture,Bookcases,165.53,1,0.05,157.25,31.6,Credit Card,4.0,8,Aug,3
+ORD-2023770,2023-08-22,CUST-1246,Consumer,West,Technology,Phones,891.36,1,0.2,713.09,112.7,PayPal,3.0,8,Aug,3
+ORD-2023771,2023-08-23,CUST-1054,Consumer,South,Office Supplies,Art,50.92,1,0.15,43.28,12.1,PayPal,4.0,8,Aug,3
+ORD-2023772,2023-08-23,CUST-1014,Corporate,West,Technology,Phones,619.11,3,0.0,1857.32,611.2,Credit Card,5.0,8,Aug,3
+ORD-2023773,2023-08-23,CUST-1373,Consumer,East,Technology,Accessories,261.09,1,0.0,261.09,79.82,Bank Transfer,3.0,8,Aug,3
+ORD-2023774,2023-08-23,CUST-1375,Consumer,East,Technology,Phones,764.52,2,0.0,1529.05,529.2,PayPal,5.0,8,Aug,3
+ORD-2023775,2023-08-24,CUST-1235,Corporate,Central,Office Supplies,Art,49.04,1,0.1,44.14,12.75,Credit Card,5.0,8,Aug,3
+ORD-2023776,2023-08-24,CUST-1254,Home Office,North,Office Supplies,Art,116.86,1,0.3,81.8,15.5,Credit Card,2.0,8,Aug,3
+ORD-2023777,2023-08-24,CUST-1054,Corporate,Central,Technology,Laptops,395.71,1,0.0,395.71,153.28,Credit Card,5.0,8,Aug,3
+ORD-2023778,2023-08-25,CUST-1048,Consumer,South,Office Supplies,Appliances,122.66,4,0.05,466.11,184.92,Credit Card,4.0,8,Aug,3
+ORD-2023779,2023-08-25,CUST-1268,Consumer,East,Office Supplies,Storage,29.18,5,0.1,131.3,45.61,PayPal,5.0,8,Aug,3
+ORD-2023780,2023-08-25,CUST-1386,Consumer,West,Technology,Printers,922.21,1,0.3,645.55,50.24,Credit Card,4.0,8,Aug,3
+ORD-2023781,2023-08-26,CUST-1303,Corporate,North,Office Supplies,Binders,127.52,3,0.0,382.55,176.11,PayPal,5.0,8,Aug,3
+ORD-2023782,2023-08-26,CUST-1389,Corporate,North,Furniture,Tables,187.42,2,0.05,356.1,74.79,Bank Transfer,3.0,8,Aug,3
+ORD-2023783,2023-08-26,CUST-1339,Home Office,North,Technology,Printers,791.45,4,0.2,2532.65,453.56,Bank Transfer,5.0,8,Aug,3
+ORD-2023784,2023-08-27,CUST-1343,Corporate,North,Office Supplies,Binders,73.97,5,0.0,369.86,133.73,Bank Transfer,5.0,8,Aug,3
+ORD-2023785,2023-08-27,CUST-1094,Corporate,South,Technology,Printers,268.44,5,0.1,1207.97,260.55,Bank Transfer,4.0,8,Aug,3
+ORD-2023786,2023-08-27,CUST-1135,Consumer,West,Technology,Phones,278.76,2,0.2,446.02,75.26,Credit Card,1.0,8,Aug,3
+ORD-2023787,2023-08-27,CUST-1262,Consumer,North,Technology,Phones,286.39,1,0.0,286.39,83.82,Credit Card,4.0,8,Aug,3
+ORD-2023788,2023-08-28,CUST-1379,Home Office,Central,Furniture,Bookcases,248.81,3,0.2,597.13,-12.43,Credit Card,4.0,8,Aug,3
+ORD-2023789,2023-08-28,CUST-1374,Consumer,North,Office Supplies,Binders,62.16,2,0.0,124.33,62.65,Credit Card,5.0,8,Aug,3
+ORD-2023790,2023-08-28,CUST-1073,Consumer,North,Technology,Laptops,997.71,2,0.3,1396.8,-28.83,UPI,5.0,8,Aug,3
+ORD-2023791,2023-08-29,CUST-1312,Corporate,West,Furniture,Tables,118.99,1,0.05,113.04,15.71,Credit Card,4.0,8,Aug,3
+ORD-2023792,2023-08-29,CUST-1072,Corporate,West,Technology,Printers,1188.81,10,0.0,11888.08,3544.15,Credit Card,2.0,8,Aug,3
+ORD-2023793,2023-08-29,CUST-1122,Consumer,East,Office Supplies,Appliances,89.4,2,0.15,151.98,51.46,Credit Card,3.0,8,Aug,3
+ORD-2023794,2023-08-30,CUST-1252,Consumer,North,Office Supplies,Storage,108.49,2,0.3,151.89,26.26,Credit Card,3.0,8,Aug,3
+ORD-2023795,2023-08-30,CUST-1186,Consumer,West,Technology,Phones,356.6,1,0.1,320.94,59.07,PayPal,5.0,8,Aug,3
+ORD-2023796,2023-08-30,CUST-1069,Corporate,East,Furniture,Furnishings,320.27,6,0.0,1921.64,368.38,Credit Card,5.0,8,Aug,3
+ORD-2023797,2023-08-30,CUST-1317,Corporate,East,Furniture,Bookcases,159.39,3,0.2,382.54,30.58,UPI,3.0,8,Aug,3
+ORD-2023798,2023-08-31,CUST-1340,Consumer,North,Technology,Accessories,222.44,1,0.0,222.44,55.75,Credit Card,5.0,8,Aug,3
+ORD-2023799,2023-08-31,CUST-1121,Home Office,South,Technology,Accessories,501.76,2,0.0,1003.52,370.21,PayPal,3.0,8,Aug,3
+ORD-2023800,2023-08-31,CUST-1215,Consumer,South,Furniture,Furnishings,565.32,3,0.0,1695.97,412.82,Credit Card,2.0,8,Aug,3
+ORD-2023801,2023-09-01,CUST-1033,Home Office,Central,Office Supplies,Art,135.74,2,0.0,271.47,109.58,PayPal,5.0,9,Sep,3
+ORD-2023802,2023-09-01,CUST-1297,Consumer,North,Office Supplies,Appliances,135.69,2,0.0,271.38,130.27,Credit Card,4.0,9,Sep,3
+ORD-2023803,2023-09-01,CUST-1389,Consumer,West,Technology,Printers,769.95,2,0.1,1385.91,439.59,Bank Transfer,4.0,9,Sep,3
+ORD-2023804,2023-09-02,CUST-1273,Corporate,North,Technology,Laptops,582.34,3,0.0,1747.01,611.56,PayPal,5.0,9,Sep,3
+ORD-2023805,2023-09-02,CUST-1179,Home Office,North,Office Supplies,Art,97.18,5,0.0,485.92,227.14,UPI,4.0,9,Sep,3
+ORD-2023806,2023-09-02,CUST-1127,Consumer,West,Technology,Laptops,173.09,1,0.1,155.78,30.72,Credit Card,4.0,9,Sep,3
+ORD-2023807,2023-09-02,CUST-1326,Consumer,North,Technology,Laptops,768.38,3,0.05,2189.89,626.77,Credit Card,4.0,9,Sep,3
+ORD-2023808,2023-09-03,CUST-1352,Home Office,Central,Technology,Printers,495.85,4,0.05,1884.22,519.31,Credit Card,2.0,9,Sep,3
+ORD-2023809,2023-09-03,CUST-1254,Corporate,North,Furniture,Furnishings,154.15,4,0.1,554.93,51.98,PayPal,1.0,9,Sep,3
+ORD-2023810,2023-09-03,CUST-1296,Consumer,West,Technology,Laptops,375.6,1,0.0,375.6,147.97,Credit Card,4.0,9,Sep,3
+ORD-2023811,2023-09-04,CUST-1194,Consumer,North,Furniture,Bookcases,382.81,1,0.15,325.39,34.7,Bank Transfer,5.0,9,Sep,3
+ORD-2023812,2023-09-04,CUST-1346,Corporate,North,Technology,Phones,613.29,4,0.0,2453.16,957.34,UPI,5.0,9,Sep,3
+ORD-2023813,2023-09-04,CUST-1358,Corporate,West,Technology,Laptops,603.4,2,0.2,965.43,99.11,PayPal,4.0,9,Sep,3
+ORD-2023814,2023-09-05,CUST-1056,Corporate,North,Furniture,Furnishings,307.27,4,0.15,1044.71,5.89,Credit Card,4.0,9,Sep,3
+ORD-2023815,2023-09-05,CUST-1107,Consumer,West,Furniture,Furnishings,351.62,1,0.0,351.62,95.08,PayPal,2.0,9,Sep,3
+ORD-2023816,2023-09-05,CUST-1344,Consumer,North,Office Supplies,Paper,97.66,3,0.3,205.1,32.0,Bank Transfer,4.0,9,Sep,3
+ORD-2023817,2023-09-06,CUST-1064,Consumer,West,Furniture,Bookcases,369.41,1,0.0,369.41,89.32,PayPal,4.0,9,Sep,3
+ORD-2023818,2023-09-06,CUST-1017,Corporate,West,Technology,Printers,420.84,8,0.0,3366.69,1098.46,PayPal,2.0,9,Sep,3
+ORD-2023819,2023-09-06,CUST-1134,Corporate,North,Office Supplies,Storage,19.04,2,0.0,38.07,16.54,Bank Transfer,4.0,9,Sep,3
+ORD-2023820,2023-09-06,CUST-1169,Corporate,East,Office Supplies,Appliances,39.3,1,0.05,37.34,19.63,Credit Card,4.0,9,Sep,3
+ORD-2023821,2023-09-07,CUST-1242,Consumer,North,Office Supplies,Storage,16.71,2,0.15,28.41,8.18,Credit Card,4.0,9,Sep,3
+ORD-2023822,2023-09-07,CUST-1141,Consumer,North,Furniture,Tables,220.1,10,0.0,2200.97,621.7,Credit Card,3.0,9,Sep,3
+ORD-2023823,2023-09-07,CUST-1010,Home Office,Central,Technology,Phones,409.08,1,0.1,368.18,95.11,Credit Card,3.0,9,Sep,3
+ORD-2023824,2023-09-08,CUST-1244,Consumer,North,Technology,Printers,873.56,5,0.0,4367.82,1376.91,Bank Transfer,4.0,9,Sep,3
+ORD-2023825,2023-09-08,CUST-1343,Consumer,Central,Furniture,Bookcases,127.89,2,0.3,179.04,-24.66,Credit Card,5.0,9,Sep,3
+ORD-2023826,2023-09-08,CUST-1222,Home Office,North,Office Supplies,Storage,53.24,8,0.0,425.91,182.17,Credit Card,2.0,9,Sep,3
+ORD-2023827,2023-09-09,CUST-1300,Corporate,North,Office Supplies,Storage,101.01,6,0.0,606.08,254.11,Credit Card,5.0,9,Sep,3
+ORD-2023828,2023-09-09,CUST-1014,Corporate,North,Technology,Accessories,689.57,1,0.15,586.13,148.43,Credit Card,4.0,9,Sep,3
+ORD-2023829,2023-09-09,CUST-1381,Consumer,South,Technology,Printers,296.26,5,0.05,1407.24,513.51,PayPal,5.0,9,Sep,3
+ORD-2023830,2023-09-09,CUST-1245,Corporate,North,Technology,Accessories,528.17,6,0.2,2535.22,173.57,PayPal,5.0,9,Sep,3
+ORD-2023831,2023-09-10,CUST-1038,Consumer,East,Technology,Printers,426.68,1,0.05,405.35,126.53,Bank Transfer,4.0,9,Sep,3
+ORD-2023832,2023-09-10,CUST-1025,Consumer,West,Furniture,Furnishings,424.03,5,0.0,2120.13,434.05,PayPal,5.0,9,Sep,3
+ORD-2023833,2023-09-10,CUST-1184,Consumer,Central,Technology,Printers,644.3,2,0.1,1159.74,216.85,Bank Transfer,4.0,9,Sep,3
+ORD-2023834,2023-09-11,CUST-1006,Home Office,South,Technology,Printers,557.53,5,0.0,2787.64,1075.05,PayPal,4.0,9,Sep,3
+ORD-2023835,2023-09-11,CUST-1013,Corporate,West,Office Supplies,Binders,125.95,5,0.1,566.77,261.9,UPI,4.0,9,Sep,3
+ORD-2023836,2023-09-11,CUST-1134,Home Office,South,Technology,Printers,438.13,2,0.0,876.27,298.83,Credit Card,5.0,9,Sep,3
+ORD-2023837,2023-09-12,CUST-1148,Consumer,South,Technology,Phones,214.62,4,0.2,686.78,136.93,Credit Card,4.0,9,Sep,3
+ORD-2023838,2023-09-12,CUST-1062,Corporate,East,Technology,Laptops,854.28,1,0.05,811.57,190.42,UPI,4.0,9,Sep,3
+ORD-2023839,2023-09-12,CUST-1250,Consumer,East,Office Supplies,Paper,101.75,3,0.15,259.47,96.56,Credit Card,4.0,9,Sep,3
+ORD-2023840,2023-09-13,CUST-1319,Consumer,East,Furniture,Bookcases,532.62,5,0.3,1864.17,-167.03,Credit Card,3.0,9,Sep,3
+ORD-2023841,2023-09-13,CUST-1071,Consumer,North,Office Supplies,Binders,32.55,1,0.05,30.93,9.8,Bank Transfer,1.0,9,Sep,3
+ORD-2023842,2023-09-13,CUST-1033,Home Office,South,Office Supplies,Paper,106.15,1,0.0,106.15,44.07,Credit Card,4.0,9,Sep,3
+ORD-2023843,2023-09-13,CUST-1106,Consumer,East,Furniture,Bookcases,382.34,2,0.0,764.69,134.53,Credit Card,4.0,9,Sep,3
+ORD-2023844,2023-09-14,CUST-1097,Consumer,West,Technology,Printers,374.42,2,0.0,748.85,277.42,PayPal,4.0,9,Sep,3
+ORD-2023845,2023-09-14,CUST-1252,Consumer,North,Furniture,Furnishings,534.23,2,0.0,1068.46,251.02,PayPal,4.0,9,Sep,3
+ORD-2023846,2023-09-14,CUST-1009,Consumer,South,Technology,Phones,1001.27,1,0.05,951.2,208.18,Credit Card,2.0,9,Sep,3
+ORD-2023847,2023-09-15,CUST-1030,Consumer,South,Technology,Printers,1099.62,10,0.2,8796.97,551.62,Credit Card,4.0,9,Sep,3
+ORD-2023848,2023-09-15,CUST-1259,Consumer,North,Furniture,Bookcases,285.41,1,0.0,285.41,57.44,PayPal,4.0,9,Sep,3
+ORD-2023849,2023-09-15,CUST-1066,Consumer,East,Technology,Printers,1124.3,1,0.0,1124.3,310.02,Credit Card,4.0,9,Sep,3
+ORD-2023850,2023-09-16,CUST-1090,Corporate,West,Office Supplies,Storage,50.53,2,0.2,80.85,21.95,Bank Transfer,4.0,9,Sep,3
+ORD-2023851,2023-09-16,CUST-1164,Consumer,West,Office Supplies,Art,40.81,5,0.1,183.64,75.96,Credit Card,3.0,9,Sep,3
+ORD-2023852,2023-09-16,CUST-1151,Consumer,West,Office Supplies,Storage,45.29,2,0.3,63.41,14.42,Credit Card,2.0,9,Sep,3
+ORD-2023853,2023-09-16,CUST-1007,Corporate,South,Furniture,Bookcases,287.51,2,0.05,546.28,139.11,Credit Card,2.0,9,Sep,3
+ORD-2023854,2023-09-17,CUST-1066,Corporate,North,Office Supplies,Storage,45.2,6,0.15,230.52,99.06,Credit Card,3.0,9,Sep,3
+ORD-2023855,2023-09-17,CUST-1303,Home Office,South,Office Supplies,Appliances,44.85,1,0.0,44.85,19.37,Credit Card,4.0,9,Sep,3
+ORD-2023856,2023-09-17,CUST-1046,Consumer,North,Technology,Accessories,712.02,1,0.0,712.02,209.54,Credit Card,5.0,9,Sep,3
+ORD-2023857,2023-09-18,CUST-1361,Consumer,East,Office Supplies,Art,89.3,2,0.1,160.74,63.52,Credit Card,4.0,9,Sep,3
+ORD-2023858,2023-09-18,CUST-1260,Corporate,South,Office Supplies,Binders,66.5,2,0.0,132.99,69.5,PayPal,5.0,9,Sep,3
+ORD-2023859,2023-09-18,CUST-1231,Home Office,West,Technology,Accessories,1033.42,4,0.0,4133.7,1396.25,Credit Card,3.0,9,Sep,3
+ORD-2023860,2023-09-19,CUST-1079,Consumer,East,Technology,Laptops,894.78,2,0.05,1700.08,468.99,Credit Card,2.0,9,Sep,3
+ORD-2023861,2023-09-19,CUST-1213,Consumer,Central,Technology,Printers,466.93,1,0.0,466.93,141.23,Credit Card,3.0,9,Sep,3
+ORD-2023862,2023-09-19,CUST-1331,Home Office,North,Office Supplies,Binders,80.43,6,0.0,482.58,209.03,PayPal,5.0,9,Sep,3
+ORD-2023863,2023-09-19,CUST-1124,Corporate,Central,Office Supplies,Art,102.01,1,0.2,81.61,26.75,PayPal,1.0,9,Sep,3
+ORD-2023864,2023-09-20,CUST-1264,Consumer,East,Office Supplies,Appliances,97.08,4,0.15,330.09,116.06,PayPal,1.0,9,Sep,3
+ORD-2023865,2023-09-20,CUST-1013,Consumer,West,Office Supplies,Storage,99.23,1,0.0,99.23,40.36,UPI,4.0,9,Sep,3
+ORD-2023866,2023-09-20,CUST-1202,Home Office,North,Technology,Laptops,1008.28,6,0.2,4839.76,363.08,PayPal,4.0,9,Sep,3
+ORD-2023867,2023-09-21,CUST-1375,Consumer,South,Office Supplies,Art,35.86,1,0.15,30.48,11.51,Credit Card,4.0,9,Sep,3
+ORD-2023868,2023-09-21,CUST-1190,Home Office,East,Technology,Laptops,491.31,1,0.0,491.31,184.87,Credit Card,4.0,9,Sep,3
+ORD-2023869,2023-09-21,CUST-1077,Consumer,North,Furniture,Furnishings,285.47,1,0.15,242.65,34.44,Credit Card,5.0,9,Sep,3
+ORD-2023870,2023-09-22,CUST-1336,Corporate,West,Furniture,Furnishings,110.77,4,0.1,398.76,31.32,PayPal,4.0,9,Sep,3
+ORD-2023871,2023-09-22,CUST-1249,Home Office,South,Furniture,Tables,109.56,3,0.0,328.68,77.86,Credit Card,3.0,9,Sep,3
+ORD-2023872,2023-09-22,CUST-1179,Corporate,South,Technology,Phones,943.58,1,0.0,943.58,240.94,Bank Transfer,3.0,9,Sep,3
+ORD-2023873,2023-09-23,CUST-1178,Consumer,East,Office Supplies,Appliances,48.44,1,0.05,46.01,16.23,Credit Card,3.0,9,Sep,3
+ORD-2023874,2023-09-23,CUST-1169,Corporate,West,Furniture,Furnishings,195.53,2,0.0,391.06,86.85,PayPal,4.0,9,Sep,3
+ORD-2023875,2023-09-23,CUST-1136,Corporate,West,Office Supplies,Storage,95.08,1,0.0,95.08,44.8,PayPal,4.0,9,Sep,3
+ORD-2023876,2023-09-23,CUST-1076,Consumer,West,Furniture,Furnishings,475.51,3,0.0,1426.52,330.47,Credit Card,4.0,9,Sep,3
+ORD-2023877,2023-09-24,CUST-1095,Consumer,East,Office Supplies,Paper,105.17,3,0.0,315.52,138.28,Credit Card,5.0,9,Sep,3
+ORD-2023878,2023-09-24,CUST-1167,Consumer,North,Technology,Laptops,413.34,5,0.05,1963.36,509.54,PayPal,4.0,9,Sep,3
+ORD-2023879,2023-09-24,CUST-1314,Consumer,South,Technology,Phones,238.09,1,0.0,238.09,93.37,Credit Card,5.0,9,Sep,3
+ORD-2023880,2023-09-25,CUST-1109,Consumer,Central,Technology,Laptops,659.24,2,0.0,1318.48,466.96,PayPal,2.0,9,Sep,3
+ORD-2023881,2023-09-25,CUST-1262,Consumer,West,Technology,Accessories,532.09,2,0.1,957.77,186.24,Credit Card,5.0,9,Sep,3
+ORD-2023882,2023-09-25,CUST-1396,Consumer,South,Furniture,Chairs,586.84,2,0.0,1173.68,306.89,Credit Card,4.0,9,Sep,3
+ORD-2023883,2023-09-26,CUST-1355,Consumer,North,Office Supplies,Binders,127.57,1,0.0,127.57,44.72,UPI,4.0,9,Sep,3
+ORD-2023884,2023-09-26,CUST-1045,Home Office,West,Technology,Accessories,928.92,1,0.15,789.59,129.54,Credit Card,5.0,9,Sep,3
+ORD-2023885,2023-09-26,CUST-1264,Corporate,South,Office Supplies,Paper,82.4,3,0.15,210.12,80.59,Bank Transfer,4.0,9,Sep,3
+ORD-2023886,2023-09-26,CUST-1376,Consumer,West,Office Supplies,Appliances,56.11,2,0.3,78.55,24.95,Credit Card,4.0,9,Sep,3
+ORD-2023887,2023-09-27,CUST-1127,Consumer,West,Technology,Phones,688.88,1,0.0,688.88,185.43,UPI,4.0,9,Sep,3
+ORD-2023888,2023-09-27,CUST-1119,Consumer,West,Furniture,Bookcases,124.48,1,0.15,105.81,13.23,Credit Card,4.0,9,Sep,3
+ORD-2023889,2023-09-27,CUST-1246,Corporate,East,Office Supplies,Art,55.62,3,0.3,116.81,25.84,UPI,5.0,9,Sep,3
+ORD-2023890,2023-09-28,CUST-1257,Corporate,Central,Furniture,Tables,266.12,2,0.1,479.02,29.66,Bank Transfer,5.0,9,Sep,3
+ORD-2023891,2023-09-28,CUST-1016,Corporate,South,Furniture,Furnishings,477.13,3,0.0,1431.4,310.85,PayPal,4.0,9,Sep,3
+ORD-2023892,2023-09-28,CUST-1059,Home Office,East,Furniture,Tables,453.66,2,0.05,861.95,170.89,Credit Card,4.0,9,Sep,3
+ORD-2023893,2023-09-29,CUST-1368,Consumer,East,Technology,Laptops,327.56,6,0.1,1768.82,552.42,PayPal,4.0,9,Sep,3
+ORD-2023894,2023-09-29,CUST-1200,Corporate,South,Technology,Laptops,1158.01,5,0.0,5790.06,1603.44,Credit Card,3.0,9,Sep,3
+ORD-2023895,2023-09-29,CUST-1134,Consumer,North,Furniture,Furnishings,200.65,1,0.15,170.56,24.09,PayPal,1.0,9,Sep,3
+ORD-2023896,2023-09-30,CUST-1192,Consumer,West,Technology,Phones,887.2,3,0.0,2661.61,776.84,UPI,5.0,9,Sep,3
+ORD-2023897,2023-09-30,CUST-1046,Home Office,West,Furniture,Bookcases,510.47,3,0.3,1071.99,-21.43,PayPal,4.0,9,Sep,3
+ORD-2023898,2023-09-30,CUST-1350,Corporate,East,Office Supplies,Art,140.6,2,0.1,253.08,122.26,Bank Transfer,4.0,9,Sep,3
+ORD-2023899,2023-09-30,CUST-1324,Consumer,South,Furniture,Chairs,62.9,2,0.2,100.64,6.36,Bank Transfer,2.0,9,Sep,3
+ORD-2023900,2023-10-01,CUST-1189,Corporate,South,Furniture,Furnishings,544.7,2,0.2,871.52,-42.6,Credit Card,4.0,10,Oct,4
+ORD-2023901,2023-10-01,CUST-1361,Home Office,East,Technology,Printers,921.21,1,0.0,921.21,317.75,PayPal,4.0,10,Oct,4
+ORD-2023902,2023-10-01,CUST-1239,Corporate,West,Technology,Laptops,667.15,2,0.05,1267.58,283.89,Credit Card,3.0,10,Oct,4
+ORD-2023903,2023-10-02,CUST-1231,Consumer,South,Furniture,Bookcases,473.95,1,0.05,473.95,118.92,Bank Transfer,2.0,10,Oct,4
+ORD-2023904,2023-10-02,CUST-1214,Corporate,East,Office Supplies,Storage,123.5,1,0.0,123.5,66.82,Credit Card,3.0,10,Oct,4
+ORD-2023905,2023-10-02,CUST-1071,Consumer,North,Furniture,Bookcases,495.78,3,0.0,1487.35,228.34,UPI,5.0,10,Oct,4
+ORD-2023906,2023-10-03,CUST-1037,Home Office,West,Office Supplies,Paper,100.12,2,0.1,180.21,65.71,Bank Transfer,5.0,10,Oct,4
+ORD-2023907,2023-10-03,CUST-1254,Consumer,East,Furniture,Chairs,396.46,2,0.0,792.91,235.75,Credit Card,5.0,10,Oct,4
+ORD-2023908,2023-10-03,CUST-1148,Consumer,West,Office Supplies,Appliances,79.09,2,0.0,158.19,59.14,Credit Card,4.0,10,Oct,4
+ORD-2023909,2023-10-03,CUST-1000,Corporate,East,Furniture,Furnishings,482.16,2,0.0,964.33,152.24,PayPal,4.0,10,Oct,4
+ORD-2023910,2023-10-04,CUST-1004,Consumer,Central,Furniture,Bookcases,513.97,5,0.0,2569.86,702.24,Credit Card,5.0,10,Oct,4
+ORD-2023911,2023-10-04,CUST-1346,Consumer,West,Office Supplies,Paper,34.39,3,0.0,103.16,44.56,PayPal,5.0,10,Oct,4
+ORD-2023912,2023-10-04,CUST-1136,Consumer,East,Office Supplies,Binders,133.18,2,0.05,253.04,115.88,PayPal,3.0,10,Oct,4
+ORD-2023913,2023-10-05,CUST-1054,Corporate,East,Technology,Printers,765.19,3,0.0,2295.58,856.39,Credit Card,4.0,10,Oct,4
+ORD-2023914,2023-10-05,CUST-1340,Consumer,West,Technology,Printers,999.48,3,0.05,2848.53,939.13,PayPal,5.0,10,Oct,4
+ORD-2023915,2023-10-05,CUST-1103,Corporate,East,Office Supplies,Binders,139.17,1,0.0,139.17,74.97,UPI,4.0,10,Oct,4
+ORD-2023916,2023-10-06,CUST-1198,Home Office,West,Furniture,Furnishings,415.64,1,0.05,394.86,82.77,Bank Transfer,2.0,10,Oct,4
+ORD-2023917,2023-10-06,CUST-1247,Corporate,East,Furniture,Chairs,120.97,2,0.0,241.94,53.47,Bank Transfer,1.0,10,Oct,4
+ORD-2023918,2023-10-06,CUST-1137,Consumer,East,Technology,Laptops,358.77,1,0.1,322.89,80.27,Bank Transfer,2.0,10,Oct,4
+ORD-2023919,2023-10-06,CUST-1028,Corporate,South,Office Supplies,Appliances,83.87,6,0.05,478.04,199.52,PayPal,4.0,10,Oct,4
+ORD-2023920,2023-10-07,CUST-1024,Corporate,East,Office Supplies,Storage,18.33,6,0.0,109.99,54.48,PayPal,5.0,10,Oct,4
+ORD-2023921,2023-10-07,CUST-1367,Corporate,North,Technology,Phones,306.11,2,0.1,550.99,141.76,Credit Card,5.0,10,Oct,4
+ORD-2023922,2023-10-07,CUST-1012,Corporate,North,Technology,Phones,308.46,5,0.0,1542.31,433.54,Credit Card,4.0,10,Oct,4
+ORD-2023923,2023-10-08,CUST-1252,Home Office,South,Technology,Phones,1189.68,3,0.05,3390.6,1208.56,Credit Card,4.0,10,Oct,4
+ORD-2023924,2023-10-08,CUST-1008,Home Office,East,Office Supplies,Appliances,60.42,3,0.2,145.01,46.58,Credit Card,5.0,10,Oct,4
+ORD-2023925,2023-10-08,CUST-1207,Home Office,South,Furniture,Bookcases,108.28,1,0.1,97.45,19.83,Credit Card,5.0,10,Oct,4
+ORD-2023926,2023-10-09,CUST-1342,Consumer,North,Technology,Laptops,531.49,1,0.0,531.49,172.63,Credit Card,4.0,10,Oct,4
+ORD-2023927,2023-10-09,CUST-1294,Home Office,North,Technology,Accessories,692.5,2,0.2,1108.0,124.1,Credit Card,4.0,10,Oct,4
+ORD-2023928,2023-10-09,CUST-1006,Consumer,North,Technology,Phones,721.76,1,0.1,649.58,158.9,PayPal,3.0,10,Oct,4
+ORD-2023929,2023-10-10,CUST-1009,Corporate,South,Furniture,Tables,227.29,6,0.1,1227.35,147.89,Credit Card,4.0,10,Oct,4
+ORD-2023930,2023-10-10,CUST-1203,Home Office,Central,Office Supplies,Binders,20.96,2,0.15,35.63,8.94,Credit Card,4.0,10,Oct,4
+ORD-2023931,2023-10-10,CUST-1328,Consumer,East,Office Supplies,Paper,36.14,1,0.05,34.34,15.58,Credit Card,2.0,10,Oct,4
+ORD-2023932,2023-10-10,CUST-1214,Consumer,Central,Furniture,Tables,113.62,3,0.1,306.78,19.79,PayPal,5.0,10,Oct,4
+ORD-2023933,2023-10-11,CUST-1093,Corporate,West,Furniture,Tables,89.75,2,0.0,179.5,35.25,Credit Card,4.0,10,Oct,4
+ORD-2023934,2023-10-11,CUST-1355,Consumer,Central,Furniture,Bookcases,135.73,3,0.0,407.2,109.55,Bank Transfer,3.0,10,Oct,4
+ORD-2023935,2023-10-11,CUST-1285,Home Office,South,Technology,Laptops,504.08,1,0.05,478.88,175.36,Credit Card,4.0,10,Oct,4
+ORD-2023936,2023-10-12,CUST-1067,Corporate,South,Furniture,Furnishings,173.56,3,0.0,520.69,99.44,UPI,2.0,10,Oct,4
+ORD-2023937,2023-10-12,CUST-1393,Home Office,East,Technology,Phones,977.34,2,0.0,1954.68,715.07,Bank Transfer,1.0,10,Oct,4
+ORD-2023938,2023-10-12,CUST-1051,Home Office,East,Technology,Laptops,574.43,8,0.15,3906.13,839.02,Bank Transfer,3.0,10,Oct,4
+ORD-2023939,2023-10-13,CUST-1281,Consumer,North,Office Supplies,Art,64.55,2,0.0,129.1,51.85,PayPal,5.0,10,Oct,4
+ORD-2023940,2023-10-13,CUST-1378,Home Office,West,Office Supplies,Storage,51.28,1,0.15,43.59,11.15,UPI,4.0,10,Oct,4
+ORD-2023941,2023-10-13,CUST-1177,Corporate,North,Office Supplies,Paper,81.1,2,0.15,137.87,59.62,UPI,3.0,10,Oct,4
+ORD-2023942,2023-10-13,CUST-1278,Consumer,North,Furniture,Furnishings,335.7,6,0.0,2014.18,434.25,PayPal,5.0,10,Oct,4
+ORD-2023943,2023-10-14,CUST-1020,Consumer,North,Furniture,Furnishings,217.99,1,0.0,217.99,41.05,Bank Transfer,5.0,10,Oct,4
+ORD-2023944,2023-10-14,CUST-1338,Consumer,North,Furniture,Bookcases,268.98,6,0.0,1613.89,343.76,PayPal,3.0,10,Oct,4
+ORD-2023945,2023-10-14,CUST-1278,Consumer,West,Office Supplies,Art,87.55,1,0.0,87.55,40.26,Credit Card,5.0,10,Oct,4
+ORD-2023946,2023-10-15,CUST-1240,Consumer,West,Technology,Accessories,598.25,1,0.1,538.43,129.94,PayPal,5.0,10,Oct,4
+ORD-2023947,2023-10-15,CUST-1390,Corporate,Central,Technology,Printers,677.27,6,0.15,3454.08,427.19,PayPal,3.0,10,Oct,4
+ORD-2023948,2023-10-15,CUST-1085,Consumer,East,Office Supplies,Binders,40.11,1,0.1,36.1,15.87,Bank Transfer,4.0,10,Oct,4
+ORD-2023949,2023-10-16,CUST-1049,Home Office,West,Office Supplies,Appliances,38.63,1,0.0,38.63,19.81,Bank Transfer,4.0,10,Oct,4
+ORD-2023950,2023-10-16,CUST-1228,Corporate,East,Office Supplies,Binders,97.07,4,0.05,368.88,163.44,PayPal,4.0,10,Oct,4
+ORD-2023951,2023-10-16,CUST-1244,Consumer,West,Technology,Laptops,824.55,4,0.1,2968.37,528.85,Credit Card,5.0,10,Oct,4
+ORD-2023952,2023-10-17,CUST-1195,Consumer,Central,Office Supplies,Storage,37.64,6,0.0,225.82,98.21,UPI,5.0,10,Oct,4
+ORD-2023953,2023-10-17,CUST-1321,Corporate,West,Furniture,Furnishings,592.32,4,0.0,2369.26,646.66,Credit Card,4.0,10,Oct,4
+ORD-2023954,2023-10-17,CUST-1146,Corporate,Central,Furniture,Tables,269.51,2,0.0,539.02,111.95,PayPal,5.0,10,Oct,4
+ORD-2023955,2023-10-17,CUST-1347,Consumer,North,Technology,Phones,677.24,1,0.05,643.38,235.0,Credit Card,3.0,10,Oct,4
+ORD-2023956,2023-10-18,CUST-1029,Home Office,East,Office Supplies,Art,68.06,4,0.0,272.25,99.08,Credit Card,4.0,10,Oct,4
+ORD-2023957,2023-10-18,CUST-1195,Corporate,East,Furniture,Bookcases,592.51,1,0.15,503.63,41.45,Credit Card,5.0,10,Oct,4
+ORD-2023958,2023-10-18,CUST-1105,Consumer,East,Office Supplies,Art,48.46,3,0.15,123.56,39.29,PayPal,5.0,10,Oct,4
+ORD-2023959,2023-10-19,CUST-1156,Corporate,South,Office Supplies,Binders,61.01,1,0.1,54.91,27.31,PayPal,5.0,10,Oct,4
+ORD-2023960,2023-10-19,CUST-1099,Corporate,South,Technology,Phones,274.26,4,0.05,1042.2,220.0,Bank Transfer,4.0,10,Oct,4
+ORD-2023961,2023-10-19,CUST-1315,Consumer,East,Furniture,Chairs,53.73,5,0.05,255.23,65.42,Bank Transfer,5.0,10,Oct,4
+ORD-2023962,2023-10-20,CUST-1078,Consumer,South,Furniture,Tables,134.97,2,0.05,256.45,51.28,PayPal,5.0,10,Oct,4
+ORD-2023963,2023-10-20,CUST-1102,Consumer,North,Technology,Laptops,452.53,1,0.1,407.28,83.6,PayPal,3.0,10,Oct,4
+ORD-2023964,2023-10-20,CUST-1214,Corporate,West,Technology,Laptops,753.3,2,0.3,1054.62,-35.17,Credit Card,4.0,10,Oct,4
+ORD-2023965,2023-10-20,CUST-1140,Consumer,East,Office Supplies,Art,40.17,10,0.15,341.41,144.57,Bank Transfer,4.0,10,Oct,4
+ORD-2023966,2023-10-21,CUST-1076,Consumer,West,Office Supplies,Paper,113.98,2,0.05,216.57,95.1,UPI,3.0,10,Oct,4
+ORD-2023967,2023-10-21,CUST-1249,Consumer,North,Office Supplies,Art,55.94,1,0.1,50.35,15.02,PayPal,5.0,10,Oct,4
+ORD-2023968,2023-10-21,CUST-1021,Consumer,South,Office Supplies,Art,48.9,3,0.1,132.02,40.49,PayPal,2.0,10,Oct,4
+ORD-2023969,2023-10-22,CUST-1155,Home Office,Central,Furniture,Chairs,502.77,1,0.0,502.77,143.06,Credit Card,2.0,10,Oct,4
+ORD-2023970,2023-10-22,CUST-1029,Home Office,West,Furniture,Furnishings,566.22,1,0.1,509.6,108.67,Credit Card,3.0,10,Oct,4
+ORD-2023971,2023-10-22,CUST-1052,Corporate,South,Technology,Laptops,688.05,2,0.0,1376.1,411.58,Credit Card,3.0,10,Oct,4
+ORD-2023972,2023-10-23,CUST-1377,Corporate,Central,Office Supplies,Appliances,120.13,5,0.0,600.67,237.88,Credit Card,4.0,10,Oct,4
+ORD-2023973,2023-10-23,CUST-1369,Consumer,South,Technology,Phones,746.22,6,0.15,3805.72,560.83,Bank Transfer,4.0,10,Oct,4
+ORD-2023974,2023-10-23,CUST-1161,Consumer,East,Office Supplies,Storage,53.68,5,0.05,254.98,85.36,Credit Card,3.0,10,Oct,4
+ORD-2023975,2023-10-23,CUST-1255,Consumer,South,Technology,Accessories,644.67,1,0.15,547.97,82.0,UPI,5.0,10,Oct,4
+ORD-2023976,2023-10-24,CUST-1188,Corporate,North,Technology,Accessories,1110.17,6,0.0,6661.0,1913.89,UPI,4.0,10,Oct,4
+ORD-2023977,2023-10-24,CUST-1067,Corporate,East,Office Supplies,Storage,78.59,3,0.05,223.97,116.36,PayPal,4.0,10,Oct,4
+ORD-2023978,2023-10-24,CUST-1109,Corporate,Central,Technology,Laptops,771.18,1,0.1,694.06,229.96,Credit Card,4.0,10,Oct,4
+ORD-2023979,2023-10-25,CUST-1240,Home Office,East,Office Supplies,Binders,58.27,1,0.05,55.36,18.72,Credit Card,5.0,10,Oct,4
+ORD-2023980,2023-10-25,CUST-1107,Corporate,West,Technology,Laptops,800.32,1,0.15,680.27,172.21,UPI,5.0,10,Oct,4
+ORD-2023981,2023-10-25,CUST-1178,Corporate,North,Office Supplies,Appliances,57.74,4,0.2,184.78,72.17,PayPal,4.0,10,Oct,4
+ORD-2023982,2023-10-26,CUST-1182,Corporate,East,Furniture,Furnishings,183.8,3,0.2,441.12,-17.43,Bank Transfer,5.0,10,Oct,4
+ORD-2023983,2023-10-26,CUST-1377,Consumer,North,Furniture,Tables,337.72,2,0.0,675.44,138.49,UPI,1.0,10,Oct,4
+ORD-2023984,2023-10-26,CUST-1315,Consumer,West,Office Supplies,Paper,41.78,1,0.0,41.78,21.13,Bank Transfer,5.0,10,Oct,4
+ORD-2023985,2023-10-27,CUST-1096,Corporate,North,Furniture,Bookcases,142.48,3,0.3,299.2,-62.33,Credit Card,4.0,10,Oct,4
+ORD-2023986,2023-10-27,CUST-1341,Corporate,South,Technology,Accessories,326.0,1,0.1,293.4,84.94,PayPal,2.0,10,Oct,4
+ORD-2023987,2023-10-27,CUST-1294,Consumer,West,Office Supplies,Storage,12.87,5,0.1,57.92,25.75,Credit Card,5.0,10,Oct,4
+ORD-2023988,2023-10-27,CUST-1183,Corporate,Central,Office Supplies,Paper,42.53,2,0.0,85.05,36.16,Credit Card,2.0,10,Oct,4
+ORD-2023989,2023-10-28,CUST-1083,Consumer,Central,Office Supplies,Binders,131.49,1,0.2,105.19,36.29,UPI,5.0,10,Oct,4
+ORD-2023990,2023-10-28,CUST-1307,Consumer,East,Furniture,Tables,322.03,2,0.0,644.06,145.89,Credit Card,4.0,10,Oct,4
+ORD-2023991,2023-10-28,CUST-1200,Home Office,West,Office Supplies,Art,67.62,1,0.1,60.86,23.42,Credit Card,4.0,10,Oct,4
+ORD-2023992,2023-10-29,CUST-1007,Consumer,North,Furniture,Tables,311.59,5,0.05,1480.06,290.31,PayPal,4.0,10,Oct,4
+ORD-2023993,2023-10-29,CUST-1293,Consumer,East,Office Supplies,Storage,45.06,1,0.0,45.06,16.75,Credit Card,1.0,10,Oct,4
+ORD-2023994,2023-10-29,CUST-1360,Consumer,North,Technology,Phones,1083.07,6,0.1,5848.6,1728.36,Bank Transfer,3.0,10,Oct,4
+ORD-2023995,2023-10-30,CUST-1114,Consumer,South,Office Supplies,Storage,55.0,1,0.15,46.75,20.24,Credit Card,1.0,10,Oct,4
+ORD-2023996,2023-10-30,CUST-1048,Home Office,Central,Technology,Printers,1175.31,2,0.0,2350.63,693.36,Bank Transfer,3.0,10,Oct,4
+ORD-2023997,2023-10-30,CUST-1105,Consumer,North,Office Supplies,Appliances,86.39,4,0.0,345.54,141.2,Credit Card,4.0,10,Oct,4
+ORD-2023998,2023-10-30,CUST-1292,Consumer,West,Furniture,Bookcases,369.34,1,0.15,313.94,12.57,Credit Card,4.0,10,Oct,4
+ORD-2023999,2023-10-31,CUST-1299,Consumer,Central,Technology,Accessories,318.08,10,0.0,3180.78,896.67,PayPal,3.0,10,Oct,4
+ORD-2024000,2023-10-31,CUST-1244,Home Office,North,Office Supplies,Binders,92.3,5,0.0,461.52,207.56,PayPal,4.0,10,Oct,4
+ORD-2024001,2023-10-31,CUST-1044,Consumer,East,Office Supplies,Art,65.71,2,0.0,131.43,64.14,Credit Card,5.0,10,Oct,4
+ORD-2024002,2023-11-01,CUST-1132,Consumer,East,Furniture,Furnishings,506.6,2,0.05,962.54,198.52,Credit Card,5.0,11,Nov,4
+ORD-2024003,2023-11-01,CUST-1076,Consumer,Central,Office Supplies,Appliances,103.49,3,0.2,248.37,104.98,PayPal,4.0,11,Nov,4
+ORD-2024004,2023-11-01,CUST-1052,Corporate,North,Office Supplies,Art,45.14,4,0.0,180.55,72.63,Credit Card,2.0,11,Nov,4
+ORD-2024005,2023-11-02,CUST-1316,Consumer,North,Office Supplies,Binders,100.34,1,0.2,80.28,26.75,Credit Card,4.0,11,Nov,4
+ORD-2024006,2023-11-02,CUST-1039,Corporate,North,Furniture,Tables,484.59,4,0.0,1938.37,458.59,Credit Card,5.0,11,Nov,4
+ORD-2024007,2023-11-02,CUST-1358,Consumer,East,Technology,Phones,1066.09,2,0.0,2132.18,625.14,PayPal,3.0,11,Nov,4
+ORD-2024008,2023-11-03,CUST-1366,Consumer,West,Office Supplies,Art,27.72,1,0.1,24.94,9.33,UPI,4.0,11,Nov,4
+ORD-2024009,2023-11-03,CUST-1343,Corporate,East,Technology,Printers,757.25,1,0.15,643.66,111.03,Credit Card,2.0,11,Nov,4
+ORD-2024010,2023-11-03,CUST-1101,Corporate,East,Office Supplies,Art,18.06,2,0.0,36.12,14.25,Credit Card,3.0,11,Nov,4
+ORD-2024011,2023-11-03,CUST-1099,Consumer,Central,Furniture,Furnishings,355.21,1,0.05,337.45,79.05,PayPal,4.0,11,Nov,4
+ORD-2024012,2023-11-04,CUST-1387,Consumer,West,Office Supplies,Art,102.14,1,0.0,102.14,47.3,Bank Transfer,3.0,11,Nov,4
+ORD-2024013,2023-11-04,CUST-1212,Consumer,West,Office Supplies,Appliances,75.88,4,0.0,303.5,109.32,Credit Card,4.0,11,Nov,4
+ORD-2024014,2023-11-04,CUST-1223,Consumer,North,Technology,Laptops,355.45,1,0.0,355.45,90.3,PayPal,4.0,11,Nov,4
+ORD-2024015,2023-11-05,CUST-1302,Home Office,North,Office Supplies,Art,51.34,2,0.0,102.67,52.49,Credit Card,4.0,11,Nov,4
+ORD-2024016,2023-11-05,CUST-1389,Consumer,West,Technology,Laptops,365.54,1,0.1,328.98,93.6,Bank Transfer,4.0,11,Nov,4
+ORD-2024017,2023-11-05,CUST-1067,Home Office,West,Technology,Phones,1189.48,3,0.0,3568.44,1074.12,Credit Card,3.0,11,Nov,4
+ORD-2024018,2023-11-06,CUST-1188,Home Office,Central,Office Supplies,Storage,47.33,2,0.1,85.2,29.04,PayPal,4.0,11,Nov,4
+ORD-2024019,2023-11-06,CUST-1145,Home Office,Central,Furniture,Bookcases,497.93,1,0.0,497.93,115.08,Credit Card,4.0,11,Nov,4
+ORD-2024020,2023-11-06,CUST-1141,Home Office,North,Technology,Printers,537.33,2,0.15,913.46,200.33,PayPal,4.0,11,Nov,4
+ORD-2024021,2023-11-06,CUST-1174,Consumer,West,Office Supplies,Paper,70.96,1,0.05,67.41,31.3,Credit Card,3.0,11,Nov,4
+ORD-2024022,2023-11-07,CUST-1006,Consumer,East,Office Supplies,Storage,24.52,4,0.05,93.18,32.64,Credit Card,1.0,11,Nov,4
+ORD-2024023,2023-11-07,CUST-1368,Corporate,South,Technology,Phones,684.96,2,0.1,1232.92,257.44,Bank Transfer,3.0,11,Nov,4
+ORD-2024024,2023-11-07,CUST-1309,Corporate,West,Office Supplies,Art,133.44,1,0.0,133.44,56.32,Bank Transfer,3.0,11,Nov,4
+ORD-2024025,2023-11-08,CUST-1072,Consumer,East,Office Supplies,Paper,86.19,3,0.05,245.64,91.03,PayPal,5.0,11,Nov,4
+ORD-2024026,2023-11-08,CUST-1202,Corporate,East,Technology,Laptops,224.56,1,0.1,202.1,37.32,Bank Transfer,5.0,11,Nov,4
+ORD-2024027,2023-11-08,CUST-1179,Consumer,South,Technology,Laptops,244.83,2,0.0,489.67,154.54,PayPal,4.0,11,Nov,4
+ORD-2024028,2023-11-09,CUST-1200,Corporate,East,Office Supplies,Storage,79.24,2,0.05,150.56,72.55,PayPal,2.0,11,Nov,4
+ORD-2024029,2023-11-09,CUST-1355,Corporate,North,Furniture,Bookcases,363.49,1,0.0,363.49,90.81,UPI,4.0,11,Nov,4
+ORD-2024030,2023-11-09,CUST-1040,Corporate,South,Office Supplies,Paper,53.41,1,0.05,50.74,24.02,Credit Card,3.0,11,Nov,4
+ORD-2024031,2023-11-09,CUST-1311,Home Office,North,Office Supplies,Art,125.32,10,0.05,1190.55,523.88,PayPal,4.0,11,Nov,4
+ORD-2024032,2023-11-10,CUST-1299,Consumer,Central,Technology,Laptops,655.97,2,0.1,1180.74,282.77,PayPal,1.0,11,Nov,4
+ORD-2024033,2023-11-10,CUST-1213,Corporate,North,Furniture,Furnishings,360.09,6,0.0,2160.55,579.9,Credit Card,5.0,11,Nov,4
+ORD-2024034,2023-11-10,CUST-1042,Consumer,South,Furniture,Tables,416.41,1,0.2,333.12,-14.01,PayPal,5.0,11,Nov,4
+ORD-2024035,2023-11-11,CUST-1184,Home Office,Central,Office Supplies,Art,79.66,1,0.05,75.68,39.73,Credit Card,4.0,11,Nov,4
+ORD-2024036,2023-11-11,CUST-1272,Corporate,East,Office Supplies,Art,113.94,2,0.0,227.89,115.32,UPI,4.0,11,Nov,4
+ORD-2024037,2023-11-11,CUST-1154,Consumer,East,Office Supplies,Art,135.2,6,0.0,811.21,369.07,Credit Card,5.0,11,Nov,4
+ORD-2024038,2023-11-12,CUST-1146,Corporate,Central,Furniture,Bookcases,504.82,2,0.0,1009.64,175.0,UPI,4.0,11,Nov,4
+ORD-2024039,2023-11-12,CUST-1233,Corporate,East,Technology,Phones,200.37,2,0.05,380.7,87.24,Credit Card,1.0,11,Nov,4
+ORD-2024040,2023-11-12,CUST-1247,Consumer,Central,Technology,Laptops,375.77,1,0.0,375.77,138.77,Bank Transfer,5.0,11,Nov,4
+ORD-2024041,2023-11-13,CUST-1083,Consumer,East,Furniture,Furnishings,574.89,3,0.05,1638.44,367.18,Credit Card,4.0,11,Nov,4
+ORD-2024042,2023-11-13,CUST-1112,Corporate,North,Office Supplies,Art,143.71,5,0.15,610.78,259.69,UPI,4.0,11,Nov,4
+ORD-2024043,2023-11-13,CUST-1365,Consumer,North,Furniture,Tables,195.02,2,0.15,331.54,54.71,Credit Card,4.0,11,Nov,4
+ORD-2024044,2023-11-13,CUST-1346,Corporate,Central,Office Supplies,Binders,15.26,1,0.0,15.26,7.52,Credit Card,4.0,11,Nov,4
+ORD-2024045,2023-11-14,CUST-1192,Home Office,West,Technology,Printers,564.36,2,0.0,1128.72,388.43,PayPal,4.0,11,Nov,4
+ORD-2024046,2023-11-14,CUST-1388,Corporate,South,Furniture,Bookcases,165.46,2,0.0,330.93,60.76,Credit Card,3.0,11,Nov,4
+ORD-2024047,2023-11-14,CUST-1339,Corporate,East,Technology,Printers,758.59,5,0.05,3603.31,828.48,Credit Card,4.0,11,Nov,4
+ORD-2024048,2023-11-15,CUST-1201,Consumer,West,Furniture,Chairs,66.83,2,0.0,133.67,34.42,Credit Card,5.0,11,Nov,4
+ORD-2024049,2023-11-15,CUST-1360,Consumer,South,Office Supplies,Appliances,100.41,6,0.0,602.46,317.18,UPI,4.0,11,Nov,4
+ORD-2024050,2023-11-15,CUST-1388,Home Office,South,Furniture,Furnishings,417.37,1,0.05,396.5,53.86,PayPal,3.0,11,Nov,4
+ORD-2024051,2023-11-16,CUST-1130,Corporate,North,Technology,Accessories,380.99,3,0.0,1142.97,455.68,Bank Transfer,3.0,11,Nov,4
+ORD-2024052,2023-11-16,CUST-1324,Consumer,South,Office Supplies,Paper,67.19,4,0.0,268.75,129.07,Credit Card,5.0,11,Nov,4
+ORD-2024053,2023-11-16,CUST-1239,Consumer,North,Office Supplies,Binders,52.13,4,0.0,208.53,92.19,Credit Card,3.0,11,Nov,4
+ORD-2024054,2023-11-16,CUST-1202,Corporate,North,Furniture,Bookcases,286.36,1,0.3,200.45,-21.22,Credit Card,4.0,11,Nov,4
+ORD-2024055,2023-11-17,CUST-1357,Home Office,West,Furniture,Chairs,338.34,1,0.0,338.34,89.88,Credit Card,4.0,11,Nov,4
+ORD-2024056,2023-11-17,CUST-1397,Home Office,East,Technology,Accessories,649.01,2,0.15,1103.32,158.12,Credit Card,2.0,11,Nov,4
+ORD-2024057,2023-11-17,CUST-1079,Corporate,Central,Furniture,Tables,441.57,5,0.0,2207.87,499.01,Credit Card,3.0,11,Nov,4
+ORD-2024058,2023-11-18,CUST-1260,Home Office,East,Office Supplies,Art,142.94,1,0.05,135.79,61.76,Credit Card,5.0,11,Nov,4
+ORD-2024059,2023-11-18,CUST-1077,Consumer,East,Office Supplies,Binders,91.93,5,0.0,459.65,226.98,Credit Card,4.0,11,Nov,4
+ORD-2024060,2023-11-18,CUST-1397,Consumer,East,Office Supplies,Storage,66.72,2,0.15,113.43,47.76,PayPal,3.0,11,Nov,4
+ORD-2024061,2023-11-19,CUST-1140,Consumer,West,Technology,Phones,1034.93,2,0.0,2069.85,678.43,PayPal,3.0,11,Nov,4
+ORD-2024062,2023-11-19,CUST-1070,Corporate,East,Technology,Printers,981.78,1,0.0,981.78,319.85,PayPal,5.0,11,Nov,4
+ORD-2024063,2023-11-19,CUST-1330,Corporate,North,Technology,Phones,1084.62,1,0.0,1084.62,294.09,PayPal,4.0,11,Nov,4
+ORD-2024064,2023-11-20,CUST-1141,Corporate,South,Furniture,Tables,63.95,1,0.15,54.36,2.4,Credit Card,4.0,11,Nov,4
+ORD-2024065,2023-11-20,CUST-1370,Consumer,North,Technology,Printers,963.9,1,0.2,771.12,130.16,Credit Card,1.0,11,Nov,4
+ORD-2024066,2023-11-20,CUST-1044,Consumer,Central,Furniture,Tables,551.48,4,0.0,2205.9,347.7,UPI,5.0,11,Nov,4
+ORD-2024067,2023-11-20,CUST-1030,Corporate,North,Technology,Printers,184.26,6,0.0,1105.53,285.36,Credit Card,5.0,11,Nov,4
+ORD-2024068,2023-11-21,CUST-1193,Corporate,Central,Technology,Accessories,1122.47,1,0.2,897.97,160.7,Credit Card,4.0,11,Nov,4
+ORD-2024069,2023-11-21,CUST-1246,Consumer,East,Furniture,Bookcases,457.08,6,0.1,2468.24,364.15,PayPal,4.0,11,Nov,4
+ORD-2024070,2023-11-21,CUST-1325,Home Office,South,Office Supplies,Appliances,51.98,1,0.0,51.98,26.36,Bank Transfer,4.0,11,Nov,4
+ORD-2024071,2023-11-22,CUST-1260,Home Office,East,Technology,Printers,1063.93,6,0.1,5745.23,1570.89,Credit Card,4.0,11,Nov,4
+ORD-2024072,2023-11-22,CUST-1210,Corporate,South,Office Supplies,Paper,17.33,3,0.2,41.59,8.33,PayPal,4.0,11,Nov,4
+ORD-2024073,2023-11-22,CUST-1147,Home Office,South,Technology,Laptops,1068.73,3,0.2,2564.94,196.82,Credit Card,5.0,11,Nov,4
+ORD-2024074,2023-11-23,CUST-1049,Home Office,East,Technology,Printers,633.34,1,0.05,601.68,167.86,Bank Transfer,1.0,11,Nov,4
+ORD-2024075,2023-11-23,CUST-1062,Consumer,West,Technology,Accessories,988.71,3,0.0,2966.13,765.92,UPI,5.0,11,Nov,4
+ORD-2024076,2023-11-23,CUST-1186,Corporate,South,Office Supplies,Appliances,109.82,2,0.05,208.67,108.06,Credit Card,1.0,11,Nov,4
+ORD-2024077,2023-11-23,CUST-1351,Consumer,East,Office Supplies,Binders,72.91,1,0.0,72.91,33.94,Credit Card,3.0,11,Nov,4
+ORD-2024078,2023-11-24,CUST-1347,Corporate,North,Office Supplies,Appliances,21.46,1,0.05,20.39,9.44,Credit Card,5.0,11,Nov,4
+ORD-2024079,2023-11-24,CUST-1217,Corporate,South,Furniture,Bookcases,200.61,4,0.3,561.72,-15.8,Credit Card,4.0,11,Nov,4
+ORD-2024080,2023-11-24,CUST-1264,Consumer,Central,Furniture,Tables,358.0,3,0.3,751.8,-72.56,Bank Transfer,1.0,11,Nov,4
+ORD-2024081,2023-11-25,CUST-1301,Consumer,West,Technology,Accessories,1017.58,10,0.0,10175.83,2954.03,Bank Transfer,5.0,11,Nov,4
+ORD-2024082,2023-11-25,CUST-1312,Consumer,West,Office Supplies,Storage,84.53,3,0.1,228.22,99.29,Credit Card,1.0,11,Nov,4
+ORD-2024083,2023-11-25,CUST-1139,Home Office,South,Furniture,Chairs,564.55,1,0.3,395.19,-80.43,Credit Card,4.0,11,Nov,4
+ORD-2024084,2023-11-26,CUST-1020,Home Office,South,Office Supplies,Appliances,72.71,4,0.0,290.85,110.45,Credit Card,4.0,11,Nov,4
+ORD-2024085,2023-11-26,CUST-1005,Consumer,Central,Furniture,Chairs,428.5,4,0.2,1371.19,-82.09,Credit Card,5.0,11,Nov,4
+ORD-2024086,2023-11-26,CUST-1054,Consumer,North,Office Supplies,Binders,119.49,1,0.1,107.54,34.36,Credit Card,3.0,11,Nov,4
+ORD-2024087,2023-11-26,CUST-1206,Consumer,East,Technology,Accessories,855.71,1,0.15,727.35,181.55,Bank Transfer,3.0,11,Nov,4
+ORD-2024088,2023-11-27,CUST-1085,Consumer,East,Furniture,Chairs,97.29,3,0.2,233.49,-7.73,PayPal,5.0,11,Nov,4
+ORD-2024089,2023-11-27,CUST-1243,Home Office,East,Furniture,Bookcases,66.93,5,0.15,284.46,13.86,PayPal,4.0,11,Nov,4
+ORD-2024090,2023-11-27,CUST-1391,Corporate,South,Technology,Printers,822.09,1,0.0,822.09,253.9,PayPal,2.0,11,Nov,4
+ORD-2024091,2023-11-28,CUST-1197,Consumer,East,Furniture,Chairs,567.63,2,0.1,1021.73,188.37,Bank Transfer,5.0,11,Nov,4
+ORD-2024092,2023-11-28,CUST-1030,Consumer,North,Furniture,Furnishings,261.08,3,0.1,704.9,140.01,Credit Card,5.0,11,Nov,4
+ORD-2024093,2023-11-28,CUST-1112,Consumer,Central,Furniture,Chairs,207.26,1,0.05,196.89,38.53,PayPal,3.0,11,Nov,4
+ORD-2024094,2023-11-29,CUST-1172,Corporate,South,Office Supplies,Appliances,51.77,4,0.05,196.74,76.31,Credit Card,4.0,11,Nov,4
+ORD-2024095,2023-11-29,CUST-1383,Corporate,North,Office Supplies,Binders,80.28,1,0.1,72.25,26.68,Credit Card,3.0,11,Nov,4
+ORD-2024096,2023-11-29,CUST-1116,Consumer,East,Furniture,Tables,584.04,2,0.0,1168.07,178.17,UPI,4.0,11,Nov,4
+ORD-2024097,2023-11-30,CUST-1216,Consumer,North,Furniture,Chairs,501.59,1,0.0,501.59,109.41,PayPal,3.0,11,Nov,4
+ORD-2024098,2023-11-30,CUST-1076,Home Office,East,Technology,Laptops,947.06,3,0.0,2841.19,811.28,Credit Card,4.0,11,Nov,4
+ORD-2024099,2023-11-30,CUST-1290,Corporate,North,Furniture,Bookcases,131.05,5,0.1,589.73,62.82,Credit Card,2.0,11,Nov,4
+ORD-2024100,2023-11-30,CUST-1337,Corporate,East,Technology,Printers,483.84,3,0.0,1451.51,460.02,Credit Card,4.0,11,Nov,4
+ORD-2024101,2023-12-01,CUST-1368,Consumer,South,Technology,Laptops,357.55,1,0.0,357.55,113.6,Credit Card,5.0,12,Dec,4
+ORD-2024102,2023-12-01,CUST-1135,Home Office,West,Office Supplies,Appliances,51.62,1,0.15,43.88,20.04,Bank Transfer,4.0,12,Dec,4
+ORD-2024103,2023-12-01,CUST-1052,Corporate,East,Furniture,Furnishings,177.55,6,0.0,1065.27,312.12,Credit Card,2.0,12,Dec,4
+ORD-2024104,2023-12-02,CUST-1077,Home Office,North,Technology,Laptops,1080.89,1,0.05,1026.85,259.99,Credit Card,3.0,12,Dec,4
+ORD-2024105,2023-12-02,CUST-1350,Home Office,East,Office Supplies,Binders,110.66,2,0.0,221.32,86.28,Credit Card,5.0,12,Dec,4
+ORD-2024106,2023-12-02,CUST-1309,Consumer,South,Office Supplies,Binders,93.67,1,0.0,93.67,36.55,UPI,5.0,12,Dec,4
+ORD-2024107,2023-12-03,CUST-1313,Consumer,North,Office Supplies,Binders,115.35,1,0.05,109.58,36.06,Credit Card,3.0,12,Dec,4
+ORD-2024108,2023-12-03,CUST-1135,Corporate,South,Office Supplies,Binders,138.45,3,0.05,394.59,170.29,Credit Card,3.0,12,Dec,4
+ORD-2024109,2023-12-03,CUST-1257,Corporate,West,Technology,Laptops,446.44,1,0.15,379.48,79.37,UPI,4.0,12,Dec,4
+ORD-2024110,2023-12-03,CUST-1308,Home Office,South,Technology,Accessories,815.84,3,0.0,2447.51,932.48,Credit Card,5.0,12,Dec,4
+ORD-2024111,2023-12-04,CUST-1294,Home Office,North,Furniture,Tables,516.17,2,0.2,825.87,5.76,Bank Transfer,3.0,12,Dec,4
+ORD-2024112,2023-12-04,CUST-1323,Consumer,South,Technology,Laptops,470.65,2,0.15,800.11,104.65,PayPal,4.0,12,Dec,4
+ORD-2024113,2023-12-04,CUST-1009,Corporate,West,Technology,Accessories,533.3,3,0.0,1599.89,615.9,PayPal,3.0,12,Dec,4
+ORD-2024114,2023-12-05,CUST-1083,Consumer,West,Office Supplies,Appliances,81.09,6,0.2,389.23,122.04,Bank Transfer,3.0,12,Dec,4
+ORD-2024115,2023-12-05,CUST-1388,Corporate,East,Technology,Accessories,890.62,4,0.0,3562.5,1201.91,Bank Transfer,3.0,12,Dec,4
+ORD-2024116,2023-12-05,CUST-1086,Consumer,East,Technology,Phones,532.51,2,0.05,1011.76,335.92,Credit Card,4.0,12,Dec,4
+ORD-2024117,2023-12-06,CUST-1191,Consumer,Central,Furniture,Chairs,425.83,3,0.15,1085.88,141.33,Credit Card,5.0,12,Dec,4
+ORD-2024118,2023-12-06,CUST-1219,Corporate,North,Office Supplies,Art,95.38,1,0.15,81.07,24.3,PayPal,4.0,12,Dec,4
+ORD-2024119,2023-12-06,CUST-1237,Consumer,South,Technology,Printers,510.6,4,0.05,1940.29,592.02,UPI,3.0,12,Dec,4
+ORD-2024120,2023-12-07,CUST-1177,Corporate,East,Office Supplies,Storage,17.47,1,0.3,12.23,2.98,Credit Card,5.0,12,Dec,4
+ORD-2024121,2023-12-07,CUST-1379,Corporate,West,Furniture,Bookcases,535.85,1,0.0,535.85,147.86,Credit Card,4.0,12,Dec,4
+ORD-2024122,2023-12-07,CUST-1165,Corporate,East,Furniture,Chairs,256.61,3,0.15,654.35,99.19,PayPal,1.0,12,Dec,4
+ORD-2024123,2023-12-07,CUST-1030,Consumer,South,Technology,Phones,415.06,8,0.0,3320.52,1041.06,Credit Card,2.0,12,Dec,4
+ORD-2024124,2023-12-08,CUST-1033,Home Office,Central,Furniture,Bookcases,328.5,3,0.15,837.69,60.01,Credit Card,5.0,12,Dec,4
+ORD-2024125,2023-12-08,CUST-1011,Corporate,North,Furniture,Tables,116.97,2,0.1,210.55,16.43,Credit Card,4.0,12,Dec,4
+ORD-2024126,2023-12-08,CUST-1111,Consumer,South,Furniture,Bookcases,319.69,1,0.05,319.69,80.71,Credit Card,2.0,12,Dec,4
+ORD-2024127,2023-12-09,CUST-1005,Consumer,East,Office Supplies,Appliances,36.34,4,0.05,138.09,46.86,Bank Transfer,4.0,12,Dec,4
+ORD-2024128,2023-12-09,CUST-1251,Consumer,Central,Office Supplies,Storage,90.06,2,0.05,171.12,79.05,Credit Card,4.0,12,Dec,4
+ORD-2024129,2023-12-09,CUST-1068,Consumer,South,Furniture,Bookcases,524.68,2,0.3,734.55,-82.73,Credit Card,4.0,12,Dec,4
+ORD-2024130,2023-12-10,CUST-1068,Consumer,North,Office Supplies,Art,108.1,6,0.0,648.59,323.3,Credit Card,2.0,12,Dec,4
+ORD-2024131,2023-12-10,CUST-1282,Corporate,Central,Furniture,Bookcases,120.68,4,0.15,410.3,66.05,Bank Transfer,5.0,12,Dec,4
+ORD-2024132,2023-12-10,CUST-1354,Consumer,North,Technology,Accessories,1113.69,2,0.0,2227.39,844.3,Credit Card,1.0,12,Dec,4
+ORD-2024133,2023-12-10,CUST-1045,Consumer,East,Technology,Accessories,622.53,1,0.0,622.53,194.5,Credit Card,4.0,12,Dec,4
+ORD-2024134,2023-12-11,CUST-1189,Corporate,West,Furniture,Furnishings,509.79,4,0.05,1937.21,472.26,UPI,5.0,12,Dec,4
+ORD-2024135,2023-12-11,CUST-1073,Corporate,West,Technology,Accessories,450.5,2,0.05,855.94,281.27,UPI,5.0,12,Dec,4
+ORD-2024136,2023-12-11,CUST-1049,Home Office,South,Technology,Phones,463.74,10,0.1,4173.69,794.15,Bank Transfer,5.0,12,Dec,4
+ORD-2024137,2023-12-12,CUST-1281,Home Office,West,Technology,Printers,172.22,1,0.0,172.22,60.19,UPI,1.0,12,Dec,4
+ORD-2024138,2023-12-12,CUST-1013,Corporate,East,Technology,Accessories,379.18,1,0.05,360.22,123.37,Credit Card,5.0,12,Dec,4
+ORD-2024139,2023-12-12,CUST-1280,Corporate,South,Technology,Printers,836.16,2,0.15,1421.48,347.95,UPI,3.0,12,Dec,4
+ORD-2024140,2023-12-13,CUST-1358,Home Office,Central,Technology,Accessories,244.37,2,0.0,488.74,185.82,Credit Card,3.0,12,Dec,4
+ORD-2024141,2023-12-13,CUST-1097,Home Office,South,Furniture,Furnishings,379.46,1,0.1,341.51,27.15,Credit Card,3.0,12,Dec,4
+ORD-2024142,2023-12-13,CUST-1096,Corporate,South,Office Supplies,Binders,53.6,5,0.05,254.58,127.5,PayPal,4.0,12,Dec,4
+ORD-2024143,2023-12-13,CUST-1180,Corporate,South,Technology,Accessories,286.47,2,0.1,515.64,129.19,UPI,5.0,12,Dec,4
+ORD-2024144,2023-12-14,CUST-1332,Home Office,Central,Furniture,Chairs,302.26,2,0.0,604.53,111.67,UPI,1.0,12,Dec,4
+ORD-2024145,2023-12-14,CUST-1020,Consumer,Central,Technology,Laptops,900.98,2,0.15,1531.67,440.58,PayPal,5.0,12,Dec,4
+ORD-2024146,2023-12-14,CUST-1335,Corporate,West,Office Supplies,Binders,25.65,1,0.05,24.37,9.93,PayPal,3.0,12,Dec,4
+ORD-2024147,2023-12-15,CUST-1154,Corporate,West,Technology,Phones,1162.74,1,0.15,988.32,264.3,Credit Card,1.0,12,Dec,4
+ORD-2024148,2023-12-15,CUST-1372,Consumer,South,Office Supplies,Art,146.54,3,0.0,439.62,179.85,Bank Transfer,4.0,12,Dec,4
+ORD-2024149,2023-12-15,CUST-1175,Consumer,West,Furniture,Furnishings,418.61,2,0.05,795.36,117.28,Bank Transfer,2.0,12,Dec,4
+ORD-2024150,2023-12-16,CUST-1257,Corporate,South,Technology,Printers,441.71,5,0.05,2098.12,551.95,PayPal,3.0,12,Dec,4
+ORD-2024151,2023-12-16,CUST-1371,Consumer,North,Office Supplies,Art,82.18,1,0.15,69.85,23.51,Credit Card,5.0,12,Dec,4
+ORD-2024152,2023-12-16,CUST-1165,Corporate,West,Furniture,Furnishings,209.76,6,0.0,1258.59,313.44,Credit Card,4.0,12,Dec,4
+ORD-2024153,2023-12-17,CUST-1105,Corporate,North,Office Supplies,Binders,92.42,1,0.0,92.42,36.45,Credit Card,4.0,12,Dec,4
+ORD-2024154,2023-12-17,CUST-1101,Home Office,North,Furniture,Chairs,546.65,1,0.3,382.66,-66.75,Credit Card,5.0,12,Dec,4
+ORD-2024155,2023-12-17,CUST-1287,Corporate,North,Office Supplies,Art,84.48,4,0.15,287.22,111.05,UPI,1.0,12,Dec,4
+ORD-2024156,2023-12-17,CUST-1381,Corporate,North,Furniture,Chairs,94.7,3,0.1,255.7,55.93,UPI,4.0,12,Dec,4
+ORD-2024157,2023-12-18,CUST-1356,Home Office,Central,Furniture,Furnishings,491.72,3,0.15,1253.88,126.86,PayPal,3.0,12,Dec,4
+ORD-2024158,2023-12-18,CUST-1204,Corporate,North,Furniture,Tables,184.11,2,0.0,368.22,94.01,PayPal,2.0,12,Dec,4
+ORD-2024159,2023-12-18,CUST-1191,Consumer,South,Technology,Phones,220.38,3,0.0,661.14,175.63,Credit Card,5.0,12,Dec,4
+ORD-2024160,2023-12-19,CUST-1268,Corporate,West,Technology,Laptops,968.96,2,0.0,1937.92,636.25,UPI,4.0,12,Dec,4
+ORD-2024161,2023-12-19,CUST-1379,Consumer,North,Office Supplies,Binders,16.72,1,0.1,15.05,5.63,PayPal,3.0,12,Dec,4
+ORD-2024162,2023-12-19,CUST-1387,Home Office,North,Technology,Phones,172.08,1,0.1,154.87,39.6,PayPal,2.0,12,Dec,4
+ORD-2024163,2023-12-20,CUST-1006,Consumer,West,Furniture,Bookcases,278.84,2,0.0,557.68,159.49,Credit Card,3.0,12,Dec,4
+ORD-2024164,2023-12-20,CUST-1125,Consumer,South,Office Supplies,Paper,86.88,10,0.0,868.82,352.42,Credit Card,4.0,12,Dec,4
+ORD-2024165,2023-12-20,CUST-1002,Consumer,West,Office Supplies,Appliances,60.42,1,0.0,60.42,32.68,PayPal,5.0,12,Dec,4
+ORD-2024166,2023-12-20,CUST-1212,Consumer,East,Furniture,Bookcases,294.1,3,0.2,705.83,55.66,Credit Card,5.0,12,Dec,4
+ORD-2024167,2023-12-21,CUST-1144,Home Office,East,Office Supplies,Paper,48.51,1,0.05,46.08,22.88,Credit Card,4.0,12,Dec,4
+ORD-2024168,2023-12-21,CUST-1258,Consumer,North,Technology,Accessories,869.04,3,0.05,2476.78,584.89,Credit Card,5.0,12,Dec,4
+ORD-2024169,2023-12-21,CUST-1319,Consumer,East,Technology,Laptops,1086.96,3,0.0,3260.87,971.75,Credit Card,2.0,12,Dec,4
+ORD-2024170,2023-12-22,CUST-1361,Corporate,North,Office Supplies,Appliances,139.87,1,0.2,111.9,25.99,Credit Card,3.0,12,Dec,4
+ORD-2024171,2023-12-22,CUST-1106,Consumer,South,Office Supplies,Binders,90.77,8,0.05,689.85,238.92,Credit Card,4.0,12,Dec,4
+ORD-2024172,2023-12-22,CUST-1350,Consumer,Central,Furniture,Bookcases,66.59,1,0.0,66.59,10.41,Credit Card,5.0,12,Dec,4
+ORD-2024173,2023-12-23,CUST-1029,Consumer,East,Furniture,Tables,301.95,1,0.1,271.75,24.5,Bank Transfer,5.0,12,Dec,4
+ORD-2024174,2023-12-23,CUST-1258,Consumer,East,Office Supplies,Appliances,83.25,3,0.05,237.25,79.96,Credit Card,4.0,12,Dec,4
+ORD-2024175,2023-12-23,CUST-1281,Home Office,West,Technology,Laptops,757.64,6,0.05,4318.52,1149.99,Credit Card,4.0,12,Dec,4
+ORD-2024176,2023-12-24,CUST-1390,Consumer,South,Technology,Laptops,408.19,6,0.1,2204.24,559.61,PayPal,4.0,12,Dec,4
+ORD-2024177,2023-12-24,CUST-1332,Corporate,East,Office Supplies,Binders,58.53,4,0.0,234.12,119.33,Credit Card,4.0,12,Dec,4
+ORD-2024178,2023-12-24,CUST-1052,Corporate,West,Furniture,Chairs,228.57,5,0.0,1142.87,215.92,Credit Card,5.0,12,Dec,4
+ORD-2024179,2023-12-24,CUST-1222,Consumer,Central,Furniture,Tables,488.48,4,0.15,1660.84,204.64,Credit Card,4.0,12,Dec,4
+ORD-2024180,2023-12-25,CUST-1256,Consumer,West,Office Supplies,Art,149.39,2,0.15,253.95,114.92,Bank Transfer,5.0,12,Dec,4
+ORD-2024181,2023-12-25,CUST-1373,Corporate,Central,Technology,Phones,493.92,1,0.3,345.75,-19.0,PayPal,4.0,12,Dec,4
+ORD-2024182,2023-12-25,CUST-1021,Consumer,Central,Technology,Laptops,1027.53,1,0.15,873.4,221.47,PayPal,2.0,12,Dec,4
+ORD-2024183,2023-12-26,CUST-1361,Corporate,North,Office Supplies,Binders,73.44,6,0.15,374.55,162.49,Bank Transfer,4.0,12,Dec,4
+ORD-2024184,2023-12-26,CUST-1231,Consumer,West,Furniture,Bookcases,168.38,2,0.15,286.24,34.14,Bank Transfer,4.0,12,Dec,4
+ORD-2024185,2023-12-26,CUST-1369,Consumer,West,Furniture,Bookcases,386.63,1,0.05,367.3,74.8,Credit Card,2.0,12,Dec,4
+ORD-2024186,2023-12-27,CUST-1358,Corporate,West,Office Supplies,Paper,15.32,2,0.0,30.64,13.14,Credit Card,5.0,12,Dec,4
+ORD-2024187,2023-12-27,CUST-1114,Consumer,West,Furniture,Chairs,436.57,2,0.05,829.48,137.86,PayPal,3.0,12,Dec,4
+ORD-2024188,2023-12-27,CUST-1176,Consumer,South,Technology,Phones,995.97,1,0.1,896.37,274.64,Credit Card,5.0,12,Dec,4
+ORD-2024189,2023-12-27,CUST-1092,Consumer,North,Office Supplies,Appliances,135.75,2,0.0,271.5,117.76,PayPal,4.0,12,Dec,4
+ORD-2024190,2023-12-28,CUST-1002,Corporate,South,Furniture,Furnishings,320.13,1,0.0,320.13,63.27,Credit Card,2.0,12,Dec,4
+ORD-2024191,2023-12-28,CUST-1337,Corporate,East,Technology,Printers,502.25,2,0.0,1004.5,389.39,PayPal,5.0,12,Dec,4
+ORD-2024192,2023-12-28,CUST-1099,Consumer,Central,Technology,Phones,960.4,1,0.3,672.28,-33.36,Credit Card,2.0,12,Dec,4
+ORD-2024193,2023-12-29,CUST-1013,Consumer,North,Office Supplies,Paper,14.64,1,0.3,10.25,3.35,PayPal,5.0,12,Dec,4
+ORD-2024194,2023-12-29,CUST-1102,Corporate,East,Furniture,Tables,223.0,2,0.15,379.1,29.36,UPI,4.0,12,Dec,4
+ORD-2024195,2023-12-29,CUST-1073,Corporate,South,Furniture,Furnishings,71.66,3,0.0,214.99,52.78,UPI,2.0,12,Dec,4
+ORD-2024196,2023-12-30,CUST-1094,Consumer,Central,Office Supplies,Storage,124.18,6,0.1,670.56,243.2,Credit Card,4.0,12,Dec,4
+ORD-2024197,2023-12-30,CUST-1373,Corporate,West,Office Supplies,Art,50.94,1,0.05,48.4,24.65,Credit Card,5.0,12,Dec,4
+ORD-2024198,2023-12-30,CUST-1233,Home Office,East,Technology,Printers,779.13,2,0.2,1246.62,289.3,PayPal,3.0,12,Dec,4
+ORD-2024199,2023-12-31,CUST-1378,Consumer,East,Furniture,Furnishings,577.28,3,0.1,1558.66,301.59,PayPal,4.0,12,Dec,4
